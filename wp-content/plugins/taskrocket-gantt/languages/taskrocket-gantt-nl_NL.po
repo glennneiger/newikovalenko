@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Task Rocket Gantt\n"
+"POT-Creation-Date: 2017-06-29 09:30+0200\n"
+"PO-Revision-Date: 2017-08-06 10:57+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: taskrocket-gantt.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Stuc-groep.nl (D.Vink) <Info@stuc-groep.nl>\n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: gantt/script.php:127
+msgid "Project manager"
+msgstr "Projectbeheerder"
+
+#: gantt/script.php:127 gantt/script.php:256
+msgid "Start date"
+msgstr "Startdatum"
+
+#: gantt/script.php:127
+msgid "Due date"
+msgstr "Vervaldatum"
+
+#: gantt/script.php:127
+msgid "Time allocated"
+msgstr "Toegewezen tijd"
+
+#: gantt/script.php:127
+msgid "Time spent"
+msgstr "Tijd besteed"
+
+#: gantt/script.php:127
+msgid "hrs"
+msgstr "uren"
+
+#: gantt/script.php:127
+msgid "mins"
+msgstr "min."
+
+#: gantt/script.php:127 gantt/script.php:256
+msgid "Job #"
+msgstr "Werk #"
+
+#: gantt/script.php:230
+msgid "Incomplete"
+msgstr "Onvolledig"
+
+#: gantt/script.php:233
+msgid "On hold"
+msgstr "In wacht"
+
+#: gantt/script.php:236
+msgid "In progress"
+msgstr "In uitvoering"
+
+#: gantt/script.php:239
+msgid "Complete"
+msgstr "Voltooid"
+
+#: gantt/script.php:256
+msgid "Owner"
+msgstr "Eigenaar"
+
+#: gantt/script.php:256
+msgid "End date"
+msgstr "Vervaldatum"
+
+#: gantt/script.php:256
+msgid "Priority"
+msgstr "Prioriteit"
+
+#: gantt/script.php:256
+msgid "Status"
+msgstr "Status"
+
+#: gantt/script.php:256
+msgid "Comments"
+msgstr "Reacties"
+
+#: gantt/script.php:270
+msgid "Please wait"
+msgstr "Even geduld"
+
+#: options.php:1
+msgid "Gantt Settings"
+msgstr "Gantt Instellingen"
+
+#: options.php:8
+msgid ""
+"Gantt requires Task Rocket version 4 or higher, and you are running version:"
+msgstr "Gantt vereist Task Rocket versie 4 of hoger, en u heeft versie:"
+
+#: options.php:11
+#, php-format
+msgid "<a href=\"%s\">Update Now</a>"
+msgstr "<a href=\"%s\">Update nu</a>"
+
+#: options.php:20
+msgid "Show the Gantt chart"
+msgstr "Toon de Gantt-grafiek"
+
+#: options.php:23
+msgid ""
+"Show the Gantt chart at these locations. (Note: Items only show in Gantt "
+"charts if they have both start and end dates.)"
+msgstr ""
+"Toon de Gantt-grafiek op deze locaties. (Opgelet: Items in Gantt-diagrammen "
+"worden enkel getoond als ze zowel een start- als einddatum hebben.)"
+
+#: options.php:26
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: options.php:30
+msgid "All Active Projects"
+msgstr "Alle Actieve Projecten"
+
+#: options.php:34
+msgid "Project (individual)"
+msgstr "Project (individueel)"
+
+#: options.php:38
+msgid "Reports"
+msgstr "Rapporten"
+
+#: options.php:42
+msgid "Report (individual)"
+msgstr "Rapport (Individueel)"
+
+#: options.php:46
+msgid "Client projects (only for projects they have access to)"
+msgstr "Klantprojecten (alleen voor projecten waartoe zij toegang hebben)"
+
+#: options.php:53
+msgid "All projects view scale"
+msgstr "Alle projecten startschaal"
+
+#: options.php:56
+msgid ""
+"The initial overview scale when all projects are shown in the Gantt chart."
+msgstr ""
+"De startschaal bij het weergeven van alle projecten in de Gantt-grafiek."
+
+#: options.php:59 options.php:75
+msgid "Hours"
+msgstr "Uren"
+
+#: options.php:60 options.php:76
+msgid "Days"
+msgstr "Dagen"
+
+#: options.php:61 options.php:77
+msgid "Weeks"
+msgstr "Weken"
+
+#: options.php:62 options.php:78
+msgid "Months"
+msgstr "Maanden"
+
+#: options.php:69
+msgid "Individual projects view scale"
+msgstr "Individuele projecten bekijk schaal"
+
+#: options.php:72
+msgid ""
+"The initial overview scale when viewing an individual project in the Gantt "
+"chart."
+msgstr ""
+"De startschaal bij het bekijken van een individueel project in de Gantt-"
+"grafiek."
+
+#: options.php:85
+msgid "Hide completed tasks"
+msgstr "Verberg voltooide taken"
+
+#: options.php:88
+msgid "Do not show completed tasks in the Gantt chart."
+msgstr "Toon geen voltooide taken in de Gantt-grafiek."
+
+#: options.php:95
+msgid "Pagination"
+msgstr "Paginering"
+
+#: options.php:99
+msgid "How many items to show per vertical pagination."
+msgstr "Hoeveel items tonen per verticale paginering."
+
+#: options.php:106
+msgid "Navigation"
+msgstr "Navigatie"
+
+#: options.php:109
+msgid "What type of navigation to use for the Gantt chart."
+msgstr "Welk type navigatie gebruiken voor de Gantt-grafiek."
+
+#: options.php:112
+msgid "Buttons"
+msgstr "Knoppen"
+
+#: options.php:113
+msgid "Slider"
+msgstr "Slider"
+
+#: options.php:120
+msgid "Scroll to today"
+msgstr "Scroll naar vandaag"
+
+#: options.php:123
+msgid "Automatically scroll the Gantt chart to the current day."
+msgstr "Scroll automatisch de Gantt-grafiek naar de huidige dag."
+
+#: options.php:130
+msgid "Show project description"
+msgstr "Toon Projectomschrijving"
+
+#: options.php:133
+msgid ""
+"When hovering over a Gantt item, show the project description if it has one."
+msgstr "Toon de projectomschrijving wanneer je beweegt over een Gantt-item."
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "Er is geen changelog beschikbaar."
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Controleren op updates"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Deze plugin is up-to-date."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Een nieuwe versie van deze plug-in is beschikbaar."
+
+#: plugin-updates/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Onbekende update checker status \"%s\""
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Gantt"
+msgstr "Task Rocket Gantt"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/gantt/"
+msgstr "https://taskrocket.info/gantt/"
+
+#. Description of the plugin/theme
+msgid "Gantt charts for Task Rocket (requires at least Task Rocket 4.0)"
+msgstr "Gantt charts voor Task Rocket (vereist tenminste Task Rocket 4.0)"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

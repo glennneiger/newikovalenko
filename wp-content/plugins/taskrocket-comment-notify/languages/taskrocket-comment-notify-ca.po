@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin-update-checker\n"
+"POT-Creation-Date: 2016-07-29 09:41+0200\n"
+"PO-Revision-Date: 2016-07-29 09:44+0200\n"
+"Last-Translator: Oriol Carbonell <info@oriolcarbonell.cat>\n"
+"Language-Team: eina <info@eina.io>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: notify.php:103
+msgid "View Comment"
+msgstr "Veure comentari"
+
+#: notify.php:106
+msgid "View Project"
+msgstr "Veure projecte"
+
+#: notify.php:117 notify.php:136
+msgid "The task"
+msgstr "La tasca"
+
+#: notify.php:117
+msgid "has a new comment by"
+msgstr "tens un comentari nou de"
+
+#: notify.php:136
+msgid "has a new comment"
+msgstr "tens un comentari nou"
+
+#: notify.php:140
+msgid "New comment on:"
+msgstr "Nou comentari a:"
+
+#: notify.php:142
+msgid "From"
+msgstr "De:"
+
+#: options.php:3
+msgid "When a comment is posted send email notification to:"
+msgstr "Quan un comentari es publica notifica per correu electrònic a:"
+
+#: options.php:6
+msgid "The project manager for the project"
+msgstr "El gestor/a del projecte per al projecte"
+
+#: options.php:10
+msgid "The website administrator"
+msgstr "Lloc web de l'administrador"
+
+#: options.php:14
+msgid "The entire project team"
+msgstr "Tot l'equip del projecte"
+
+#: options.php:18
+msgid "The task owner"
+msgstr "El propietari/a de la tasca"
+
+#: options.php:22
+msgid "Also send notification to:"
+msgstr "També enviar una notificació a:"
+
+#: options.php:25
+msgid ""
+"To specify more than one email address, separate with a comma (without "
+"spaces). Eg: someguy@domain.com,somegirl@domain.com"
+msgstr ""
+"Per especificar més d'una adreça de correu electrònic, separades per "
+"una coma (sense espais). Per exemple: algu@domini.com,algualtre@domini."
+"com"
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "No hi ha canvis disponibles."
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Comprova si hi ha actualitzacions"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Aquest plugin està actualitzat."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Hi ha una nova versió d'aquest plugin."
+
+#: plugin-updates/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Estatus de Comprovador d'actualització desconegut \"%s\""

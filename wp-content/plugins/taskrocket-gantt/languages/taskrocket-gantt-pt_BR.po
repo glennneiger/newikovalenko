@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: Task Rocket Gantt\n"
+"POT-Creation-Date: 2016-12-06 12:49-0200\n"
+"PO-Revision-Date: 2016-12-06 13:29-0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-gantt.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: gantt/script.php:127
+msgid "Project manager"
+msgstr "Gerenciador do projeto"
+
+#: gantt/script.php:127 gantt/script.php:256
+msgid "Start date"
+msgstr "Data de início"
+
+#: gantt/script.php:127
+msgid "Due date"
+msgstr "Data de vencimento"
+
+#: gantt/script.php:127
+msgid "Time allocated"
+msgstr "Tempo utilizado"
+
+#: gantt/script.php:127
+msgid "Time spent"
+msgstr "Tempo gasto"
+
+#: gantt/script.php:127
+msgid "hrs"
+msgstr "hrs"
+
+#: gantt/script.php:127
+msgid "mins"
+msgstr "mins"
+
+#: gantt/script.php:127 gantt/script.php:256
+msgid "Job #"
+msgstr "Trabalho #"
+
+#: gantt/script.php:230
+msgid "Incomplete"
+msgstr "Imcompleto"
+
+#: gantt/script.php:233
+msgid "On hold"
+msgstr "Progredindo"
+
+#: gantt/script.php:236
+msgid "In progress"
+msgstr "Em progresso"
+
+#: gantt/script.php:239
+msgid "Complete"
+msgstr "Completo"
+
+#: gantt/script.php:256
+msgid "Owner"
+msgstr "Responsável"
+
+#: gantt/script.php:256
+msgid "End date"
+msgstr "Data final"
+
+#: gantt/script.php:256
+msgid "Priority"
+msgstr "Prioridade"
+
+#: gantt/script.php:256
+msgid "Status"
+msgstr "Status"
+
+#: gantt/script.php:256
+msgid "Comments"
+msgstr "Comentários"
+
+#: gantt/script.php:270
+msgid "Please wait"
+msgstr "Por favor, espere"
+
+#: options.php:1
+msgid "Gantt Settings"
+msgstr "Gantt"
+
+#: options.php:8
+msgid ""
+"Gantt requires Task Rocket version 4 or higher, and you are running version:"
+msgstr ""
+"Add To Cal requer Task Rocket versão 3 ou superior, e você está executando"
+
+#: options.php:11
+#, php-format
+msgid "<a href=\"%s\">Update Now</a>"
+msgstr "<a href=\\”%s\\”>Atualizar agora</a>"
+
+#: options.php:20
+msgid "Show the Gantt chart"
+msgstr "Mostrar/Ocultar o Gráfico Gantt"
+
+#: options.php:23
+msgid ""
+"Show the Gantt chart at these locations. (Note: Items only show in Gantt "
+"charts if they have both start and end dates.)"
+msgstr ""
+"Mostre o gráfico de Gantt nesses locais. (Nota: Os itens só aparecem nos "
+"gráficos de Gantt se tiverem datas de início e de término.)"
+
+#: options.php:26
+msgid "Dashboard"
+msgstr "Painel"
+
+#: options.php:30
+msgid "All Active Projects"
+msgstr "Todos os projetos ativos"
+
+#: options.php:34
+msgid "Project (individual)"
+msgstr "Projeto"
+
+#: options.php:38
+msgid "Reports"
+msgstr "Relatórios"
+
+#: options.php:42
+msgid "Report (individual)"
+msgstr "Relatório"
+
+#: options.php:46
+msgid "Client projects (only for projects they have access to)"
+msgstr ""
+"Projetos de clientes (somente para projetos aos quais eles têm acesso)"
+
+#: options.php:53
+msgid "All projects view scale"
+msgstr "Todos os projetos exibem escala"
+
+#: options.php:56
+msgid ""
+"The initial overview scale when all projects are shown in the Gantt chart."
+msgstr ""
+"A escala de visão inicial quando todos os projetos são mostrados no gráfico "
+"de Gantt."
+
+#: options.php:59 options.php:75
+msgid "Hours"
+msgstr "Horas"
+
+#: options.php:60 options.php:76
+msgid "Days"
+msgstr "Dias"
+
+#: options.php:61 options.php:77
+msgid "Weeks"
+msgstr "Semanas"
+
+#: options.php:62 options.php:78
+msgid "Months"
+msgstr "Meses"
+
+#: options.php:69
+msgid "Individual projects view scale"
+msgstr "Todos os projetos exibem escala"
+
+#: options.php:72
+msgid ""
+"The initial overview scale when viewing an individual project in the Gantt "
+"chart."
+msgstr ""
+"A escala de visão inicial ao visualizar um projeto individual no gráfico de "
+"Gantt."
+
+#: options.php:85
+msgid "Hide completed tasks"
+msgstr "Ocultar tarefas concluídas"
+
+#: options.php:88
+msgid "Do not show completed tasks in the Gantt chart."
+msgstr "Não mostrar as tarefas concluídas no gráfico de Gantt."
+
+#: options.php:95
+msgid "Pagination"
+msgstr "Paginação"
+
+#: options.php:99
+msgid "How many items to show per vertical pagination."
+msgstr "Quantos itens devem ser exibidos por paginação vertical."
+
+#: options.php:106
+msgid "Navigation"
+msgstr "Navegação"
+
+#: options.php:109
+msgid "What type of navigation to use for the Gantt chart."
+msgstr "Que tipo de navegação usar para o gráfico de Gantt."
+
+#: options.php:112
+msgid "Buttons"
+msgstr "Botões"
+
+#: options.php:113
+msgid "Slider"
+msgstr "Slider"
+
+#: options.php:120
+msgid "Scroll to today"
+msgstr "Navegar até hoje"
+
+#: options.php:123
+msgid "Automatically scroll the Gantt chart to the current day."
+msgstr "Role automaticamente o gráfico de Gantt para o dia atual."
+
+#: options.php:130
+msgid "Show project description"
+msgstr "Mostrar descrição do projecto"
+
+#: options.php:133
+msgid ""
+"When hovering over a Gantt item, show the project description if it has one."
+msgstr ""
+"Ao passar o mouse sobre um item Gantt, mostre a descrição do projeto, se "
+"tiver um."
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr ""
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Verificar se há atualizações"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Este plugin está atualizado."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Uma nova versão do plugin está disponível."
+
+#: plugin-updates/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Status de verificação de atualização desconhecido “%s”"
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Gantt"
+msgstr "Task Rocket"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/gantt/"
+msgstr "https://taskrocket.info"
+
+#. Description of the plugin/theme
+msgid "Gantt charts for Task Rocket (requires at least Task Rocket 4.0)"
+msgstr "Comment Notify for Task Rocket (requires at least Task Rocket 4.0)"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

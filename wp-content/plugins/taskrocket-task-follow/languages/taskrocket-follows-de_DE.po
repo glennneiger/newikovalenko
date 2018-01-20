@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Task Rocket Task Follow\n"
+"POT-Creation-Date: 2017-04-05 14:35+0200\n"
+"PO-Revision-Date: 2017-04-05 15:31+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: task-rocket-follow.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: my-follows.php:28 task-follow-ui.php:44
+msgid "Tasks I'm following"
+msgstr "Aufgaben, denen ich folge"
+
+#: my-follows.php:76
+msgid "Private Task"
+msgstr "Private Aufgabe"
+
+#: my-follows.php:100
+msgid "Unfollow"
+msgstr "Nicht mehr folgen"
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "Es ist kein Changelog verfügbar."
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Auf Updates prüfen"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Das Plugin ist auf dem neusten Stand."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Für das Plugin ist eine neuere Version verfügbar."
+
+#: plugin-updates/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Update-Checker meldet unbekannten Status \"%s\""
+
+#: task-follow-ui.php:35
+msgid "Stop following this task"
+msgstr "Dieser Aufgabe nicht mehr folgen"
+
+#: task-follow-ui.php:37
+msgid "Follow this task"
+msgstr "Dieser Aufgabe folgen"
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Task Follow"
+msgstr "Task Rocket Task Follow"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/task-follows/"
+msgstr "https://taskrocket.info/task-follows/"
+
+#. Description of the plugin/theme
+msgid "Follow any task (requires at least Task Rocket 4.5)"
+msgstr "Folgen Sie beliebigen Aufgaben (erfordert mindestens Task Rocket 4.5)"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: Task Rocket Kanban\n"
+"POT-Creation-Date: 2016-12-06 13:31-0200\n"
+"PO-Revision-Date: 2016-12-06 13:33-0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-kanban.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: kanban-board.php:61
+msgid "Close"
+msgstr ""
+
+#: kanban-board.php:62
+msgid "Reload"
+msgstr "Recarregar"
+
+#: kanban-board.php:63
+msgid "Simple view"
+msgstr "Visão simples"
+
+#: kanban-board.php:64
+msgid "Low prioriry"
+msgstr "Prioridade baixa"
+
+#: kanban-board.php:65
+msgid "Normal Priority"
+msgstr "Prioridade normal"
+
+#: kanban-board.php:66
+msgid "High Priority"
+msgstr "Prioridade alta"
+
+#: kanban-board.php:67
+msgid "Urgent Priority"
+msgstr "Prioridade urgente"
+
+#: kanban-board.php:119
+msgid "Todo"
+msgstr "Todo"
+
+#: kanban-board.php:145 kanban-board.php:238 kanban-board.php:332
+#: kanban-board.php:425
+msgid "Task ID"
+msgstr "ID da tarefa"
+
+#: kanban-board.php:160 kanban-board.php:253 kanban-board.php:347
+#: kanban-board.php:440
+msgid "Private Task"
+msgstr "Tarefa privada"
+
+#: kanban-board.php:170 kanban-board.php:172 kanban-board.php:262
+#: kanban-board.php:264 kanban-board.php:356 kanban-board.php:358
+#: kanban-board.php:449 kanban-board.php:451
+msgid "Priority"
+msgstr "Prioridade"
+
+#: kanban-board.php:172 kanban-board.php:264 kanban-board.php:358
+#: kanban-board.php:451
+msgid "Normal"
+msgstr "Normal"
+
+#: kanban-board.php:190 kanban-board.php:282 kanban-board.php:376
+#: kanban-board.php:469
+msgid "unowned task"
+msgstr "Tarefa sem dono"
+
+#: kanban-board.php:191 kanban-board.php:283 kanban-board.php:377
+#: kanban-board.php:470
+msgid "Take Ownership"
+msgstr "Tomar posse"
+
+#: kanban-board.php:211
+msgid "In Progress"
+msgstr "Em progresso"
+
+#: kanban-board.php:305
+msgid "On Hold"
+msgstr "Progredindo"
+
+#: kanban-board.php:399
+msgid "Done"
+msgstr "Feito"
+
+#: kanban.php:1
+msgid "View Kanban Board"
+msgstr "Visão Kanban Board"
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "Não existe log de alterações disponível"
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Verificar se há atualizações"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Este plugin está atualizado."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Uma nova versão do plugin está disponível."
+
+#: plugin-updates/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Status de verificação de atualização desconhecido “%s”"
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Kanban"
+msgstr "Task Rocket"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/kanban/"
+msgstr "https://taskrocket.info"
+
+#. Description of the plugin/theme
+msgid "Kanban board overview for Task Rocket projects"
+msgstr "Kanban board overview for Task Rocket projects"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

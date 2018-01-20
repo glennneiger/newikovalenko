@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Task Rocket Task Groups\n"
+"POT-Creation-Date: 2016-07-29 09:54+0200\n"
+"PO-Revision-Date: 2016-07-29 09:54+0200\n"
+"Last-Translator: Oriol Carbonell <info@oriolcarbonell.cat>\n"
+"Language-Team: eina.io <info@eina.io>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-task-groups.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: groups.php:9
+msgid "Include tasks from this group"
+msgstr "Incloure tasques d'aquest grup"
+
+#: groups.php:29
+msgid "There are currently no task groups."
+msgstr "Actualment no hi ha grups de tasques."
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "No hi ha canvis disponibles."
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Comprova si hi ha actualitzacions"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Aquest plugin està actualitzat."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Hi ha una nova versió d'aquest plugin."
+
+#: plugin-updates/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Estatus de Comprovador d'actualització desconegut \"%s\""
+
+#: taskrocket-task-groups.php:67
+msgid "Group Item"
+msgstr "Grup d'elements"
+
+#: taskrocket-task-groups.php:68
+msgid "Task Groups"
+msgstr "Grup de tasques"
+
+#: taskrocket-task-groups.php:69
+msgid "Add Group Item"
+msgstr "Afegir grup d'element"
+
+#: taskrocket-task-groups.php:70
+msgid "Add Group or Group Item"
+msgstr "Afegir Grup o Grup d'elements"
+
+#: taskrocket-task-groups.php:71
+msgid "Edit Group Item"
+msgstr "Edita Grup d'elements"
+
+#: taskrocket-task-groups.php:72
+msgid "New Group Item"
+msgstr "Nou Grup d'elements"
+
+#: taskrocket-task-groups.php:73
+msgid "Search Task Group Items"
+msgstr "Cerca elements de Grup de Tasques"
+
+#: taskrocket-task-groups.php:74
+msgid "No Task Group Items found"
+msgstr "No hi ha elements en el Grup de Tasques"
+
+#: taskrocket-task-groups.php:75
+msgid "No Task Group Items found in Trash."
+msgstr "No hi ha Grups de Tasques a la paperera"
+
+#: taskrocket-task-groups.php:76
+msgid "All Task Group Items"
+msgstr "Tots els elements de Grup de Tasques"
+
+#: taskrocket-task-groups.php:103
+msgid "Task Owner"
+msgstr "Propietari de la tasca"
+
+#: taskrocket-task-groups.php:119 taskrocket-task-groups.php:122
+msgid "Task Group item updated."
+msgstr "Elements del Grup de Tasques actualitzat."
+
+#: taskrocket-task-groups.php:120
+msgid "Task Group updated."
+msgstr "Grup de Tasques actualitzat."
+
+#: taskrocket-task-groups.php:121
+msgid "Task Group deleted."
+msgstr "Grup de Tasques eliminat."
+
+#: taskrocket-task-groups.php:123
+#, php-format
+msgid "Task Group item restored to revision from %s"
+msgstr "Element del Grup de Tasques restaurat a la revisió de%s"
+
+#: taskrocket-task-groups.php:124
+msgid "Task Group item published."
+msgstr "Element del Grup de Tasques publicat."
+
+#: taskrocket-task-groups.php:125
+msgid "Task Group item saved."
+msgstr "Element de Grup de Tasques guardat."
+
+#: taskrocket-task-groups.php:126
+msgid "Task Group item submitted."
+msgstr "Element de Grup de Tasques presentat."
+
+#: taskrocket-task-groups.php:128
+#, php-format
+msgid "Task Group item scheduled for: %1$s."
+msgstr "Programació de Grup de Tasques : %1$s."
+
+#: taskrocket-task-groups.php:129
+msgid "M j, Y @ G:i"
+msgstr "d/m/Y @ G:i"
+
+#: taskrocket-task-groups.php:131
+msgid "Task Group item draft updated."
+msgstr "Esborrany de Grup de Tasques actualitzat."
+
+#: taskrocket-task-groups.php:142
+msgid "Task group or task name"
+msgstr "Grup de tasques o nom de la tasca"
+
+#: taskrocket-task-groups.php:173 taskrocket-task-groups.php:175
+msgid "Nobody (no owner)"
+msgstr "Ningú (sense propietàri)"
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Task Groups"
+msgstr "Task Rocket Task Groups"
+
+#. Plugin URI of the plugin/theme
+msgid "http://taskrocket.info/task-groups/"
+msgstr "http://taskrocket.info/task-groups/"
+
+#. Description of the plugin/theme
+msgid ""
+"Create pre-set groups of tasks that can be applied to new projects (requires "
+"at least Task Rocket 3)"
+msgstr ""
+"Crear grups preestablerts de tasques que es poden aplicar als nous projectes "
+"(requereix almenys Task Rocket 3)"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

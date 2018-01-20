@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: Task Rocket Task Groups\n"
+"POT-Creation-Date: 2016-06-29 21:30+0800\n"
+"PO-Revision-Date: 2016-06-29 22:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-task-groups.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Language: fr\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: groups.php:9
+msgid "Include tasks from this group"
+msgstr "Inclure les tâches de ce groupe"
+
+#: groups.php:29
+msgid "There are currently no task groups."
+msgstr "Il n'y aucun groupe de tâches."
+
+#: taskrocket-task-groups.php:67
+msgid "Group Item"
+msgstr "Tâche du groupe"
+
+#: taskrocket-task-groups.php:68
+msgid "Task Groups"
+msgstr "Groupes de tâches"
+
+#: taskrocket-task-groups.php:69
+msgid "Add Group Item"
+msgstr "Ajouter un groupe ou une tâche au groupe"
+
+#: taskrocket-task-groups.php:70
+msgid "Add Group or Group Item"
+msgstr "Ajouter un groupe ou une tâche au groupe"
+
+#: taskrocket-task-groups.php:71
+msgid "Edit Group Item"
+msgstr "Modifier un groupe ou une tâche du groupe"
+
+#: taskrocket-task-groups.php:72
+msgid "New Group Item"
+msgstr "Nouveau groupe ou tâche du groupe"
+
+#: taskrocket-task-groups.php:73
+msgid "Search Task Group Items"
+msgstr "Rechercher parmi un groupe ou une tâche du groupe"
+
+#: taskrocket-task-groups.php:74
+msgid "No Task Group Items found"
+msgstr "Aucun groupe ou tâche du groupe trouvé(e)."
+
+#: taskrocket-task-groups.php:75
+msgid "No Task Group Items found in Trash."
+msgstr "Aucun groupe ou tâche du groupe trouvé(e) dans la corbeille."
+
+#: taskrocket-task-groups.php:76
+msgid "All Task Group Items"
+msgstr "Tous les groupes ou tâches du groupe"
+
+#: taskrocket-task-groups.php:103
+msgid "Task Owner"
+msgstr "Propriétaire de la tâche"
+
+#: taskrocket-task-groups.php:119 taskrocket-task-groups.php:122
+msgid "Task Group item updated."
+msgstr "Tâche du groupe mis à jour"
+
+#: taskrocket-task-groups.php:120
+msgid "Task Group updated."
+msgstr "Groupe mis à jour."
+
+#: taskrocket-task-groups.php:121
+msgid "Task Group deleted."
+msgstr "Groupe supprimé"
+
+#: taskrocket-task-groups.php:123
+#, php-format
+msgid "Task Group item restored to revision from %s"
+msgstr "Tâche du groupe restauré pour révision depuis %s"
+
+#: taskrocket-task-groups.php:124
+msgid "Task Group item published."
+msgstr "Tâche du groupe publiée."
+
+#: taskrocket-task-groups.php:125
+msgid "Task Group item saved."
+msgstr "Tâche du groupe enregistrée."
+
+#: taskrocket-task-groups.php:126
+msgid "Task Group item submitted."
+msgstr "Tâche du groupe soumise."
+
+#: taskrocket-task-groups.php:128
+#, php-format
+msgid "Task Group item scheduled for: %1$s."
+msgstr "Tâche du groupe planifiée pour: %1$s."
+
+#: taskrocket-task-groups.php:129
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: taskrocket-task-groups.php:131
+msgid "Task Group item draft updated."
+msgstr "Brouillon de la tâche du groupe mis à jour."
+
+#: taskrocket-task-groups.php:142
+msgid "Task group or task name"
+msgstr "Nom du groupe ou de la tâche"
+
+#: taskrocket-task-groups.php:173 taskrocket-task-groups.php:175
+msgid "Nobody (no owner)"
+msgstr "Personne (aucun propriétaire)"
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Task Groups"
+msgstr "Task Rocket Groupe de tâches"
+
+#. Plugin URI of the plugin/theme
+msgid "http://taskrocket.info/task-groups/"
+msgstr "http://taskrocket.info/task-groups/"
+
+#. Description of the plugin/theme
+msgid ""
+"Create pre-set groups of tasks that can be applied to new projects (requires "
+"at least Task Rocket 3)"
+msgstr ""
+"Créer des groupes de tâches prédéfinis qui peuvent être appliqués à de "
+"nouveau projet (requiert au moins Task Rocket 3)"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

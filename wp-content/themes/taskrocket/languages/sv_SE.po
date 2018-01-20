@@ -1,0 +1,2904 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Task Rocket sv_SE\n"
+"POT-Creation-Date: 2016-07-02 01:06+0200\n"
+"PO-Revision-Date: 2016-09-25 04:46+0200\n"
+"Language-Team: Mattias Tengblad <mst@eyesx.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Mattias Tengblad <mst@eyesx.com>\n"
+"Language: sv_SE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid "404: Don't Freak Out"
+msgstr "404: Oroa dig inte"
+
+#: 404.php:7
+msgid "The page may have existed at some time, but it doesn't now."
+msgstr "Sidan kan ha funnits någon gång, men inte längre."
+
+#: 404.php:8
+msgid ""
+"If you were expecting a page or a task, you may have accidentally deleted "
+"it. If so just restore it from the trash."
+msgstr ""
+"Om du väntade dig en sida eller en arbetsuppgift, då har den kanske "
+"oavsiktligt raderats. Om så är fallet återställ den från papperskorgen."
+
+#: 404.php:9
+msgid ""
+"Otherwise the search may be your best bet to find what you're looking for."
+msgstr ""
+"Annars är en sökning det bästa sättet att försöka hitta det du letar efter."
+
+#: category.php:16
+msgid "This project has been archived."
+msgstr "Det här projekt har arkiverats."
+
+#: category.php:16
+msgid ""
+"If you require access to this project an administrator will need to pull it "
+"from the archives."
+msgstr ""
+"Om du behöver tillgång till det här projektet måste en administratör "
+"återställa det från arkivet."
+
+#: email-report.php:74 includes/mini-chart.php:334
+msgid "Go to Project"
+msgstr "Gå till projekt"
+
+#: email-report.php:94
+msgid "This report was sent by"
+msgstr "Den här rapporten skickades av"
+
+#: email-report.php:103 header.php:244 page-single-report.php:222
+msgid "Project Details"
+msgstr "Projektdetaljer"
+
+#: email-report.php:107 includes/project-data.php:161
+#: page-single-report.php:225
+msgid "Total tasks"
+msgstr "Totalt antal arbetsuppgifter"
+
+#: email-report.php:109 functions.php:1860 includes/add-task-form.php:130
+#: includes/mini-chart.php:273 includes/mini-chart.php:281
+#: includes/task-bar.php:20 page-my-tasks.php:120 page-new-project.php:155
+#: page-single-report.php:235 post-logic.php:395 post-logic.php:439
+#: single.php:271 single.php:477 single.php:480
+msgid "Start date"
+msgstr "Startdatum"
+
+#: email-report.php:113 page-single-report.php:226
+msgid "Outstanding tasks"
+msgstr "Återstående arbetsuppgifter"
+
+#: email-report.php:115 email-report.php:153 functions.php:1863
+#: page-my-tasks.php:123 page-single-report.php:236 page-single-report.php:296
+#: page-single-report.php:308 post-logic.php:399 post-logic.php:440
+#: single.php:276 single.php:501 single.php:506
+msgid "Due Date"
+msgstr "Deadline"
+
+#: email-report.php:119 page-single-report.php:227
+msgid "Completed tasks"
+msgstr "Slutförda arbetsuppgifter"
+
+#: email-report.php:121 page-single-report.php:237
+msgid "Time allocated"
+msgstr "Tilldelad tid"
+
+#: email-report.php:125 functions.php:2238 functions.php:2337
+#: includes/project-details-pane.php:26 includes/project-details-pane.php:37
+#: includes/search-result-project.php:49 page-single-report.php:228
+msgid "Project Manager"
+msgstr "Projektledare"
+
+#: email-report.php:127 includes/mini-chart.php:209 page-single-report.php:238
+msgid "Time used"
+msgstr "Använd tid"
+
+#: email-report.php:131 functions.php:2226 functions.php:2230
+#: functions.php:2328 includes/add-task-form.php:146
+#: includes/project-details-pane.php:19 page-new-project.php:180
+#: page-single-report.php:230 single.php:328 single.php:438 single.php:442
+msgid "Job number"
+msgstr "Jobbnummer"
+
+#: email-report.php:133 page-single-report.php:246
+msgid "Time remaining"
+msgstr "Återstående tid"
+
+#: email-report.php:137 includes/mini-chart.php:318 page-single-report.php:231
+msgid "Budget"
+msgstr "Budget"
+
+#: email-report.php:139 email-report.php:157 includes/recent.php:31
+#: includes/task-cost.php:7 page-my-tasks.php:61 page-single-report.php:262
+#: page-single-report.php:300 page-single-report.php:312 post-logic.php:391
+#: post-logic.php:438
+msgid "Cost"
+msgstr "Kostnad"
+
+#: email-report.php:147
+msgid "Project Tasks"
+msgstr "Projektuppgifter"
+
+#: email-report.php:151 includes/project-data.php:161
+#: includes/team-activity.php:47 page-my-tasks.php:56 page-projects.php:94
+#: page-report.php:107 page-single-report.php:294 page-single-report.php:306
+msgid "Task"
+msgstr "Arbetsuppgift"
+
+#: email-report.php:152 includes/project-toolbar.php:119
+#: page-single-report.php:295 page-single-report.php:307
+msgid "Date Added"
+msgstr "Datum tillagt"
+
+#: email-report.php:154 includes/task-bar.php:69 includes/team-activity.php:52
+msgid "Completed"
+msgstr "Slutförd"
+
+#: email-report.php:155 functions.php:1870 includes/add-task-form.php:122
+#: includes/all-active-tasks.php:81 includes/my-active-tasks.php:60
+#: includes/recent.php:24 page-my-tasks.php:57 page-single-report.php:297
+#: page-single-report.php:309 post-logic.php:379 post-logic.php:435
+#: single.php:263 single.php:451 single.php:455
+msgid "Priority"
+msgstr "Prioritet"
+
+#: email-report.php:156 includes/recent.php:30 includes/time-spent.php:6
+#: includes/time-spent.php:26 page-my-tasks.php:60 page-new-project.php:171
+#: page-single-report.php:299 page-single-report.php:311
+msgid "Time"
+msgstr "Tid"
+
+#: email-report.php:158 includes/project-toolbar.php:122
+#: page-single-report.php:301 page-single-report.php:313 single.php:626
+msgid "Owner"
+msgstr "Ägare"
+
+#: email-report.php:262 header.php:228
+msgid "Project Report"
+msgstr "Projektrapport"
+
+#: functions.php:178
+msgid "Web"
+msgstr "Webb"
+
+#: functions.php:179
+msgid "Github"
+msgstr "Github"
+
+#: functions.php:180 page-account.php:314 page-user-profile.php:119
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:181 functions.php:1034 page-account.php:319
+#: page-user-profile.php:115
+msgid "Google+"
+msgstr "Google+"
+
+#: functions.php:182 page-account.php:324 page-user-profile.php:123
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions.php:183 page-account.php:177 page-user-profile.php:85
+msgid "Phone"
+msgstr "Telefon"
+
+#: functions.php:184 page-account.php:182 page-user-profile.php:92
+msgid "Skype"
+msgstr "Skype"
+
+#: functions.php:185 functions.php:749 page-account.php:329
+#: page-user-profile.php:127
+msgid "Other"
+msgstr "Annat"
+
+#: functions.php:187
+msgid "Recent tasks on dashboard"
+msgstr "Senaste uppgifter i admin"
+
+#: functions.php:188
+msgid "Recent comments on dashboard"
+msgstr "Senaste kommentarer i admin"
+
+#: functions.php:189
+msgid "Team activity on dashboard"
+msgstr "Teamaktivitet i admin"
+
+#: functions.php:190
+msgid "Recent pages on dashboard"
+msgstr "Senaste sidor i admin"
+
+#: functions.php:191
+msgid "Show my projects on dashboard"
+msgstr "Visa mina projekt på startsidan"
+
+#: functions.php:192 page-account.php:268
+msgid "First tab"
+msgstr "Första fliken"
+
+#: functions.php:193 page-account.php:280
+msgid "Second tab"
+msgstr "Andra fliken"
+
+#: functions.php:194 page-account.php:291
+msgid "Third tab"
+msgstr "Tredje fliken"
+
+#: functions.php:195 page-account.php:301
+msgid "Fourth tab"
+msgstr "Fjärde fliken"
+
+#: functions.php:196
+msgid "Dashboard tips"
+msgstr "Tips för adminpanel"
+
+#: functions.php:198
+msgid "Photo"
+msgstr "Bild"
+
+#: functions.php:341 functions.php:1896 includes/action.php:18
+#: includes/mini-chart.php:157 includes/task-status-notify.php:67
+#: page-projects.php:268 page-single-report.php:208 page-single-report.php:349
+#: post-logic.php:284 single.php:290 single.php:301
+msgid "Complete"
+msgstr "Slutfört"
+
+#: functions.php:344 functions.php:1900 includes/action.php:4
+#: includes/action.php:22 includes/task-status-notify.php:71
+#: page-single-report.php:207 page-single-report.php:346 post-logic.php:286
+#: single.php:287 single.php:303
+msgid "Incomplete"
+msgstr "Inte slutfört"
+
+#: functions.php:347 functions.php:1904 includes/action.php:10
+#: includes/action.php:30 includes/task-status-notify.php:79
+#: page-projects.php:94 page-report.php:107 page-single-report.php:210
+#: page-single-report.php:355 single.php:296 single.php:305
+msgid "In progress"
+msgstr "Pågående"
+
+#: functions.php:350 functions.php:1908 includes/action.php:7
+#: includes/action.php:26 includes/task-status-notify.php:75
+#: page-single-report.php:209 page-single-report.php:352 single.php:293
+#: single.php:307
+msgid "On hold"
+msgstr "Väntande"
+
+#: functions.php:491
+msgid "Task Items"
+msgstr "Uppgiftsposter"
+
+#: functions.php:492
+msgid "Add New Task"
+msgstr "Lägg till ny arbetsuppgift"
+
+#: functions.php:493 header.php:348 includes/mini-chart.php:8
+#: includes/mini-chart.php:14
+msgid "Projects"
+msgstr "Projekt"
+
+#: functions.php:538
+msgid "Client Access"
+msgstr "Klientåtkomst"
+
+#. Theme Name of the plugin/theme
+#: functions.php:674
+msgid "Task Rocket"
+msgstr "Task Rocket"
+
+#: functions.php:710 functions.php:757
+msgid "Task Rocket Settings"
+msgstr "Inställningar för Task Rocket"
+
+#: functions.php:720
+msgid "Options saved"
+msgstr "Inställningar sparade"
+
+#: functions.php:731 header.php:322
+msgid "Home"
+msgstr "Hem"
+
+#: functions.php:732 page-users.php:19
+msgid "User"
+msgstr "Användare"
+
+#: functions.php:733
+msgid "Presentation"
+msgstr "Presentation"
+
+#: functions.php:736 functions.php:1001
+msgid "Gantt"
+msgstr "Gantt"
+
+#: functions.php:739
+msgid "Time & Costs"
+msgstr "Tid & kostnader"
+
+#: functions.php:740 header.php:331
+msgid "Reports"
+msgstr "Rapporter"
+
+#: functions.php:741
+msgid "Notifications"
+msgstr "Notifikationer"
+
+#: functions.php:742 includes/comment-count.php:5 includes/comments.php:22
+#: includes/project-toolbar.php:118
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: functions.php:744 functions.php:975
+msgid "Client Control"
+msgstr "Hantering av klienter"
+
+#: functions.php:747 functions.php:962
+msgid "Add to Cal"
+msgstr "Lägg till i kalender"
+
+#: functions.php:750 functions.php:1645 functions.php:1650
+msgid "Maintenance"
+msgstr "Underhåll"
+
+#: functions.php:751
+msgid "Add-ons"
+msgstr "Tillägg"
+
+#: functions.php:770
+msgid "Enter your activation key"
+msgstr "Ange din aktiveringsnyckel"
+
+#: functions.php:773
+msgid "Activate"
+msgstr "Aktivera"
+
+#: functions.php:779
+#, php-format
+msgid ""
+"You can find your activation key by logging in to the <a href=\"%s\" target="
+"\"_blank\">downloads</a> page."
+msgstr ""
+"Du hittar din aktiveringsnyckel genom att logga in på <a href=\"%s\" target="
+"\"_blank\">nedladdningssidan</a>."
+
+#: functions.php:790
+msgid "Task Rocket Version"
+msgstr "Version av Task Rocket"
+
+#: functions.php:793
+msgid "Check for update"
+msgstr "Kolla efter uppdateringar"
+
+#: functions.php:797 functions.php:855
+msgid "License status"
+msgstr "Licensstatus"
+
+#: functions.php:803
+msgid "You have not entered your activation key."
+msgstr "Du har inte angett aktiveringsnyckel."
+
+#: functions.php:809
+msgid "Your key is still pending activation."
+msgstr "Din nyckel inväntar fortfarande aktivering."
+
+#: functions.php:813
+msgid "Your activation key has been blocked."
+msgstr "Din aktiveringsnyckel har blockerats."
+
+#: functions.php:817
+msgid ""
+"Your 12 month support period has ended. You will need to extend your license "
+"in order to receive updates and support."
+msgstr ""
+"Din 12 månaders supportperiod har upphört. Du måste förlänga din licens för "
+"att få tillgång till uppdateringar och support."
+
+#: functions.php:824
+msgid ""
+"Your activation key may be valid for a different domain. If you think this "
+"is incorrect, please try activating again and then refresh this page."
+msgstr ""
+"Din aktiveringsnyckel kan vara giltigt för en annan domän. Om du tror att "
+"detta är felaktigt, vänligen försök aktivera igen och uppdatera sedan den "
+"här sidan."
+
+#: functions.php:826
+msgid "Activation key is valid."
+msgstr "Aktiveringsnyckeln är giltig."
+
+#: functions.php:836
+msgid "Registered to"
+msgstr "Registrerad till"
+
+#: functions.php:839 functions.php:1893 page-single-report.php:298
+#: page-single-report.php:310 post-logic.php:407 post-logic.php:442
+#: single.php:299 single.php:524
+msgid "Status"
+msgstr "Status"
+
+#: functions.php:842
+msgid "Max allowed domains"
+msgstr "Max antal tillåtna domäner"
+
+#: functions.php:845
+msgid "Registered domains"
+msgstr "Registrerade domäner"
+
+#: functions.php:856
+msgid "Error"
+msgstr "Fel"
+
+#: functions.php:872 functions.php:929 functions.php:941 functions.php:952
+#: functions.php:965 functions.php:978 functions.php:991 functions.php:1004
+#: functions.php:1017
+msgid "Not OK"
+msgstr "Inte OK"
+
+#: functions.php:872 functions.php:901 functions.php:929 functions.php:941
+#: functions.php:952 functions.php:1492 functions.php:1497 functions.php:1541
+#: functions.php:1562 functions.php:1573 functions.php:1625 functions.php:1636
+msgid "Help"
+msgstr "Hjälp"
+
+#: functions.php:880
+msgid "Memory"
+msgstr "Minne"
+
+#: functions.php:892 functions.php:901 functions.php:903 functions.php:915
+#: functions.php:917 functions.php:927 functions.php:939 functions.php:950
+#: functions.php:967 functions.php:980 functions.php:993 functions.php:1006
+#: functions.php:1019
+msgid "OK"
+msgstr "OK"
+
+#: functions.php:892 includes/mini-chart.php:323
+msgid "Used"
+msgstr "Använt"
+
+#: functions.php:897
+msgid "Memory limit"
+msgstr "Minnesgräns"
+
+#: functions.php:908
+msgid "Memory in use"
+msgstr "Minne som används"
+
+#: functions.php:915
+msgid "Critical"
+msgstr "Kritiskt"
+
+#: functions.php:923
+msgid "Upload max filesize"
+msgstr "Upload max filesize"
+
+#: functions.php:935
+msgid "Post max size"
+msgstr "Post max size"
+
+#: functions.php:950
+msgid "All Good"
+msgstr "Allt ok"
+
+#: functions.php:952
+msgid "Not installed"
+msgstr "Inte installerat"
+
+#: functions.php:965 functions.php:978
+msgid "Requires Task Rocket 3"
+msgstr "Kräver Task Rocket 3"
+
+#: functions.php:988
+msgid "Comment Notify"
+msgstr "Kommentarsnotifikation"
+
+#: functions.php:991 functions.php:1004
+msgid "Requires Task Rocket 4"
+msgstr "Kräver Task Rocket 4"
+
+#: functions.php:1014
+msgid "Task Groups"
+msgstr "Arbetsgrupper"
+
+#: functions.php:1017
+msgid "Requires Task Rocket 2.7"
+msgstr "Kräver Task Rocket 2.7"
+
+#: functions.php:1029 includes/global-projects-nav.php:15
+msgid "Support"
+msgstr "Support"
+
+#: functions.php:1030
+msgid "Blog"
+msgstr "Blogg"
+
+#: functions.php:1031
+msgid "FAQ"
+msgstr "FAQ"
+
+#: functions.php:1032
+msgid "Twitter feed"
+msgstr "Twitter-flöde"
+
+#: functions.php:1033
+msgid "Twitter page"
+msgstr "Twitter-sida"
+
+#: functions.php:1035
+msgid "Developer website"
+msgstr "Utvecklarens webbplats"
+
+#: functions.php:1036
+msgid "Recommended hosting"
+msgstr "Rekommenderad hosting"
+
+#: functions.php:1036
+msgid "Digital Ocean"
+msgstr "Digital Ocean"
+
+#: functions.php:1046
+msgid "User Settings"
+msgstr "Användarinställningar"
+
+#: functions.php:1050
+msgid "Let users create tasks"
+msgstr "Låt användare skapa arbetsuppgifter"
+
+#: functions.php:1051
+msgid "Let users create tasks on the front-end"
+msgstr "Låt användare lägga till arbetsuppgifter på framsidan"
+
+#: functions.php:1055
+msgid "Let users edit tasks"
+msgstr "Låt användare redigera arbetsuppgifter"
+
+#: functions.php:1056
+msgid ""
+"Let users edit their own tasks on the front-end. Note: When disabled users "
+"can still mark their own tasks as complete, but they just can't make any "
+"edits to the task"
+msgstr ""
+"Låt användare redigera sina egna arbetsuppgifter på framsidan. När "
+"inaktiverat så kan användare fortfarande markera sina egna arbetsuppgifter "
+"som genomförda, men de kan inte göra några ändringar i övrigt för uppgiften"
+
+#: functions.php:1060
+msgid "Let users create projects"
+msgstr "Låt användare skapa projekt"
+
+#: functions.php:1061
+msgid "Let users create projects on the front-end"
+msgstr "Låt användare skapa projekt på framsidan"
+
+#: functions.php:1065
+msgid "Let users delete projects"
+msgstr "Låt användare radera projekt"
+
+#: functions.php:1066
+msgid "Let users delete projects on the front-end"
+msgstr "Låt användare radera projekt på framsidan"
+
+#: functions.php:1070
+msgid "Let users specify time frames and time allocation on projects"
+msgstr "Låt användare specificera tidsramar och tidstilldelning för projekt"
+
+#: functions.php:1071
+msgid ""
+"Let users specify time frames and time allocation when creating projects on "
+"the front-end. Requires that \"Let users create projects\" is be enabled"
+msgstr ""
+"Låt användare specificera tidsramar och tidstilldelning när de skapar "
+"projekt på framsidan. Kräver att \"Låt användare skapa projekt\" är aktiverat"
+
+#: functions.php:1075
+msgid "Let users assign and reassign tasks"
+msgstr "Låt användarna tilldela och tilldela om arbetsuppgifter"
+
+#: functions.php:1076
+msgid ""
+"Let users assign and reassign tasks on the front-end. Requires that \"Let "
+"users edit tasks\" is enabled"
+msgstr ""
+"Låt användare tilldela och tilldela om arbetsuppgifter på framsidan. Kräver "
+"att \"Låt användare redigera arbetsuppgifter\" är aktiverat"
+
+#: functions.php:1080
+msgid "Let users choose a Project Manager"
+msgstr "Låt användare välja en projektledare"
+
+#: functions.php:1081
+msgid ""
+"Let users choose a Project Manager when creating projects on the front-end. "
+"Requires that \"Let users create projects\" is be enabled"
+msgstr ""
+"Låt användare välja en projektledare när projekt skapas på framsidan. Kräver "
+"att \"Låt användare skapa projekt\" är aktiverat"
+
+#: functions.php:1085
+msgid "Only show the users projects in the navigation"
+msgstr "Visa endast användarens projekt i navigationen"
+
+#: functions.php:1086
+msgid ""
+"For each user, let them only see projects they are involved with in the main "
+"navigation"
+msgstr ""
+"För varje användare, låt dem bara se projekt i huvudmenyn som de är "
+"involverade i"
+
+#: functions.php:1086 functions.php:1095
+msgid "Important Note"
+msgstr "Viktig information"
+
+#: functions.php:1092
+msgid "Users can only see tabs for their own tasks in projects"
+msgstr "Användare kan endast se flikarna för egna uppgifter i projekt"
+
+#: functions.php:1095
+msgid ""
+"While viewing a project, users will only have access to 'My Active Tasks' "
+"and 'My Completed Tasks' tabs."
+msgstr ""
+"Vid visning av projekt, har användare endast tillgång till flikarna \"Mina "
+"aktiva uppgifter\" och \"Mina genomförda uppgifter\""
+
+#: functions.php:1101 functions.php:1286 functions.php:1295 functions.php:1362
+#: functions.php:1390 functions.php:1483 functions.php:1502 functions.php:1511
+#: functions.php:1521 functions.php:1642
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: functions.php:1104
+msgid "Presentation Settings"
+msgstr "Presentationsinställningar"
+
+#: functions.php:1110
+msgid "Disable the mini chart"
+msgstr "Inaktivera minidiagrammet"
+
+#: functions.php:1113
+msgid ""
+"Do not show the mini chart in the left pane. May also improve performance "
+"when you have lots of projects and tasks."
+msgstr ""
+"Visa inte minidiagrammet i panelen till vänster. Kan förbättra prestandan "
+"när du har många projekt och uppgifter."
+
+#: functions.php:1119
+msgid "Tasks pagination"
+msgstr "Sidindelning för arbetsuppgifter"
+
+#: functions.php:1123
+msgid ""
+"Show this many results per page when viewing the 'My Tasks' page. Also "
+"applies when viewing tasks owned by other users. The default is 20, the "
+"minimum is 5, maximum is 100."
+msgstr ""
+"Visa så här många resultat per sida när du tittar på sidan \"Mina "
+"arbetsuppgifter\". Gäller också när du visar uppgifter som ägs av andra "
+"användare. Standard är 20, minst är 5, max är 100."
+
+#: functions.php:1130
+msgid "Thumbnail lightbox"
+msgstr "Popup för miniatyrer"
+
+#: functions.php:1133
+msgid "Open attachment images in a lightbox when clicked."
+msgstr ""
+"Öppna bifogade bilder i en lightbox (bildvisare) när du klickar på dem."
+
+#: functions.php:1140
+msgid "Users link in nav"
+msgstr "Länk för användare i meny"
+
+#: functions.php:1143
+msgid "Show \"Users\" in the main navigation."
+msgstr "Visa \"Användare\" i huvudmenyn"
+
+#: functions.php:1150
+msgid "Show the task ID"
+msgstr "Visa arbetsuppgiftens ID"
+
+#: functions.php:1153
+msgid "Display the ID next to each task on the front-end."
+msgstr "Visa ID bredvid varje arbetsuppgift på framsidan."
+
+#: functions.php:1160
+msgid "Keep child pages expanded"
+msgstr "Håll undersidor expanderade"
+
+#: functions.php:1163
+msgid "Expand the child pages in the navigation by default."
+msgstr "Expandera de underordnade sidorna i navigeringen som standard."
+
+#: functions.php:1169
+msgid "Pages navigation label"
+msgstr "Etikett för sidnavigering"
+
+#: functions.php:1173
+msgid "The label that appears above the pages navigation."
+msgstr "Den etikett som visas ovanför sidnavigeringen."
+
+#: functions.php:1179
+msgid "Unassigned label"
+msgstr "Etikett för otilldelat"
+
+#: functions.php:1183
+msgid ""
+"Instead of 'Unassigned', change the label to something else (eg: Orphans)."
+msgstr ""
+"I stället för \"otilldelat\", ändra etiketten till något annat (t.ex.: "
+"föräldralös)."
+
+#: functions.php:1189
+msgid "Administrator owned task indicator label"
+msgstr "Etikett för uppgifter ägda av administratör"
+
+#: functions.php:1193
+msgid ""
+"Indicates when a task is owned by an administrator (examples: Project "
+"Manager or Team Leader). Leave empty to disable."
+msgstr ""
+"Indikerar när en arbetsuppgift ägs av en administratör (exempel: "
+"projektledare eller teamledare). Lämna tomt för att inaktivera."
+
+#: functions.php:1200
+msgid "Unwelcome"
+msgstr "Ovälkomen"
+
+#: functions.php:1203
+msgid "Disable the welcome screen for new users (not recommended)."
+msgstr "Inaktivera välkomstsidan för nya användare (rekommenderas inte)."
+
+#: functions.php:1210
+msgid "Disable loading animation"
+msgstr "Inaktivera laddningsanimationer"
+
+#: functions.php:1213
+msgid "Disable the fancy animation between page loads."
+msgstr "Inaktivera den glassiga animeringen mellan sidladdningar."
+
+#: functions.php:1220
+msgid "Disable fancy tool tips"
+msgstr "Inaktivera flashiga inforutor"
+
+#: functions.php:1223
+msgid "Disable the fancy tool tips and rely on the title attribute instead."
+msgstr ""
+"Inaktivera flashiga inforutor och förlita dig istället på titelattributen."
+
+#: functions.php:1231
+msgid "Change the logo"
+msgstr "Ändra logotyp"
+
+#: functions.php:1235
+msgid "Browse"
+msgstr "Bläddra"
+
+#: functions.php:1266
+msgid ""
+"The logo shows on the login and welcome screens. Ideally a transparent PNG, "
+"and must be 300 x 300px."
+msgstr ""
+"Logotypen visas på inloggnings- och välkomstsidan. Helst en transparent PNG, "
+"måste vara 300 x 300px."
+
+#: functions.php:1301
+msgid "Time & Cost Settings"
+msgstr "Inställningar för tid & kostnad"
+
+#: functions.php:1306
+msgid "Hourly rate"
+msgstr "Timpris"
+
+#: functions.php:1309
+msgid ""
+"The hourly rate your company charges to do work. Only enter a number value "
+"here, do not enter currency symbols."
+msgstr ""
+"Timpris ditt företag tar för att utföra jobb. Ange endast siffror här, ange "
+"inte någon valutasymbol."
+
+#: functions.php:1314
+msgid "Currency symbol"
+msgstr "Valutasymbol"
+
+#: functions.php:1317
+msgid ""
+"The currency symbol to show next to costs on the front-end. If not "
+"specified, the $ symbol will be shown."
+msgstr ""
+"Valutasymbol att visa tillsammans med kostnader på framsidan. Om inget anges "
+"så används symbolen $."
+
+#: functions.php:1324
+msgid "Time log increments"
+msgstr "Tidssteg i logg"
+
+#: functions.php:1328 functions.php:1329 functions.php:1330 functions.php:1331
+#: functions.php:1332 functions.php:1333
+msgid "Minute"
+msgstr "Minut(er)"
+
+#: functions.php:1336
+msgid ""
+"Time logged on tasks will be forced to use these increments. If not "
+"specified, 1 minute increments will be used."
+msgstr ""
+"Tid som loggas för arbetsuppgifter kommer tvingas använda dessa "
+"tidsintervall för påslag. Om inget anges så används ökningar med 1 minut."
+
+#: functions.php:1343
+msgid "Show project costs on the front-end"
+msgstr "Visa projektkostnader på framsidan"
+
+#: functions.php:1346
+msgid "Display the running costs of projects on the front-end."
+msgstr "Visa de löpande kostnaderna för projekt på framsidan."
+
+#: functions.php:1353
+msgid "Show task costs on the front-end"
+msgstr "Visa kostnad för arbetsuppgifter på framsidan"
+
+#: functions.php:1356
+msgid "Display the cost of each task on the front-end."
+msgstr "Visa kostnaden för vardera arbetsuppgift på framsidan."
+
+#: functions.php:1365
+msgid "Report settings"
+msgstr "Inställningar för rapporter"
+
+#: functions.php:1371
+msgid "Report access"
+msgstr "Åtkomst för rapporter"
+
+#: functions.php:1374
+msgid "Give everyone (except clients) access to reports on the front-end."
+msgstr "Ge alla (utom klienter) tillgång till rapporter på framsidan."
+
+#: functions.php:1381
+msgid "Show completed projects in reports and charts"
+msgstr "Visa avslutade projekt i rapporter och diagram"
+
+#: functions.php:1384
+msgid "Display projects in reports/charts that are complete."
+msgstr "Visa projekt i rapporter/diagram som är avslutade."
+
+#: functions.php:1394
+msgid "Notification Settings"
+msgstr "Notifikationsinställningar"
+
+#: functions.php:1399
+msgid "When a task is added send email notification to:"
+msgstr "När en arbetsuppgift läggs till, skicka en notifikation till:"
+
+#: functions.php:1402 functions.php:1431
+msgid "The project manager for the project"
+msgstr "Projektledare för projektet"
+
+#: functions.php:1406 functions.php:1435
+msgid "The website administrator"
+msgstr "Webbplatsens administratör"
+
+#: functions.php:1410 functions.php:1439
+msgid "The entire project team"
+msgstr "Hela projektgruppen"
+
+#: functions.php:1414 functions.php:1443
+msgid "The task owner"
+msgstr "Ägaren av uppgiften"
+
+#: functions.php:1418 functions.php:1447
+msgid "Also send notification to:"
+msgstr "Skicka även notifikationer till:"
+
+#: functions.php:1421 functions.php:1450
+msgid ""
+"To specify more than one email address, separate with a comma (without "
+"spaces). Eg: someguy@domain.com,somegirl@domain.com"
+msgstr ""
+"För att ange mer än en e-postadress, separera med kommatecken (utan "
+"mellanslag). T.ex person@domain.se,person2@domain.se"
+
+#: functions.php:1428
+msgid "When a task changes status send email notification to:"
+msgstr "När en arbetsuppgift ändrar status, skicka en notifikation till:"
+
+#: functions.php:1464
+msgid "Plain email notifications"
+msgstr "Oformaterade e-postnotifikationer"
+
+#: functions.php:1467
+msgid ""
+"Send task notification emails as plain text. This will not be honoured if "
+"\"No email notifications\" is enabled."
+msgstr ""
+"Skicka notifikationer för arbetsuppgifter som oformaterad text. Detta kommer "
+"inte användas om \"Inga e-postnotifikationer\" är aktiverat."
+
+#: functions.php:1474
+msgid "No email notifications"
+msgstr "Inga e-postnotifikationer"
+
+#: functions.php:1477
+msgid "Disable all email notifications"
+msgstr "Inaktivera alla e-postnotifikationer"
+
+#: functions.php:1487
+msgid "Comment Settings"
+msgstr "Kommentarsinställningar"
+
+#: functions.php:1491
+msgid "Allow comments on tasks"
+msgstr "Tillåt kommentarer på arbetsuppgifter"
+
+#: functions.php:1492
+msgid "Allow users to comment on tasks"
+msgstr "Tillåt användare att kommentera på arbetsuppgifter"
+
+#: functions.php:1496
+msgid "Allow comments on pages"
+msgstr "Tillåt kommentarer på sidor"
+
+#: functions.php:1497
+msgid "Allow users to comment on pages"
+msgstr "Tillåt användare att kommentera på sidor"
+
+#: functions.php:1526
+msgid "Other Settings"
+msgstr "Övriga inställningar"
+
+#: functions.php:1531
+msgid "Trash Cycle"
+msgstr "Rensningscykel"
+
+#: functions.php:1535
+msgid ""
+"How often (specified in days) should WordPress empty the trash? If not "
+"specified, the WordPress default (30 days) will be used. Set to 0 to disable "
+"the trash (which means if you delete a task or page, it is permanent)."
+msgstr ""
+"Hur ofta (anges i dagar) bör WordPress tömma papperskorgen? Om inget anges "
+"används WordPress standard (30 dagar). Värdet 0 inaktiverar papperskorgen "
+"(vilket innebär att om du tar bort en uppgift eller sida, då är det "
+"permanent)."
+
+#: functions.php:1540
+msgid "Allow tasks with no owner"
+msgstr "Tillåt arbetsuppgifter utan ägare"
+
+#: functions.php:1541
+msgid ""
+"This is ideal for tasks that are not specific to anyone. Any user who wants "
+"the task can take ownership by reassigning it to themselves"
+msgstr ""
+"Detta är idealiskt för arbetsuppgifter som inte är specifika för någon. "
+"Användare som vill åta sig uppgiften kan tilldela den till sig själva."
+
+#: functions.php:1545
+msgid "Enable a warning on Tasks and Project pages"
+msgstr "Aktivera varning på uppgifts- och projektsidor"
+
+#: functions.php:1546
+msgid ""
+"A warning appears when accidentally attempting to leave the New Task or New "
+"Project pages without first completing the form."
+msgstr ""
+"En varning visas när du av misstag försöker lämna nyligen skapad "
+"arbetsuppgift eller ett nytt projekt utan först fylla i hela formuläret."
+
+#: functions.php:1550
+msgid "Project managers change any task status"
+msgstr "Projektledare ändra en uppgiftsstatus"
+
+#: functions.php:1551
+msgid ""
+"Let project managers change the status of tasks owned by anyone on the front-"
+"end."
+msgstr ""
+"Låt projektledare ändra status för uppgifter som ägs av någon på framsidan."
+
+#: functions.php:1558
+msgid "Automatic job numbers"
+msgstr "Automatiska jobbnummer"
+
+#: functions.php:1561
+msgid ""
+"Job numbers will be created automatically when you create a new task or "
+"project."
+msgstr ""
+"Jobbnummer skapas automatiskt när du skapar en ny uppgift eller ett projekt."
+
+#: functions.php:1568
+msgid "Job number prefix"
+msgstr "Prefix för jobbnummer"
+
+#: functions.php:1572
+msgid ""
+"The prefix for job numbers. Typically a few characters is enough. If "
+"specified, the prefix will be applied to both manual and automatic job "
+"numbers."
+msgstr ""
+"Prefixet för jobbnummer. Några tecken är vanligtvis tillräckligt. Om det "
+"anges kommer prefixet att gälla både manuella och automatiska jobbnummer."
+
+#: functions.php:1580
+msgid "Disable auto generated clickable links"
+msgstr "Inaktivera automatisk generering av klickbara länkar"
+
+#: functions.php:1583
+msgid ""
+"Do not automatically convert text URLs in tasks and project descriptions "
+"into clickable links."
+msgstr ""
+"Konvertera inte textadresser i arbetsuppgifter och projektbeskrivningar "
+"automatiskt till klickbara länkar."
+
+#: functions.php:1588
+msgid "Disable file uploads"
+msgstr "Inaktivera filuppladdningar"
+
+#: functions.php:1589
+msgid "Do not let users attach files to tasks"
+msgstr "Låt inte användare bifoga filer till arbetsuppgifter"
+
+#: functions.php:1596
+msgid "Dashboard message"
+msgstr "Meddelande i adminpanel"
+
+#: functions.php:1600
+msgid "Display a message on the dashboard."
+msgstr "Visa ett meddelande i adminpanelen."
+
+#: functions.php:1609
+msgid "Dashboard message background colour"
+msgstr "Bakgrundsfärg för meddelande i adminpanel"
+
+#: functions.php:1611
+msgid "Red"
+msgstr "Rött"
+
+#: functions.php:1612
+msgid "Blue"
+msgstr "Blått"
+
+#: functions.php:1613
+msgid "Orange"
+msgstr "Orange"
+
+#: functions.php:1614
+msgid "Green"
+msgstr "Grönt"
+
+#: functions.php:1621
+msgid "Custom style sheet"
+msgstr "Anpassad stilmall"
+
+#: functions.php:1625
+msgid "The file name of your custom CSS file (eg: my-custom-styles.css)"
+msgstr ""
+"Filnamnet för din anpassade stilmallsfil (t.ex.: min-anpassade-stil.css)"
+
+#: functions.php:1632
+msgid "Custom JS"
+msgstr "Anpassad JS"
+
+#: functions.php:1636
+msgid "The file name of your custom Javascript file (eg: my-custom-scripts.js)"
+msgstr ""
+"Filnamnet för din anpassade Javascripts-fil (t.ex.: mina-anpassade-skripts."
+"js)"
+
+#: functions.php:1652
+msgid ""
+"If you are experiencing problems or not seeing new changes after an update, "
+"try hitting the button below"
+msgstr ""
+"Om du upplever problem eller inte ser förändringar efter en uppdatering, "
+"prova att trycka på knappen nedan"
+
+#: functions.php:1654
+msgid "Perform Maintenance"
+msgstr "Utför underhåll"
+
+#: functions.php:1661
+msgid "Extend Task Rocket with these add-ons"
+msgstr "Utvidga Task Rocket med dessa tillägg"
+
+#: functions.php:1666
+msgid "Extend Task Rocket with these useful addons"
+msgstr "Utvidga Task Rocket med dessa användbara tillägg"
+
+#: functions.php:1830
+msgid "More details about this task"
+msgstr "Fler detaljer om den här arbetsuppgiften"
+
+#: functions.php:1837 includes/project-data.php:336 includes/report-all.php:130
+#: includes/task-bar.php:95 page-projects.php:287 post-logic.php:383
+#: post-logic.php:436
+msgid "Job"
+msgstr "Jobb"
+
+#: functions.php:1846
+msgid "Will be auto generated"
+msgstr "Kommer att genereras automatiskt"
+
+#: functions.php:1873 includes/add-task-form.php:123 single.php:264
+msgid "Low"
+msgstr "Låg"
+
+#: functions.php:1878 includes/add-task-form.php:124 single.php:265
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:1883 includes/add-task-form.php:125 single.php:266
+msgid "High"
+msgstr "Hög"
+
+#: functions.php:1888 includes/add-task-form.php:126 single.php:267
+msgid "Urgent"
+msgstr "Brådskande"
+
+#: functions.php:1924
+msgid "Make Private"
+msgstr "﻿Gör privat"
+
+#: functions.php:1926
+msgid "Only visible to administrators."
+msgstr "Endast synligt för administratörer."
+
+#: functions.php:1934 functions.php:1935 includes/add-task-form.php:160
+#: includes/add-task-form.php:170
+msgid "Attach files"
+msgstr "Bifoga filer"
+
+#: functions.php:1936
+msgid ""
+"Note: Files can only belong (be attached) to one task at any given time."
+msgstr ""
+"Notera: Filer kan endast tillhöra (vara bifogade) till en arbetsuppgift åt "
+"gången."
+
+#: functions.php:1969 functions.php:1976
+msgid "Delete?"
+msgstr "Radera?"
+
+#: functions.php:1969 functions.php:1976 includes/attachments.php:78
+#: includes/attachments.php:130
+msgid "Yes"
+msgstr "Ja"
+
+#: functions.php:1969 functions.php:1976 includes/attachments.php:79
+#: includes/attachments.php:131
+msgid "No"
+msgstr "Nej"
+
+#: functions.php:1974 includes/attachments.php:126 includes/attachments.php:129
+msgid "Delete this file"
+msgstr "Ta bort den här filen"
+
+#: functions.php:2069
+msgid "Enter task title here"
+msgstr "Ange rubrik för arbetsuppgift här"
+
+#: functions.php:2117
+#, php-format
+msgid ""
+"New to Task Rocket? Get started by <a href=\"%s\">tweaking the settings</a>."
+msgstr ""
+"Är Task Rocket nytt för dig? Kom igång genom att <a href=\"%s\">anpassa "
+"inställningarna</a>."
+
+#: functions.php:2119
+#, php-format
+msgid "<a href=\"%s\" class=\"tweak\">Task Rocket Settings</a>"
+msgstr "<a href=\"%s\" class=\"tweak\">Inställningar för Task Rocket</a>"
+
+#: functions.php:2141
+#, php-format
+msgid "<strong>RSS Error</strong>: %s"
+msgstr "<strong>RSS-fel</strong>: %s"
+
+#: functions.php:2149
+msgid "There are no updates at this time."
+msgstr "Det finns inga uppdateringar för tillfället."
+
+#: functions.php:2199 functions.php:2296 includes/project-details-pane.php:73
+#: includes/project-details-pane.php:86
+msgid "More details"
+msgstr "Fler detaljer"
+
+#: functions.php:2201 functions.php:2299
+msgid "Risks, mitigation strategy, contingency plans etc."
+msgstr "Risker, riskreducerande strategi, beredskapsplaner osv."
+
+#: functions.php:2205 functions.php:2304
+msgid "Project Start Date"
+msgstr "Projektets startdatum"
+
+#: functions.php:2207 functions.php:2307
+msgid "The date the project is expected to start."
+msgstr "Det datum då projektet beräknas starta."
+
+#: functions.php:2211 functions.php:2312
+msgid "Project End Date"
+msgstr "Projektets slutdatum"
+
+#: functions.php:2213 functions.php:2315
+msgid "The date the project is expected to end."
+msgstr "Det datum då projektet förväntas avslutas."
+
+#: functions.php:2217 functions.php:2320
+msgid "Time Allocation (hrs)"
+msgstr "Tid tilldelad (tim)"
+
+#: functions.php:2219 functions.php:2323
+msgid "How many hours should be allocated to this project?"
+msgstr "Hur många timmar ska avsättas för det här projektet?"
+
+#: functions.php:2227 page-new-project.php:182
+msgid ""
+"A job number will be automatically assigned when you create this project."
+msgstr "Ett jobbnummer tilldelas automatiskt när du skapar det här projektet."
+
+#: functions.php:2232 functions.php:2331
+msgid "What is the job number?"
+msgstr "Vad är ett jobbnummer?"
+
+#: functions.php:2264 functions.php:2366
+msgid ""
+"Who is responsible for leading this project? (Administrators are highlighted "
+"blue)."
+msgstr ""
+"Vem är ansvarig för att leda detta projekt? (Administratörer är markerade "
+"med blått)."
+
+#: functions.php:2371
+msgid "Archive this project"
+msgstr "Arkivera det här projektet"
+
+#: functions.php:2457
+msgid "Tasks that are not assigned to any project"
+msgstr "Arbetsuppgifter som inte är associerade till några projekt"
+
+#: functions.php:2611
+msgid "Your comment is waiting to be approved."
+msgstr "Din kommentar väntar på att godkännas."
+
+#: functions.php:2615 includes/recent-comments.php:41
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#: functions.php:2696 includes/tips.php:23
+msgid "Page"
+msgstr "Sida"
+
+#: functions.php:2696 page-projects.php:268
+msgid "of"
+msgstr "av"
+
+#: functions.php:2697
+msgid "First"
+msgstr "Första"
+
+#: functions.php:2698
+msgid "Previous"
+msgstr "Föregående"
+
+#: functions.php:2708
+msgid "Next"
+msgstr "Nästa"
+
+#: functions.php:2709
+msgid "Last"
+msgstr "Sista"
+
+#: functions.php:2746 functions.php:2759
+msgid "Welcome to"
+msgstr "Välkommen till"
+
+#: header.php:72 page-clients.php:37
+msgid "Welcome to Task Rocket"
+msgstr "Välkommen till Task Rocket"
+
+#: header.php:73
+msgid ""
+"Hi! If you're reading this it means you haven't been given access to a "
+"project. Please ask an administrator to assign you to a project and then "
+"reload this page."
+msgstr ""
+"Hej! Om du läser det här betyder det du inte har fått tillgång till ett "
+"projekt. Be en administratör att tilldela dig till ett projekt och ladda "
+"sedan om den här sidan."
+
+#: header.php:74 page-clients.php:39
+msgid "Reload"
+msgstr "Ladda om"
+
+#: header.php:122
+msgid "Stats"
+msgstr "Statistik"
+
+#: header.php:125 header.php:145 header.php:220 header.php:251 header.php:267
+msgid "SHow / Hide the Gantt Chart"
+msgstr "Visa / dölj Gantt-schema"
+
+#: header.php:128
+msgid "My latest tasks"
+msgstr "Mina senaste arbetsuppgifter"
+
+#: header.php:131 includes/team-activity.php:120 page-account.php:220
+msgid "Recent comments"
+msgstr "Senaste kommentarer"
+
+#: header.php:134
+msgid "Dash Pages"
+msgstr "Adminsidor"
+
+#: header.php:137
+msgid "Tips"
+msgstr "Tips"
+
+#: header.php:147
+msgid "Empty and Completed Projects"
+msgstr "Toma och avslutade projekt"
+
+#: header.php:148
+msgid "Simple view"
+msgstr "Enkel vy"
+
+#: header.php:149
+msgid "Only show Overdue Projects"
+msgstr "Visa endast försenade projekt"
+
+#: header.php:154
+msgid "Toggle clients"
+msgstr "Visa/dölj klienter"
+
+#: header.php:156
+msgid "Toggle team members"
+msgstr "Visa/dölj teammedlemmar"
+
+#: header.php:157
+msgid "Toggle administrators"
+msgstr "Visa/dölj administratörer"
+
+#: header.php:161
+msgid "Low priority tasks"
+msgstr "Arbetsuppgifter med låg prio"
+
+#: header.php:162
+msgid "Normal priority tasks"
+msgstr "Arbetsuppgifter med normal prio"
+
+#: header.php:163
+msgid "High priority tasks"
+msgstr "Arbetsuppgifter med hög prio"
+
+#: header.php:164
+msgid "Urgent priority tasks"
+msgstr "Arbetsuppgifter med brådskande prio"
+
+#: header.php:171
+msgid "Edit Task"
+msgstr "Redigera arbetsuppgift"
+
+#: header.php:184 header.php:232
+msgid "Show / Hide Attachments"
+msgstr "Visa / dölj bilagor"
+
+#: header.php:187
+msgid "Show / Hide Comments"
+msgstr "Visa / dölj kommentarer"
+
+#: header.php:194 header.php:241
+msgid "Download all attachments in this project"
+msgstr "Ladda ner alla bifogade filer i det här projektet"
+
+#: header.php:198
+msgid "Delete this task"
+msgstr "Radera den här arbetsuppgiften"
+
+#: header.php:198 includes/action.php:33
+msgid "Delete"
+msgstr "Radera"
+
+#: header.php:215
+msgid "Create new task for this project"
+msgstr "Lägg till en ny arbetsuppgift för det här projektet"
+
+#: header.php:215 header.php:327
+msgid "Create a new task"
+msgstr "Lägg till en ny arbetsuppgift"
+
+#: header.php:228
+msgid "Show Project Report"
+msgstr "Visa projektrapport"
+
+#: header.php:231
+msgid "Simple task view"
+msgstr "Enkel vy arbetsuppgifter"
+
+#: header.php:243
+msgid "Show / Hide Users in Project"
+msgstr "Visa / dölj användare i projekt"
+
+#: header.php:244
+msgid "Show / Hide Project Details"
+msgstr "Visa / dölj detaljer för projekt"
+
+#: header.php:257
+msgid "Go back to reports"
+msgstr "Tillbaka till rapporter"
+
+#: header.php:259
+msgid "Filter"
+msgstr "Filtrera"
+
+#: header.php:260
+msgid "Print this report"
+msgstr "Skriv ut den här rapporten"
+
+#: header.php:260
+msgid "Print"
+msgstr "Skriv ut"
+
+#: header.php:261
+msgid "Email this report"
+msgstr "Maila den här rapporten"
+
+#: header.php:269
+msgid "Complete projects"
+msgstr "Slutförda projekt"
+
+#: header.php:270
+msgid "Incomplete projects"
+msgstr "Projekt som inte är slutförda"
+
+#: header.php:276
+msgid "Only show files"
+msgstr "Visa endast filer"
+
+#: header.php:276 includes/attachments.php:32 includes/recent.php:32
+#: search.php:39 single.php:574
+msgid "Attachments"
+msgstr "Bilagor"
+
+#: header.php:280
+msgid "Message"
+msgstr "Meddelande"
+
+#: header.php:302
+msgid "Edit my details"
+msgstr "Redigera mina uppgifter"
+
+#: header.php:319
+msgid "My tasks"
+msgstr "Mina arbetsuppgifter"
+
+#: header.php:322 includes/global-projects-nav.php:2 index.php:31
+msgid "Dashboard"
+msgstr "Adminpanel"
+
+#: header.php:324
+msgid "Start a new project"
+msgstr "Starta ett nytt projekt"
+
+#: header.php:324
+msgid "New Project"
+msgstr "Nytt projekt"
+
+#: header.php:327
+msgid "New Task"
+msgstr "Ny arbetsuppgift"
+
+#: header.php:329 includes/pages-nav.php:13
+msgid "Pages"
+msgstr "Sidor"
+
+#: header.php:334
+msgid "Mini Chart"
+msgstr "Minidiagram"
+
+#: header.php:337
+msgid "Users"
+msgstr "Användare"
+
+#: header.php:340
+msgid "Go to admin"
+msgstr "Gå till admin"
+
+#: header.php:340
+msgid "Admin"
+msgstr "Admin"
+
+#: header.php:342 includes/global-projects-nav.php:12 page-clients.php:100
+msgid "Logout"
+msgstr "Logga ut"
+
+#: includes/activity-statement.php:79
+msgid "Your tasks"
+msgstr "Dina arbetsuppgifter"
+
+#: includes/activity-statement.php:82
+#, php-format
+msgid ""
+"You have <span>%1$d</span> outstanding tasks out of all <span>%2$d</span> "
+"total tasks."
+msgstr ""
+"Du har <span>%1$d</span> återstående uppgifter av totalt <span>%2$d</span> "
+"av alla arbetsuppgifter."
+
+#: includes/activity-statement.php:85
+msgid "Sweet! There aren't any tasks for you to do!"
+msgstr "Grymt! Det finns inga arbetsuppgifter för dig att genomföra!"
+
+#: includes/activity-statement.php:188
+msgid "of your tasks are low priority"
+msgstr "av dina arbetsuppgifter har låg prio"
+
+#: includes/activity-statement.php:189
+msgid "of your tasks are normal priority"
+msgstr "av dina arbetsuppgifter har normal prio"
+
+#: includes/activity-statement.php:190
+msgid "of your tasks are high priority"
+msgstr "av dina arbetsuppgifter har hög prio"
+
+#: includes/activity-statement.php:191
+msgid "of your tasks are urgent priority"
+msgstr "av dina arbetsuppgifter har brådskande prio"
+
+#: includes/activity-statement.php:212
+msgid "Load carried"
+msgstr "Åtagande"
+
+#: includes/activity-statement.php:213
+msgid "You are reponsible for"
+msgstr "Du är ansvarig för"
+
+#: includes/activity-statement.php:215
+msgid "of all tasks across all projects."
+msgstr "av alla arbetsuppgifter över alla projekt."
+
+#: includes/activity-statement.php:217
+msgid "no tasks on any projects."
+msgstr "inga arbetsuppgifter för projekt."
+
+#: includes/activity-statement.php:232
+msgid "Everyone else"
+msgstr "Alla andra"
+
+#: includes/activity-statement.php:235
+#, php-format
+msgid ""
+"There are <span>%1$d</span> outstanding tasks for other users, they carry "
+"<span>%2$d&#37</span> of the load."
+msgstr ""
+"Det finns <span>%1$d</span> återstående arbetsuppgifter för andra användare, "
+"de bär <span>%2$d&#37</span> av lasten."
+
+#: includes/activity-statement.php:239
+msgid "There are no outstanding tasks for other people."
+msgstr "Det finns inga återstående arbetsuppgifter för andra."
+
+#: includes/activity-statement.php:243
+msgid "There is <span>1</span> outstanding task for someone else."
+msgstr "Det finns <span>1</span> återstående arbetsuppgift för någon annan."
+
+#: includes/activity-statement.php:259
+msgid "Total outstanding tasks"
+msgstr "Återstående arbetsuppgifter totalt"
+
+#: includes/activity-statement.php:261
+#, php-format
+msgid ""
+"There are <span>%1$d</span> outstanding tasks across all active projects."
+msgstr ""
+"Det finns <span>%1$d</span> återstående arbetsuppgifter över alla aktiva "
+"projekt."
+
+#: includes/activity-statement.php:263
+msgid "There are no outstanding tasks across all active projects."
+msgstr "Det finns inga återstående arbetsuppgifter över alla aktiva projekt."
+
+#: includes/activity-statement.php:267
+msgid "View Tasks"
+msgstr "Visa arbetsuppgifter"
+
+#: includes/activity-statement.php:270 includes/add-task-form.php:193
+msgid "Create Task"
+msgstr "Lägg till uppgift"
+
+#: includes/activity-statement.php:283 page-projects.php:73 page-report.php:86
+msgid "Active projects"
+msgstr "Aktiva projekt"
+
+#: includes/activity-statement.php:285
+#, php-format
+msgid "There is a total of <span>%1$d</span> active projects including"
+msgstr "Det finns totalt <span>%1$ d</span> aktiva projekt inklusive"
+
+#: includes/activity-statement.php:287
+msgid "There are no active projects including"
+msgstr "Det finns inga aktiva projekt inklusive"
+
+#: includes/activity-statement.php:290
+msgid "View Projects"
+msgstr "Visa projekt"
+
+#: includes/add-task-form.php:24 single.php:160
+msgid "Task name"
+msgstr "Arbetsuppgift"
+
+#: includes/add-task-form.php:31 includes/task-bar.php:4
+#: page-single-report.php:212 single.php:169 single.php:600
+msgid "Private"
+msgstr "Privat"
+
+#: includes/add-task-form.php:43 includes/mini-chart.php:14
+#: includes/search-result-project.php:33 post-logic.php:375 post-logic.php:433
+#: single.php:429
+msgid "Project"
+msgstr "Projekt"
+
+#: includes/add-task-form.php:91
+msgid "Assign this task to"
+msgstr "Tilldela uppgiften till"
+
+#: includes/add-task-form.php:93 includes/add-task-form.php:101
+#: includes/admins-list.php:9 includes/attachments.php:52
+#: includes/attachments.php:109 single.php:216
+msgid "Nobody"
+msgstr "Ingen"
+
+#: includes/add-task-form.php:132 includes/add-task-form.php:138
+#: page-new-project.php:157 page-new-project.php:165 page-new-project.php:173
+#: single.php:272 single.php:277 single.php:322
+msgid "Clear"
+msgstr "Rensa"
+
+#: includes/add-task-form.php:136 includes/mini-chart.php:286
+#: page-new-project.php:163
+msgid "End date"
+msgstr "Slutdatum"
+
+#: includes/add-task-form.php:148 page-new-project.php:182
+msgid "Auto Generated"
+msgstr "Automatiskt genererat"
+
+#: includes/add-task-form.php:148
+msgid "A job number will be automatically assigned when you create this task."
+msgstr ""
+"Ett jobbnummer tilldelas automatiskt när du skapar den här arbetsuppgiften."
+
+#: includes/add-task-form.php:188 single.php:357
+msgid "Additional information"
+msgstr "Ytterligare information"
+
+#: includes/admins-list.php:7 includes/project-users-list.php:61
+#: includes/users.php:50 includes/users.php:52
+msgid "Administrator"
+msgstr "Administratör"
+
+#: includes/all-active-tasks.php:27 includes/all-completed-tasks.php:26
+#: includes/my-completed-tasks.php:29
+msgid "Task ID"
+msgstr "ID för arbetsuppgift"
+
+#: includes/all-active-tasks.php:55 includes/all-completed-tasks.php:59
+#: includes/search-result.php:29 page-my-tasks.php:105
+msgid "Private Task"
+msgstr "Privat arbetsuppgift"
+
+#: includes/all-active-tasks.php:73 includes/my-active-tasks.php:52
+#: includes/my-completed-tasks.php:58 includes/team-activity.php:78
+msgid "unowned task"
+msgstr "uppgift utan ägare"
+
+#: includes/all-active-tasks.php:74 includes/all-completed-tasks.php:78
+#: includes/my-active-tasks.php:53 includes/my-completed-tasks.php:59
+#: includes/team-activity.php:95
+msgid "Take Ownership"
+msgstr "Ta över"
+
+#: includes/all-active-tasks.php:83 includes/my-active-tasks.php:62
+#: page-single-report.php:214
+msgid "Normal Priority"
+msgstr "Normal prioritet"
+
+#: includes/all-active-tasks.php:122 includes/all-completed-tasks.php:89
+#: includes/all-completed-tasks.php:118 includes/my-active-tasks.php:70
+#: includes/my-completed-tasks.php:68 page-projects.php:437 post-logic.php:311
+msgid "More info"
+msgstr "Mer info"
+
+#: includes/all-active-tasks.php:150
+msgid "There are no tasks in this project."
+msgstr "Det finns inga arbetsuppgifter i detta projekt."
+
+#: includes/all-completed-tasks.php:146
+msgid "There are no completed tasks."
+msgstr "Det finns inga slutförda arbetsuppgifter."
+
+#: includes/all-projects-nav.php:13
+msgid "All Active Projects"
+msgstr "Alla aktiva projekt"
+
+#: includes/all-projects-nav.php:32 includes/own-projects-nav.php:65
+msgid "There are no active tasks."
+msgstr "Det finns inga aktiva arbetsuppgifter."
+
+#: includes/all-projects-nav.php:35 includes/own-projects-nav.php:68
+msgid "1 task remaining"
+msgstr "1 återstående arbetsuppgift"
+
+#: includes/all-projects-nav.php:38 includes/own-projects-nav.php:71
+#: includes/project-data.php:181 page-clients.php:98
+msgid "Tasks remaining"
+msgstr "Återstående arbetsuppgifter"
+
+#: includes/attachments.php:57 includes/attachments.php:114
+msgid "This file was uploaded by a client"
+msgstr "Den här filen laddades upp av en klient"
+
+#: includes/attachments.php:69 includes/attachments.php:123
+msgid "Uploaded by"
+msgstr "Uppladdat av"
+
+#: includes/attachments.php:69 includes/attachments.php:123
+msgid "on"
+msgstr "till"
+
+#: includes/attachments.php:74 includes/attachments.php:77
+msgid "Delete this image"
+msgstr "Radera den här bilden"
+
+#: includes/comment-count.php:5 includes/task-bar.php:77
+msgid "This task has"
+msgstr "Den här arbetsuppgiften har"
+
+#: includes/comment-notify.php:100
+msgid "View Comment"
+msgstr "Visa kommentar"
+
+#: includes/comment-notify.php:103 includes/task-status-notify.php:95
+#: post-logic.php:231
+msgid "View Project"
+msgstr "Visa projekt"
+
+#: includes/comment-notify.php:114 includes/comment-notify.php:133
+#: includes/task-status-notify.php:105 includes/task-status-notify.php:125
+#: page-new-task.php:28
+msgid "The task"
+msgstr "Arbetsuppgiften"
+
+#: includes/comment-notify.php:114 includes/comment-notify.php:133
+msgid "has a new comment"
+msgstr "har en ny kommentar"
+
+#: includes/comment-notify.php:137
+msgid "New comment on:"
+msgstr "Ny kommentar på:"
+
+#: includes/comment-notify.php:139 includes/task-status-notify.php:132
+#: post-logic.php:451
+msgid "From"
+msgstr "Från"
+
+#: includes/comments.php:5
+msgid "Please do not load this page directly"
+msgstr "Vänligen ladda inte den här sidan direkt"
+
+#: includes/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Det här inlägget är lösenordsskyddat. Ange lösenordet för att se eventuella "
+"kommentarer."
+
+#: includes/comments.php:39
+msgid "Comments are closed"
+msgstr "Kommentarer inaktiverade"
+
+#: includes/comments.php:63
+msgid "Name"
+msgstr "Namn"
+
+#: includes/comments.php:66 page-account.php:153 page-single-report.php:395
+#: page-user-profile.php:79
+msgid "Email"
+msgstr "﻿E-post"
+
+#: includes/comments.php:69 page-account.php:309 page-user-profile.php:111
+msgid "Website"
+msgstr "Webbplats"
+
+#: includes/comments.php:75
+msgid "Submit Comment"
+msgstr "Posta kommentar"
+
+#: includes/dash-pages.php:4
+msgid "Recently Added Pages"
+msgstr "Nyligen tillagda sidor"
+
+#: includes/global-projects-nav.php:3
+msgid "All Projects"
+msgstr "Alla projekt"
+
+#: includes/intros.php:22 includes/intros.php:42 includes/intros.php:63
+msgid "Howdy!"
+msgstr "Hejsan!"
+
+#: includes/intros.php:23
+msgid ""
+"If you haven't already done it yet, go tweak some settings to get things "
+"running the way you want."
+msgstr ""
+"Om du inte redan har gjort det, gå och justera inställningarna för att få "
+"saker som du vill."
+
+#: includes/intros.php:24 includes/intros.php:44 includes/intros.php:65
+msgid "Roger that"
+msgstr "Uppfattat"
+
+#: includes/intros.php:25 includes/intros.php:45 includes/intros.php:66
+msgid "Maybe Later"
+msgstr "Kanske senare"
+
+#: includes/intros.php:43
+msgid ""
+"If you haven't already done so, update your profile with as much information "
+"as you can and set some user preferences. This will provide a better "
+"experience for you and everyone else."
+msgstr ""
+"Om du inte redan gjort det, uppdatera din profil med så mycket information "
+"som du kan och ange användarinställningar. Detta ger en bättre upplevelse "
+"för dig och alla andra."
+
+#: includes/intros.php:64
+msgid ""
+"If you haven't already done so, update your profile with as much information "
+"as you can. This will provide a better experience for you and everyone else."
+msgstr ""
+"Om du inte redan gjort det, uppdatera din profil med så mycket information "
+"som du kan. Detta ger en bättre upplevelse för dig och alla andra."
+
+#: includes/license-api.php:84 includes/license-api.php:109
+#: includes/license-api.php:215 includes/license-api.php:228
+msgid "Your license is invalid"
+msgstr "Din licens är ogiltig"
+
+#: includes/license-api.php:97 includes/license-api.php:222
+msgid "Your license is still pending"
+msgstr "Din licens är fortfarande väntande"
+
+#: includes/license-api.php:121 includes/license-api.php:234
+msgid "Your license has expired"
+msgstr "Din licens har gått ut"
+
+#: includes/license-api.php:135 includes/license-api.php:159
+#: includes/license-api.php:248 includes/license-api.php:260
+msgid "Your license is valid"
+msgstr "Din licens är giltig"
+
+#: includes/license-api.php:147 includes/license-api.php:254
+msgid "Your license has already been activated the maximum number of times"
+msgstr "Din licens har redan aktiverat max antal gånger"
+
+#: includes/license-api.php:169
+msgid "Your license is invalid for this install"
+msgstr "Din licens är ogiltig för den här installationen"
+
+#: includes/license-api.php:185
+msgid "Something went wrong"
+msgstr "Något gick fel"
+
+#: includes/license-api.php:207
+msgid "Make sure you've entered in your license correctly"
+msgstr "Kontrollera att du fyllt i licensen korrekt"
+
+#: includes/license-service.php:85 includes/license-service.php:108
+#: includes/license-service.php:139
+msgid "Unexpected Error! The query returned with an error"
+msgstr "Oväntat fel! Frågan returnerade ett fel"
+
+#: includes/messages-task-statuses.php:3
+msgid "was marked complete"
+msgstr "har markerats som slutförd"
+
+#: includes/messages-task-statuses.php:4 includes/messages-task-statuses.php:20
+msgid "Undo"
+msgstr "Ångra"
+
+#: includes/messages-task-statuses.php:12
+msgid "was marked incomplete"
+msgstr "har markerats som inte slutförd"
+
+#: includes/messages-task-statuses.php:19
+msgid "was deleted"
+msgstr "raderades"
+
+#: includes/messages-task-statuses.php:28
+msgid "was restored"
+msgstr "återställdes"
+
+#: includes/messages-task-statuses.php:35
+msgid "is now in progress"
+msgstr "är just nu pågående"
+
+#: includes/messages-task-statuses.php:42
+msgid "is on hold"
+msgstr "är väntande"
+
+#: includes/mini-chart.php:14
+msgid "including all unassigned"
+msgstr "inklusive alla otilldelade"
+
+#: includes/mini-chart.php:22
+msgid "There are no active projects."
+msgstr "Det finns inga aktiva projekt."
+
+#: includes/mini-chart.php:24 includes/recent.php:11
+msgid "Create one?"
+msgstr "Skapa en?"
+
+#: includes/mini-chart.php:26
+msgid "Unless the option is enabled, only administrators can create projects."
+msgstr ""
+"Om inte alternativet är aktiverat så kan endast administratörer skapa "
+"projekt."
+
+#: includes/mini-chart.php:135 includes/mini-chart.php:146
+#: includes/mini-chart.php:147 includes/report-all.php:118
+#, php-format
+msgid "%1$d of %2$d complete, %3$d outstanding"
+msgstr "%1$d av %2$d slutförda, %3$d återstående"
+
+#: includes/mini-chart.php:154 includes/report-all.php:118
+#: includes/report-all.php:162 includes/users.php:55 includes/users.php:59
+#: includes/users.php:84 includes/users.php:88 includes/users.php:114
+#: includes/users.php:118 page-projects.php:258 page-projects.php:268
+#: page-user-profile.php:102
+msgid "Tasks"
+msgstr "Arbetsuppgifter"
+
+#: includes/mini-chart.php:161
+msgid "Total"
+msgstr "Total"
+
+#: includes/mini-chart.php:165
+msgid "Remaining"
+msgstr "Återstående"
+
+#: includes/mini-chart.php:169
+msgid "Details"
+msgstr "Detaljer"
+
+#: includes/mini-chart.php:177 includes/project-data.php:212
+msgid "Hrs allocated"
+msgstr "Timmar tilldelade"
+
+#: includes/mini-chart.php:181 includes/project-data.php:216
+#: page-projects.php:298
+msgid "No time allocated"
+msgstr "Ingen tid tilldelad"
+
+#: includes/mini-chart.php:210 includes/mini-chart.php:233
+#: page-projects.php:355 page-single-report.php:240 page-single-report.php:251
+msgid "hrs"
+msgstr "tim"
+
+#: includes/mini-chart.php:210 includes/mini-chart.php:233
+#: includes/project-data.php:295 page-projects.php:372
+#: page-single-report.php:241 page-single-report.php:252 post-logic.php:302
+#: single.php:539 single.php:554
+msgid "mins"
+msgstr "min"
+
+#: includes/mini-chart.php:232
+msgid "Hrs remaining"
+msgstr "Återstående timmar"
+
+#: includes/mini-chart.php:236 includes/project-data.php:280
+#: page-projects.php:358
+msgid "This project has exceeded the allocated time"
+msgstr "Detta projekt har överskridit den tilldelade tiden"
+
+#: includes/mini-chart.php:237 includes/project-data.php:281
+#: page-projects.php:359
+msgid "Over time by"
+msgstr "Övertid av"
+
+#: includes/mini-chart.php:247
+#, php-format
+msgid "%1$d hrs and %2$d mins"
+msgstr "%1$ d timmar och %2$ d minuter"
+
+#: includes/mini-chart.php:249
+#, php-format
+msgid "%1$d hr and %2$d mins"
+msgstr "%1$d timme och %2$d minuter"
+
+#: includes/mini-chart.php:276 page-projects.php:419
+msgid "Deadline"
+msgstr "Deadline"
+
+#: includes/mini-chart.php:291
+msgid "No project deadline"
+msgstr "Ingen deadline för projekt"
+
+#: includes/mini-chart.php:312 includes/project-data.php:359
+#: page-projects.php:402
+msgid "This project has exceeded the allocated budget"
+msgstr "Detta projekt har överskridit den tilldelade budgeten"
+
+#: includes/mini-chart.php:314 includes/project-data.php:361
+#: page-projects.php:404
+msgid "This project is still within the allocated budget"
+msgstr "Det här projekt är fortfarande inom den tilldelade budgeten"
+
+#: includes/mini-chart.php:335 includes/report-all.php:108
+#: page-single-report.php:188
+msgid "Report"
+msgstr "Rapport"
+
+#: includes/my-active-tasks.php:96
+msgid "You don't have any tasks in this project."
+msgstr "Du har inga arbetsuppgifter i det här projektet."
+
+#: includes/my-completed-tasks.php:92
+msgid "You haven't completed any tasks."
+msgstr "Du har inte slutfört några arbetsuppgifter."
+
+#: includes/own-projects-nav.php:32
+msgid "My Active Projects"
+msgstr "Mina aktiva projekt"
+
+#: includes/previous-owner.php:37
+msgid "Previous Owner"
+msgstr "Tidigare ägare"
+
+#: includes/project-data.php:131
+msgid "Yay! This project appears to complete."
+msgstr "Jippie! Detta projekt tycks vara klart."
+
+#: includes/project-data.php:134
+msgid "View Report"
+msgstr "Visa rapport"
+
+#: includes/project-data.php:151
+msgid "Project Progress"
+msgstr "Projektframsteg"
+
+#: includes/project-data.php:171
+msgid "Task complete"
+msgstr "Arbetsuppgift slutförd"
+
+#: includes/project-data.php:171 page-clients.php:97
+msgid "Tasks complete"
+msgstr "Arbetsuppgifter slutförda"
+
+#: includes/project-data.php:181
+msgid "Task remains"
+msgstr "Återstående arbetsuppgift"
+
+#: includes/project-data.php:191
+msgid "Tasks belonging to me"
+msgstr "Arbetsuppgifter tilldelade mig"
+
+#: includes/project-data.php:211
+msgid "How much time has been allocated to this project"
+msgstr "Hur mycket tid har avsatts för det här projektet"
+
+#: includes/project-data.php:215 page-projects.php:297
+msgid "No time has been allocated to this project"
+msgstr "Ingen tid har avsatts för det här projektet"
+
+#: includes/project-data.php:249
+msgid "How much time has been used on this project"
+msgstr "Hur mycket tid har använts på det här projektet"
+
+#: includes/project-data.php:250 includes/project-data.php:275
+#: page-projects.php:325 post-logic.php:302 single.php:539 single.php:554
+msgid "Hours"
+msgstr "Timmar"
+
+#: includes/project-data.php:250 page-projects.php:325
+msgid "mins used"
+msgstr "minuter använda"
+
+#: includes/project-data.php:253 page-projects.php:328
+msgid "No time has been recorded on this project"
+msgstr "Ingen tid har registrerats för det här projektet"
+
+#: includes/project-data.php:254 page-projects.php:329
+msgid "No time recorded"
+msgstr "Ingen tid registrerad"
+
+#: includes/project-data.php:274
+msgid "How much time is remaining on this project"
+msgstr "Hur mycket tid är kvar på detta projekt"
+
+#: includes/project-data.php:275 page-projects.php:355
+msgid "mins remaining"
+msgstr "minuter kvar"
+
+#: includes/project-data.php:295 page-projects.php:372
+msgid "hr"
+msgstr "tim"
+
+#: includes/project-data.php:316 page-projects.php:419
+msgid "The time frame for this project has passed"
+msgstr "Tidsramen för detta projekt har passerat"
+
+#: includes/project-data.php:316
+msgid "Deadline passed"
+msgstr "Deadline har passerat"
+
+#: includes/project-data.php:323 includes/search-result-project.php:58
+#: page-projects.php:424
+msgid "The time frame for this project"
+msgstr "Tidsramen för det här projektet"
+
+#: includes/project-data.php:323 includes/report-all.php:123
+msgid "Schedule"
+msgstr "Schemalägg"
+
+#: includes/project-data.php:335
+msgid "Job number for this project"
+msgstr "Jobbnummer för det här projektet"
+
+#: includes/project-details-pane.php:27
+msgid "No Project Manager."
+msgstr "Ingen projektledare."
+
+#: includes/project-details-pane.php:31
+#, php-format
+msgid "Do you need to <a href=\"%s\" target=\"_blank\">assign a PM?</a>"
+msgstr "Behöver du <a href=\"%s\" target=\"_blank\">tilldela en PL?</a>"
+
+#: includes/project-details-pane.php:46
+msgid "Change"
+msgstr "Ändra"
+
+#: includes/project-details-pane.php:56 includes/project-details-pane.php:61
+#: page-new-project.php:144
+msgid "Description"
+msgstr "Beskrivning"
+
+#: includes/project-details-pane.php:62
+msgid "No description provided."
+msgstr "Ingen beskrivning angiven."
+
+#: includes/project-details-pane.php:65
+#, php-format
+msgid "Do you need to <a href=\"%s\" target=\"_blank\">add a description?</a>"
+msgstr ""
+"Behöver du <a href=\"%s\" target=\"_blank\">lägga till en beskrivning?</a>"
+
+#: includes/project-details-pane.php:87
+msgid "No Details provided."
+msgstr "Inga detaljer angivna."
+
+#: includes/project-details-pane.php:90
+#, php-format
+msgid "Do you need to <a href=\"%s\" target=\"_blank\">add more details?</a>"
+msgstr ""
+"Behöver du <a href=\"%s\" target=\"_blank\">lägger till fler detaljer?</a>"
+
+#: includes/project-toolbar.php:13
+msgid "My Active Tasks"
+msgstr "Mina aktiva arbetsuppgifter"
+
+#: includes/project-toolbar.php:19
+msgid "My Completed Tasks"
+msgstr "Mina slutförda arbetsuppgifter"
+
+#: includes/project-toolbar.php:25
+msgid "All Active Tasks"
+msgstr "Alla aktiva arbetsuppgifter"
+
+#: includes/project-toolbar.php:31
+msgid "All Completed Tasks"
+msgstr "Alla slutförda arbetsuppgifter"
+
+#: includes/project-toolbar.php:111
+msgid "Sort"
+msgstr "Sortera"
+
+#: includes/project-toolbar.php:120
+msgid "Due Dated"
+msgstr "Deadline"
+
+#: includes/project-toolbar.php:121 page-my-tasks.php:58
+msgid "Modified"
+msgstr "Uppdaterat"
+
+#: includes/project-toolbar.php:123
+msgid "Random"
+msgstr "Slumpvis"
+
+#: includes/project-toolbar.php:124
+msgid "Title"
+msgstr "Titel"
+
+#: includes/project-toolbar.php:125
+msgid "ASC"
+msgstr "Fallande"
+
+#: includes/project-toolbar.php:126
+msgid "DESC"
+msgstr "Stigande"
+
+#: includes/project-users-list.php:2
+msgid "Users involved in this project"
+msgstr "Användare som deltar i det här projektet"
+
+#: includes/projects-involved-in.php:4
+msgid "Projects I'm involved in"
+msgstr "Projekt jag deltar i"
+
+#: includes/projects-involved-in.php:27
+msgid "You are not involved with any projects yet"
+msgstr "Du är inte involverad i några projekt ännu"
+
+#: includes/recent-comments.php:4
+msgid "Recent Comments"
+msgstr "Senaste kommentarer"
+
+#: includes/recent.php:9
+msgid "You don't have any tasks yet."
+msgstr "Du har inga arbetsuppgifter än."
+
+#: includes/recent.php:14
+msgid "Unless the option is enabled, only administrators can create tasks."
+msgstr ""
+"Om inte alternativet är aktiverat, kan endast administratörer skapa "
+"uppgifter."
+
+#: includes/recent.php:22
+msgid "My latest"
+msgstr "Mina senaste"
+
+#: includes/recent.php:26
+msgid "Privacy"
+msgstr "Sekretess"
+
+#: includes/recent.php:28 includes/task-bar.php:11
+msgid "Created"
+msgstr "Skapad"
+
+#: includes/recent.php:29 includes/task-bar.php:39 page-my-tasks.php:59
+msgid "Due"
+msgstr "Deadline"
+
+#: includes/recent.php:33 page-my-tasks.php:62
+msgid "Action"
+msgstr "Åtgärd"
+
+#: includes/recent.php:51
+msgid "New"
+msgstr "Ny"
+
+#: includes/report-all.php:140 includes/search-result-project.php:51
+msgid "PM"
+msgstr "PL"
+
+#: includes/report-all.php:156 page-clients.php:99
+msgid "Progress"
+msgstr "Framsteg"
+
+#: includes/search-result.php:19
+msgid "Download"
+msgstr "Ladda ner"
+
+#: includes/search.php:4 includes/search.php:6
+msgid "Search"
+msgstr "Sök"
+
+#: includes/search.php:11
+msgid "Search in all projects"
+msgstr "Sök i alla projekt"
+
+#: includes/search.php:12
+msgid "Search attachments only"
+msgstr "Sök endast bilagor"
+
+#: includes/task-bar.php:38
+msgid "This task is not overdue"
+msgstr "Denna arbetsuppgift är inte försenad"
+
+#: includes/task-bar.php:41
+msgid "This task is OVERDUE"
+msgstr "Denna arbetsuppgift är FÖRSENAD"
+
+#: includes/task-bar.php:42 page-single-report.php:211
+msgid "Overdue"
+msgstr "Försenad"
+
+#: includes/task-bar.php:69
+msgid "The date this task was completed"
+msgstr "Det datum uppgiften var slutförd"
+
+#: includes/task-bar.php:77 includes/task-bar.php:78
+msgid "Attachment"
+msgstr "Bilaga"
+
+#: includes/task-bar.php:85
+msgid "This task doesn't have an owner"
+msgstr "Den här arbetsuppgiften saknar ägare"
+
+#: includes/task-bar.php:85
+msgid "Unowned"
+msgstr "Saknar ägare"
+
+#: includes/task-bar.php:90
+msgid "The ID of this task"
+msgstr "ID för denna uppgift"
+
+#: includes/task-bar.php:90 single.php:515
+msgid "ID"
+msgstr "ID"
+
+#: includes/task-bar.php:95
+msgid "Job number for this task"
+msgstr "Jobbnummer för den här arbetsuppgiften"
+
+#: includes/task-cost.php:6
+msgid "How much this task has cost so far"
+msgstr "Hur mycket denna uppgift har kostat hittills"
+
+#: includes/task-status-notify.php:92 post-logic.php:234
+msgid "View Task"
+msgstr "Visa arbetsuppgift"
+
+#: includes/task-status-notify.php:105 includes/task-status-notify.php:125
+msgid "changed status"
+msgstr "ändrade status"
+
+#: includes/task-status-notify.php:130
+msgid "Task status changed:"
+msgstr "Status för arbetsuppgift ändrades:"
+
+#: includes/team-activity.php:25
+msgid "Recent Team Activity"
+msgstr "Senaste teamaktivitet"
+
+#: includes/team-activity.php:47
+msgid "Has a new"
+msgstr "Har en ny"
+
+#: includes/team-activity.php:48 single.php:463
+msgid "Added"
+msgstr "Tillagd"
+
+#: includes/time-spent.php:5 includes/time-spent.php:25
+msgid "The time spent on this task so far"
+msgstr "Tid spenderad på den här uppgifter så långt"
+
+#: includes/tips.php:8
+msgid "Limit the scope of your search by using the search filter"
+msgstr "Filtrera din sökning genom att använda sökfiltreringen"
+
+#: includes/tips.php:9
+msgid "Change your password and preferences in"
+msgstr "Ändra ditt lösenord och inställningar i"
+
+#: includes/tips.php:9 includes/tips.php:10 includes/tips.php:20
+#: includes/tips.php:23
+msgid "Account Settings"
+msgstr "Kontoinställningar"
+
+#: includes/tips.php:10
+msgid "Upload your photo in"
+msgstr "Ladda upp din bild i"
+
+#: includes/tips.php:10
+msgid "to improve your Task Rocket experience"
+msgstr "för att förbättra din användarupplevels i Task Rocket"
+
+#: includes/tips.php:11
+msgid "Overdue items will be shown in red"
+msgstr "Försenade poster kommer att visas i rött"
+
+#: includes/tips.php:12
+msgid ""
+"Tasks priorities are indicated by colour. Blue = Low, Green = Normal, Orange "
+"= High and Red = Urgent"
+msgstr ""
+"Prioritering för arbetsuppgifter anges med färger. Blå = låg, grön = normal, "
+"orange = hög och röd = brådskande"
+
+#: includes/tips.php:13
+msgid "You can attach multiple files to tasks"
+msgstr "Du kan bifoga flera filer till arbetsuppgifter"
+
+#: includes/tips.php:14
+msgid "Set start and due dates on any project"
+msgstr "Ange start- och slutdatum för projekt"
+
+#: includes/tips.php:15
+msgid ""
+"You can change the status of a task to Complete, Incomplete, On Hold or In "
+"Progress"
+msgstr ""
+"Du kan ändra status för en arbetsuppgift till slutfört, inte slutfört, "
+"väntande eller pågående"
+
+#: includes/tips.php:16
+msgid "Set start and due dates on any task"
+msgstr "Ange start- och slutdatum för arbetsuppgift"
+
+#: includes/tips.php:17
+msgid "Add a job number to any task or project"
+msgstr "Lägg till ett jobbnummer för uppgift eller projekt"
+
+#: includes/tips.php:18
+msgid ""
+"Set your hourly rate (admin), and specify a time frame for any given project "
+"to keep an eye on costs"
+msgstr ""
+"Ställa din timlön (admin), och ange en tidsram för ett givet projekt att "
+"hålla koll på kostnaderna"
+
+#: includes/tips.php:19
+msgid ""
+"Disable Gravatars (Settings -> Discussion) to allow users to upload their "
+"own profile photo"
+msgstr ""
+"Inaktivera Gravatarer (Inställningar -> Diskussion) så att användare kan "
+"ladda upp egna profilbilder"
+
+#: includes/tips.php:20
+msgid "Update your"
+msgstr "Uppdatera din"
+
+#: includes/tips.php:20
+msgid "to share useful information with other team members"
+msgstr "för att dela användbar information med andra gruppmedlemmar"
+
+#: includes/tips.php:21
+msgid ""
+"Keep track of time used by simply logging your time when you edit a task"
+msgstr ""
+"Hålla reda på tid som används genom att helt enkelt logga din tid när du "
+"arbetar med en uppgift"
+
+#: includes/tips.php:22
+msgid "Projects that have gone over cost will be shown in red"
+msgstr "Projekt som gått över satt budget visas i rött"
+
+#: includes/tips.php:23
+msgid "See what projects you're involved in by visiting your"
+msgstr "Se vilka projekt du deltar i genom att besöka din"
+
+#: includes/tips.php:24
+msgid "See a complete list of"
+msgstr "Se en fullständig lista över"
+
+#: includes/tips.php:24
+msgid "All your tasks"
+msgstr "Alla dina arbetsuppgifter"
+
+#: includes/tips.php:25
+msgid "When viewing a report, you can email a report to anyone"
+msgstr "När du visar en rapport, kan du maila en rapport till någon"
+
+#: includes/tips.php:26
+msgid "The toolbar icons will change depending on where you are in Task Rocket"
+msgstr ""
+"Verktygsfältsikoner ändras beroende på var du befinner dig i Task Rocket"
+
+#: includes/tips.php:27
+msgid "Administrators can make their own tasks private"
+msgstr "Administratörer kan göra sina egna uppgifter privata"
+
+#: includes/tips.php:28
+msgid "Grab the free"
+msgstr "Hämta det gratis"
+
+#: includes/tips.php:28
+msgid "Task Rocket Chrome Extension"
+msgstr "Task Rocket-Chrometillägg"
+
+#: includes/users.php:83
+msgid "Team Member"
+msgstr "Medarbetare"
+
+#: includes/users.php:113
+msgid "Client"
+msgstr "Klient"
+
+#: page-account.php:77
+msgid "Your details were successfully updated."
+msgstr "Dina uppgifter har uppdaterats."
+
+#: page-account.php:110
+msgid "Gravatars are in use."
+msgstr "Gravatars används."
+
+#: page-account.php:114
+#, php-format
+msgid ""
+"If you would rather upload a photo, disable \"Show Avatars\" in the "
+"WordPress <a href=\"%1$s\" target=\"_blank\">discussion settings</a>.<br /"
+">Otherwise, edit your gravatar by logging in (or creating an account) with "
+"your email address at <a href=\"%2$s\" target=\"_blank\">gravatar.com</a>"
+msgstr ""
+"Om du hellre vill ladda upp en bild, inaktivera \"Visa avatarer\" i "
+"WordPress <a href=\"%1$s\" target=\"_blank\">diskussionsinställningar</a>."
+"<br>Annars, redigera din gravatar genom att logga in (eller skapa ett konto) "
+"med din e-postadress på <a href=\"%2$s\" target=\"_blank\">gravatar.com</a>"
+
+#: page-account.php:127
+msgid "Upload a photo"
+msgstr "Ladda upp en bild"
+
+#: page-account.php:138
+msgid "First name"
+msgstr "Förnamn"
+
+#: page-account.php:143
+msgid "Last name"
+msgstr "Efternamn"
+
+#: page-account.php:148
+msgid "Nickname"
+msgstr "Smeknamn"
+
+#: page-account.php:163
+msgid "New password"
+msgstr "Nytt lösenord"
+
+#: page-account.php:168
+msgid "Confirm new password"
+msgstr "Bekräfta nytt lösenord"
+
+#: page-account.php:190
+msgid "Enter a brief bio"
+msgstr "Skriv en kort biografi"
+
+#: page-account.php:195
+msgid "Dashboard preferences"
+msgstr "Inställningar för adminpanel"
+
+#: page-account.php:207
+msgid "Recent tasks"
+msgstr "Senaste arbetsuppgifter"
+
+#: page-account.php:233
+msgid "Recent pages"
+msgstr "Senaste sidor"
+
+#: page-account.php:251
+msgid "Tabs Order on project pages"
+msgstr "Ordning för flikar på projektsidor"
+
+#: page-account.php:337
+msgid "Update"
+msgstr "Uppdatera"
+
+#: page-clients.php:38
+msgid ""
+"Hi! If you're reading this it means you haven't been assigned to any "
+"project. Please notify an administrator and then reload this page."
+msgstr ""
+"Hej! Om du läser detta betyder det du inte har tilldelats något projekt. "
+"Vänligen meddela en administratör och ladda sedan om sidan."
+
+#: page-clients.php:96
+msgid "Tasks total"
+msgstr "Arbetsuppgifter totalt"
+
+#: page-my-tasks.php:21
+msgid "My"
+msgstr "Mina"
+
+#: page-new-project.php:52
+msgid "Project added. Go to"
+msgstr "Projekt tillagt. Gå till"
+
+#: page-new-project.php:52
+msgid "to start adding tasks, or add another project below."
+msgstr ""
+"för att lägga till arbetsuppgifter eller lägga till ytterligare projekt "
+"nedan."
+
+#: page-new-project.php:95
+#, php-format
+msgid "Sorry, but a project called %1$s already exists."
+msgstr "Ledsen, men ett projekt kallat %1$s redan finns."
+
+#: page-new-project.php:136
+msgid "Project name"
+msgstr "Projektnamn"
+
+#: page-new-project.php:207
+msgid "Select a Project Manager"
+msgstr "Välj en projektledare"
+
+#: page-new-project.php:247
+msgid "Project details"
+msgstr "Projektdetaljer"
+
+#: page-new-project.php:252
+msgid "Create Project"
+msgstr "Skapa projekt"
+
+#: page-new-project.php:268
+msgid ""
+"Sorry, but the ability to create projects has not been enabled by an "
+"administrator. You'll need to ping one of these admin(s)"
+msgstr ""
+"Ledsen, men möjligheten att skapa projekt har inte aktiverats av "
+"administratören. Du måste uppmärksamma en administratör"
+
+#: page-new-task.php:32
+msgid "was added"
+msgstr "lades till"
+
+#: page-new-task.php:34
+msgid "to"
+msgstr "till"
+
+#: page-new-task.php:50
+msgid ""
+"Sorry, but the ability to create tasks has not been enabled by an "
+"administrator. You'll need to ping one of these admin(s)"
+msgstr ""
+"Ledsen, men möjligheten att skapa arbetsuppgifter har inte aktiverats av "
+"administratören. Du måste uppmärksamma en administratör"
+
+#: page-projects.php:64
+msgid "and associated tasks have been deleted."
+msgstr "och associerade arbetsuppgifter har tagits bort."
+
+#: page-projects.php:80 page-report.php:93
+msgid "Tasks outstanding"
+msgstr "Återstående arbetsuppgifter"
+
+#: page-projects.php:87 page-report.php:100
+msgid "Tasks on hold"
+msgstr "Pausade arbetsuppgifter"
+
+#: page-projects.php:235
+msgid "Delete this project"
+msgstr "Radera projekt"
+
+#: page-projects.php:238
+msgid "Really delete the"
+msgstr "Verkligen ta bort"
+
+#: page-projects.php:239
+msgid "Yes, do it"
+msgstr "Ja, gör det"
+
+#: page-projects.php:240
+msgid "No!"
+msgstr "Nej!"
+
+#: page-projects.php:241
+msgid "If this project is deleted, any associated tasks will also be deleted."
+msgstr ""
+"Om detta projekt tas bort, raderas även alla associerade arbetsuppgifter."
+
+#: page-projects.php:251
+msgid "All tasks complete!"
+msgstr "Alla arbetsuppgifter slutförda"
+
+#: page-projects.php:260
+msgid "task is"
+msgstr "arbetsuppgiften är"
+
+#: page-projects.php:260
+msgid "tasks are"
+msgstr "arbetsuppgifterna är"
+
+#: page-projects.php:268
+msgid "outstanding"
+msgstr "återstående"
+
+#: page-projects.php:293
+msgid "The time allocated to this project"
+msgstr "Tid tilldelad det här projektet"
+
+#: page-projects.php:372
+msgid "and"
+msgstr "och"
+
+#: page-single-report.php:183
+msgid "You emailed the report to"
+msgstr "Du skickade rapporten till"
+
+#: page-single-report.php:206
+msgid "All"
+msgstr "Alla"
+
+#: page-single-report.php:213
+msgid "Low Priority"
+msgstr "Låg prioritet"
+
+#: page-single-report.php:215
+msgid "High Priority"
+msgstr "Hög prioritet"
+
+#: page-single-report.php:216
+msgid "Urgent Priority"
+msgstr "Brådskande prioritet"
+
+#: page-single-report.php:256
+msgid ""
+"Remaining time can not be determined because this project does not have time "
+"allocated"
+msgstr ""
+"Återstående tid kan inte fastställas eftersom detta projekt inte har någon "
+"tilldelad tidsram"
+
+#: page-single-report.php:256
+msgid "Indeterminable"
+msgstr "Obestämbar"
+
+#: page-single-report.php:282
+msgid "All Tasks"
+msgstr "Alla arbetsuppgifter"
+
+#: page-single-report.php:288
+msgid ""
+"Reports can contain a lot of data. To see everything in the table, you may "
+"have to scroll left and right."
+msgstr ""
+"Rapporter kan innehålla en hel del data. För att se allt i tabellen, kan du "
+"behöva skrolla till vänster och höger."
+
+#: page-single-report.php:426
+msgid "Send"
+msgstr "Skicka"
+
+#: page-user-profile.php:97
+msgid "View"
+msgstr "Visa"
+
+#: post-logic.php:106 post-logic.php:112 post-logic.php:120 post-logic.php:131
+msgid "New task created by "
+msgstr "Ny arbetsuppgift tillagd av "
+
+#: post-logic.php:237
+msgid "Note"
+msgstr "Observera"
+
+#: post-logic.php:237
+msgid "This task was submitted by a client "
+msgstr "Den här arbetsuppgiften lades till av en klient "
+
+#: post-logic.php:238
+msgid "Note: This task was submitted by a client"
+msgstr "Notera: den här arbetsuppgiften lades till av en klient"
+
+#: post-logic.php:249 post-logic.php:250 post-logic.php:260 post-logic.php:261
+msgid "Any time"
+msgstr "Närsomhelst"
+
+#: post-logic.php:369
+msgid "a task"
+msgstr "en arbetsuppgift"
+
+#: post-logic.php:387 post-logic.php:437 single.php:533 single.php:548
+msgid "Time spent"
+msgstr "Spenderad tid"
+
+#: post-logic.php:403 post-logic.php:441 single.php:599 single.php:602
+msgid "Visibility"
+msgstr "Synlighet"
+
+#: post-logic.php:431
+msgid "created a task"
+msgstr "lade till en arbetsuppgift"
+
+#: post-logic.php:432
+msgid "Task info"
+msgstr "Information för arbetsuppgift"
+
+#: post-logic.php:434
+msgid "Project URL"
+msgstr "Projektadress"
+
+#: search.php:39
+msgid "Your search for"
+msgstr "Din sökning efter"
+
+#: search.php:39
+msgid "with the term"
+msgstr "med termen"
+
+#: search.php:44
+msgid "found"
+msgstr "funna"
+
+#: search.php:44
+msgid "result"
+msgstr "resultat"
+
+#: search.php:76
+msgid "Nothing found"
+msgstr "Inget kunde hittas"
+
+#: search.php:77
+msgid "I couldn't find anything related to"
+msgstr "Jag kunde inte hitta något med anknytning till"
+
+#: single.php:8
+msgid "This is a private task owned by an administrator"
+msgstr "Detta är en privat uppgift som ägs av en administratör"
+
+#: single.php:111
+msgid "was updated"
+msgstr "uppdaterades"
+
+#: single.php:128
+msgid "To take ownership of this task, simply reassign it to yourself."
+msgstr "För att åta dig denna uppgift, tilldela den till dig själv."
+
+#: single.php:200
+msgid "Reassign this task?"
+msgstr "Tilldela om uppgiften?"
+
+#: single.php:314
+msgid "Log time"
+msgstr "Logga tid"
+
+#: single.php:323
+msgid "min incs"
+msgstr "min steg"
+
+#: single.php:341
+msgid "Attach"
+msgstr "Bifoga"
+
+#: single.php:341
+msgid "more files"
+msgstr "fler filer"
+
+#: single.php:362
+msgid "Update Task"
+msgstr "Uppdatera arbetsuppgift"
+
+#: single.php:423
+msgid "Task Details"
+msgstr "Detaljer för arbetsuppgift"
+
+#: single.php:603
+msgid "Public"
+msgstr "Offentligt"
+
+#: single.php:653
+msgid "Additional Info"
+msgstr "Ytterligare information"
+
+#. Theme URI of the plugin/theme
+msgid "http://taskrocket.info"
+msgstr "http://taskrocket.info"
+
+#. Description of the plugin/theme
+msgid "The awesomest front-end project management system on WordPress."
+msgstr "Det bästa projekthanteringssystemet för WordPress med front end."
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"
+
+#. Author URI of the plugin/theme
+msgid "http://michaelott.id.au"
+msgstr "http://michaelott.id.au"

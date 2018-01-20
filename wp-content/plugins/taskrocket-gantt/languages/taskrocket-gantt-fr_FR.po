@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"Project-Id-Version: Task Rocket Gantt\n"
+"POT-Creation-Date: 2016-06-29 21:29+0800\n"
+"PO-Revision-Date: 2016-09-30 12:26+0000\n"
+"Last-Translator: bastien <bastien.berenguier@gmail.com>\n"
+"Language-Team: French (France)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-gantt.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Language: fr-FR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: "
+
+#: gantt/script.php:127
+msgid "Project manager"
+msgstr "Gestionnaire de projet"
+
+#: gantt/script.php:127 gantt/script.php:257
+msgid "Start date"
+msgstr "Date de début"
+
+#: gantt/script.php:127
+msgid "Due date"
+msgstr "Date d'échéance"
+
+#: gantt/script.php:127
+msgid "Time allocated"
+msgstr "Temps alloué"
+
+#: gantt/script.php:127
+msgid "Time spent"
+msgstr "Temps passé"
+
+#: gantt/script.php:127
+msgid "hrs"
+msgstr "heures"
+
+#: gantt/script.php:127
+msgid "mins"
+msgstr "minutes"
+
+#: gantt/script.php:127 gantt/script.php:257
+msgid "Job #"
+msgstr "#"
+
+#: gantt/script.php:144 gantt/script.php:271
+msgid "Please wait"
+msgstr "Patientez"
+
+#: gantt/script.php:231
+msgid "Incomplete"
+msgstr "Incomplet"
+
+#: gantt/script.php:234
+msgid "On hold"
+msgstr "En attente"
+
+#: gantt/script.php:237
+msgid "In progress"
+msgstr "En cours"
+
+#: gantt/script.php:240
+msgid "Complete"
+msgstr "Terminé"
+
+#: gantt/script.php:257
+msgid "Owner"
+msgstr "Propriétaire"
+
+#: gantt/script.php:257
+msgid "End date"
+msgstr "Date de fin"
+
+#: gantt/script.php:257
+msgid "Priority"
+msgstr "Priorité"
+
+#: gantt/script.php:257
+msgid "Status"
+msgstr "Statut"
+
+#: gantt/script.php:257
+msgid "Comments"
+msgstr "Commentaires"
+
+#: options.php:1
+msgid "Gantt Settings"
+msgstr "Paramètres de Gantt"
+
+#: options.php:8
+msgid ""
+"Gantt requires Task Rocket version 4 or higher, and you are running version:"
+msgstr ""
+"Gantt requiert Task Rocket version 4 ou supérieure, et vous utilisez "
+"actuellement:"
+
+#: options.php:11
+msgid "<a href=\"%s\">Update Now</a>"
+msgstr "<a href=\"%s\">Mettez à jour maintenant</a>"
+
+#: options.php:20
+msgid "Show the Gantt chart"
+msgstr "Afficher le diagramme de Gantt"
+
+#: options.php:23
+msgid ""
+"Show the Gantt chart at these locations. (Note: Items only show in Gantt "
+"charts if they have both start and end dates.)"
+msgstr ""
+"Afficher le diagramme de Gantt à ces endroits. (Note: les diagrammes de "
+"Gantt n'affichent que des tâches qui ont à la fois des dates de début et de "
+"fin)."
+
+#: options.php:26
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: options.php:30
+msgid "All Active Projects"
+msgstr "Tous les projets actifs"
+
+#: options.php:34
+msgid "Project (individual)"
+msgstr "Projet (individuel)"
+
+#: options.php:38
+msgid "Reports"
+msgstr "Rapports"
+
+#: options.php:42
+msgid "Report (individual)"
+msgstr "Rapport (individuel)"
+
+#: options.php:46
+msgid "Client projects (only for projects they have access to)"
+msgstr "Projets clients (seulement pour les projets auxquels ils ont accès)"
+
+#: options.php:53
+msgid "All projects view scale"
+msgstr "Échelle de vue de tous les projets"
+
+#: options.php:56
+msgid ""
+"The initial overview scale when all projects are shown in the Gantt chart."
+msgstr "L'échelle initiale dans les diagrammes de Gantt."
+
+#: options.php:59 options.php:75
+msgid "Hours"
+msgstr "Heures"
+
+#: options.php:60 options.php:76
+msgid "Days"
+msgstr "Jours"
+
+#: options.php:61 options.php:77
+msgid "Weeks"
+msgstr "Semaines"
+
+#: options.php:62 options.php:78
+msgid "Months"
+msgstr "Mois"
+
+#: options.php:69
+msgid "Individual projects view scale"
+msgstr "Échelle de vue des projets individuels"
+
+#: options.php:72
+msgid ""
+"The initial overview scale when viewing an individual project in the Gantt "
+"chart."
+msgstr ""
+"L'échelle initiale pour un projet individuel dans un diagramme de Gantt."
+
+#: options.php:85
+msgid "Hide completed tasks"
+msgstr "Masquer les tâches terminées"
+
+#: options.php:88
+msgid "Do not show completed tasks in the Gantt chart."
+msgstr "Ne pas afficher les tâches terminées dans le diagramme de Gantt."
+
+#: options.php:95
+msgid "Pagination"
+msgstr "Pagination"
+
+#: options.php:99
+msgid "How many items to show per vertical pagination."
+msgstr "Combien de tâches afficher dans la pagination verticale."
+
+#: options.php:106
+msgid "Navigation"
+msgstr "Navigation"
+
+#: options.php:109
+msgid "What type of navigation to use for the Gantt chart."
+msgstr "Quel type de navigation utiliser dans le diagramme de Gantt"
+
+#: options.php:112
+msgid "Buttons"
+msgstr "Boutons"
+
+#: options.php:113
+msgid "Slider"
+msgstr "Slider"
+
+#: options.php:120
+msgid "Scroll to today"
+msgstr "Défiler jusqu'à aujourd'hui"
+
+#: options.php:123
+msgid "Automatically scroll the Gantt chart to the current day."
+msgstr "Défiler automatiquement le diagramme de Gantt au jour actuel"
+
+#: options.php:130
+msgid "Show project description"
+msgstr "Afficher la description du projet"
+
+#: options.php:133
+msgid ""
+"When hovering over a Gantt item, show the project description if it has one."
+msgstr ""
+"En survolant un diagramme de Gantt, afficher la description du projet s'il "
+"en a une."
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Gantt"
+msgstr "Task Rocket Gantt"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/gantt/"
+msgstr "https://taskrocket.info/gantt/"
+
+#. Description of the plugin/theme
+msgid "Gantt charts for Task Rocket (requires at least Task Rocket 4.0)"
+msgstr ""
+"Diagramme de Gantt pour Task Rocket (requiert au moins Task Rocket 4.0)"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

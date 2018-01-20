@@ -1,0 +1,116 @@
+#
+# Ramon Perez <raperez@bIzkaia.eu>, 2016.
+#
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Task Rocket Kanban\n"
+"POT-Creation-Date: 2016-08-28 13:25+0800\n"
+"PO-Revision-Date: 2016-09-01 19:02+0200\n"
+"Language-Team: español <raperez@bizkaia.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 2.91.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-kanban.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Ramon Perez <raperez@bIzkaia.eu>\n"
+"Language: en_GB\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: kanban-board.php:9
+msgid "Close"
+msgstr "Cerrar"
+
+#: kanban-board.php:15
+msgid "Todo"
+msgstr "Por hacer"
+
+#: kanban-board.php:39 kanban-board.php:130 kanban-board.php:222
+#: kanban-board.php:313
+msgid "Task ID"
+msgstr "ID tarea"
+
+#: kanban-board.php:54 kanban-board.php:145 kanban-board.php:237
+#: kanban-board.php:328
+msgid "Private Task"
+msgstr "Tarea privada"
+
+#: kanban-board.php:64 kanban-board.php:66 kanban-board.php:154
+#: kanban-board.php:156 kanban-board.php:246 kanban-board.php:248
+#: kanban-board.php:337 kanban-board.php:339
+msgid "Priority"
+msgstr "Prioridad"
+
+#: kanban-board.php:66 kanban-board.php:156 kanban-board.php:248
+#: kanban-board.php:339
+msgid "Normal"
+msgstr "Normal"
+
+#: kanban-board.php:84 kanban-board.php:174 kanban-board.php:266
+#: kanban-board.php:357
+msgid "unowned task"
+msgstr "Tarea sin propietario"
+
+#: kanban-board.php:85 kanban-board.php:175 kanban-board.php:267
+#: kanban-board.php:358
+msgid "Take Ownership"
+msgstr "Tomar propiedad"
+
+#: kanban-board.php:105
+msgid "In Progress"
+msgstr "En progreso"
+
+#: kanban-board.php:197
+msgid "On Hold"
+msgstr "En espera"
+
+#: kanban-board.php:289
+msgid "Done"
+msgstr "Hecho"
+
+#: kanban.php:1
+msgid "View Kanban Board"
+msgstr "Ver Tablero Kanban"
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "No hay log de cambios disponible."
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Chequear actualizaciones"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Este plugin está actualizado."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Existe una nueva versión del plugin."
+
+#: plugin-updates/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Estado del chequeador de actualizaciones desconocido \"%s\""
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Kanban"
+msgstr "Task Rocket Kanban"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/kanban/"
+msgstr "https://taskrocket.info/kanban/"
+
+#. Description of the plugin/theme
+msgid "Kanban board overview for Task Rocket projects"
+msgstr "Visión general del tablero Kanban para proyectos Task Rocket"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

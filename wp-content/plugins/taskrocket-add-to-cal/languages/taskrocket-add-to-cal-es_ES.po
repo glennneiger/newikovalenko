@@ -1,0 +1,142 @@
+#
+# Ramon Perez <raperez@bIzkaia.eu>, 2016.
+#
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Task Rocket Add To Cal\n"
+"POT-Creation-Date: 2016-06-30 06:48+0800\n"
+"PO-Revision-Date: 2016-07-11 19:13+0200\n"
+"Language-Team: español <raperez@bizkaia.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 2.91.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-add-to-cal.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Ramon Perez <raperez@bIzkaia.eu>\n"
+"Language: en_GB\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: cal-links.php:31 cal-links.php:63
+msgid "Google Calendar"
+msgstr ""
+
+#: cal-links.php:33 cal-links.php:40 cal-links.php:47 cal-links.php:54
+msgid "Add to"
+msgstr "Añadir a"
+
+#: cal-links.php:38 cal-links.php:65
+msgid "Yahoo! Calendar"
+msgstr ""
+
+#: cal-links.php:45
+msgid "Microsoft Calendar"
+msgstr ""
+
+#: cal-links.php:52
+msgid "iCal"
+msgstr ""
+
+#: cal-links.php:54
+msgid "Outlook, Apple & other desktop calendars"
+msgstr "Outlook, Apple & otros calendarios de escritorio"
+
+#: cal-links.php:60
+msgid "Add this project to your calendar"
+msgstr "Añade este proyecto a tu calendario"
+
+#: cal-links.php:60
+msgid "Add to Cal"
+msgstr "Añadir al Calendario"
+
+#: cal-links.php:69
+msgid "iCal compatible"
+msgstr ""
+
+#: options.php:1
+msgid "Add To Cal Settings"
+msgstr "Configuración de Add to Cal"
+
+#: options.php:8
+msgid ""
+"Add To Cal requires Task Rocket version 3 or higher, and you are running "
+"version:"
+msgstr ""
+"Add to Cal necesita la versión 3 de Task Rocket o superior y la tuya es la "
+"versión:"
+
+#: options.php:11
+#, php-format
+msgid "<a href=\"%s\">Update Now</a>"
+msgstr "<a href=\"%s\">Actualizar Ahora</a>"
+
+#: options.php:20
+msgid "Prefered calendar application"
+msgstr "Aplicación de calendario preferida"
+
+#: options.php:23
+msgid "Google Calendar (web)"
+msgstr ""
+
+#: options.php:24
+msgid "Yahoo Calendar (web)"
+msgstr ""
+
+#: options.php:25
+msgid "Microsoft Calendar (web)"
+msgstr ""
+
+#: options.php:26
+msgid "iCal compatible desktop calendars (Outlook, Apple & others)"
+msgstr ""
+"Calendarios de escritorio compatbiles con ical (Outlook, Apple, & otros)"
+
+#: options.php:27
+msgid "Let me choose on the front-end"
+msgstr "Déjame elegir el front-end"
+
+#: options.php:30
+msgid ""
+"Which calendar application would you like the \"Add to\" button to use on "
+"the front-end"
+msgstr ""
+"Qué aplicación de calendario prefieres que use el botón \"Añadir A\" en el "
+"front-end"
+
+#: options.php:32
+msgid "Help: Apps with iCal support"
+msgstr "Ayuda:Aplicaciones con soporte iCal"
+
+#: options.php:41
+msgid "Show on all projects"
+msgstr "Mostrar en todos los proyectos"
+
+#: options.php:44
+msgid ""
+"Show the button on all projects. If disabled, the button will only show on "
+"projects that have a due date."
+msgstr ""
+"Mostrar el botón en todos los proyectos. If está deshabilitado, el botón "
+"sólo se mostrará en proyectos con fecha de fin."
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Add To Cal"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/add-to-cal/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Dedicated Add To Calendar functionality for Task Rocket"
+msgstr "Funcionalidad dedicada Add to Calendar para Task Rocket"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr ""

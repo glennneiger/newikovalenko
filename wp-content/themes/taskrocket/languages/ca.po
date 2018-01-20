@@ -1,0 +1,3069 @@
+#
+# Ramon Perez <raperez@bIzkaia.eu>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Task Rocket\n"
+"POT-Creation-Date: 2016-12-28 09:52+0100\n"
+"PO-Revision-Date: 2016-12-28 09:58+0100\n"
+"Last-Translator: Oriol Carbonell <info@oriolcarbonell.cat>\n"
+"Language-Team: català <info@eina.io>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid "404: Don't Freak Out"
+msgstr "404: No s’ha trobat"
+
+#: 404.php:7
+msgid "The page may have existed at some time, but it doesn't now."
+msgstr "Potser la pàgina ha existit en algun moment, pero actualment no."
+
+#: 404.php:8
+msgid ""
+"If you were expecting a page or a task, you may have accidentally deleted "
+"it. If so just restore it from the trash."
+msgstr ""
+"Si estavas esperant una pàgina o una tasca, és possible que l’ahigis "
+"esborrat accidentalment. Si és així simplement restaurar-la des de la "
+"paperera."
+
+#: 404.php:9
+msgid ""
+"Otherwise the search may be your best bet to find what you're looking for."
+msgstr ""
+"Potser, la cerca pot ser la teva millor aposta per trobar el que estàs "
+"buscant."
+
+#: category.php:17
+msgid "This project has been archived."
+msgstr "Aquest projecte ha estat desat."
+
+#: category.php:17
+msgid ""
+"If you require access to this project an administrator will need to pull it "
+"from the archives."
+msgstr ""
+"Si necessita accés a aquest projecte un administrador haurà de estirar-lo a "
+"partir dels arxius."
+
+#: email-report.php:74 includes/mini-chart.php:334
+msgid "Go to Project"
+msgstr "Anar al Projecte"
+
+#: email-report.php:94
+msgid "This report was sent by"
+msgstr "Informe enviat per"
+
+#: email-report.php:103 header.php:278 page-single-report.php:222
+msgid "Project Details"
+msgstr "Detalls del projecte"
+
+#: email-report.php:107 includes/project-data.php:161
+#: page-single-report.php:225
+msgid "Total tasks"
+msgstr "Tasques totals"
+
+#: email-report.php:109 functions.php:1950 includes/add-task-form.php:129
+#: includes/mini-chart.php:273 includes/mini-chart.php:281
+#: includes/task-bar.php:25 page-my-tasks.php:120 page-new-project.php:257
+#: page-single-report.php:235 post-logic.php:395 post-logic.php:439
+#: single.php:305 single.php:511 single.php:514
+msgid "Start date"
+msgstr "Data d’inici"
+
+#: email-report.php:113 page-single-report.php:226
+msgid "Outstanding tasks"
+msgstr "Tasques"
+
+#: email-report.php:115 email-report.php:154 functions.php:1953
+#: page-my-tasks.php:123 page-single-report.php:236 page-single-report.php:302
+#: page-single-report.php:314 post-logic.php:399 post-logic.php:440
+#: single.php:310 single.php:535 single.php:540
+msgid "Due Date"
+msgstr "Data de venciment"
+
+#: email-report.php:119 page-single-report.php:227
+msgid "Completed tasks"
+msgstr "Tasques completades"
+
+#: email-report.php:121 page-single-report.php:237
+msgid "Time allocated"
+msgstr "Temps assignat"
+
+#: email-report.php:125 functions.php:2328 functions.php:2427
+#: includes/project-details-pane.php:29 includes/project-details-pane.php:40
+#: includes/search-result-project.php:49 page-single-report.php:228
+msgid "Project Manager"
+msgstr "Gestor/a del Projecte"
+
+#: email-report.php:127 includes/mini-chart.php:209 page-single-report.php:238
+msgid "Time used"
+msgstr "Temps utilitzat"
+
+#: email-report.php:131 functions.php:2316 functions.php:2320
+#: functions.php:2418 includes/add-task-form.php:145
+#: includes/project-details-pane.php:22 page-new-project.php:282
+#: page-single-report.php:230 single.php:362 single.php:472 single.php:476
+msgid "Job number"
+msgstr "Número de treball"
+
+#: email-report.php:133 page-single-report.php:246
+msgid "Time remaining"
+msgstr "Temps que queda"
+
+#: email-report.php:137 includes/mini-chart.php:318 page-single-report.php:231
+msgid "Budget"
+msgstr "Pressupost"
+
+#: email-report.php:139 email-report.php:159 includes/recent.php:31
+#: includes/task-cost.php:7 page-my-tasks.php:61 page-single-report.php:262
+#: page-single-report.php:306 page-single-report.php:318 post-logic.php:391
+#: post-logic.php:438
+msgid "Cost"
+msgstr "Cost"
+
+#: email-report.php:147
+msgid "Project Tasks"
+msgstr "Tasques del projecte"
+
+#: email-report.php:148
+msgid "Status Legend"
+msgstr "Llegenda d'estat"
+
+#: email-report.php:148 functions.php:350 functions.php:1990
+#: includes/action.php:7 includes/action.php:25
+#: includes/task-status-notify.php:71 page-single-report.php:207
+#: page-single-report.php:352 post-logic.php:286 single.php:321 single.php:337
+msgid "Incomplete"
+msgstr "Incompleta"
+
+#: email-report.php:148 functions.php:347 functions.php:1986
+#: includes/action.php:4 includes/action.php:21 includes/mini-chart.php:157
+#: includes/task-status-notify.php:67 page-projects.php:239
+#: page-single-report.php:208 page-single-report.php:355 post-logic.php:284
+#: single.php:324 single.php:335
+msgid "Complete"
+msgstr "Completa"
+
+#: email-report.php:148
+msgid "In Progress"
+msgstr "En procés"
+
+#: email-report.php:148
+msgid "On Hold"
+msgstr "A la espera"
+
+#: email-report.php:152 includes/project-data.php:161
+#: includes/team-activity.php:47 page-my-tasks.php:56 page-projects.php:108
+#: page-report.php:107 page-single-report.php:300 page-single-report.php:312
+msgid "Task"
+msgstr "Tasques"
+
+#: email-report.php:153 includes/project-toolbar.php:139
+#: page-single-report.php:301 page-single-report.php:313
+msgid "Date Added"
+msgstr "Data de creació"
+
+#: email-report.php:155 includes/task-bar.php:74 includes/team-activity.php:52
+msgid "Completed"
+msgstr "Completat"
+
+#: email-report.php:156 functions.php:1960 includes/add-task-form.php:121
+#: includes/all-active-tasks.php:81 includes/my-active-tasks.php:60
+#: includes/recent.php:24 page-my-tasks.php:57 page-single-report.php:303
+#: page-single-report.php:315 post-logic.php:379 post-logic.php:435
+#: single.php:297 single.php:485 single.php:489
+msgid "Priority"
+msgstr "Prioritat"
+
+#: email-report.php:157 functions.php:850 functions.php:1983
+#: page-single-report.php:304 page-single-report.php:316 post-logic.php:407
+#: post-logic.php:442 single.php:333 single.php:558
+msgid "Status"
+msgstr "Estat"
+
+#: email-report.php:158 includes/recent.php:30 includes/time-spent.php:6
+#: includes/time-spent.php:26 page-my-tasks.php:60 page-new-project.php:273
+#: page-single-report.php:305 page-single-report.php:317
+msgid "Time"
+msgstr "Temps"
+
+#: email-report.php:160 includes/project-toolbar.php:142
+#: page-single-report.php:307 page-single-report.php:319 single.php:662
+msgid "Owner"
+msgstr "Propirtàri"
+
+#: email-report.php:280 header.php:253
+msgid "Project Report"
+msgstr "Informe del Projecte"
+
+#: functions.php:178
+msgid "Web"
+msgstr "Web"
+
+#: functions.php:179
+msgid "Github"
+msgstr "Github"
+
+#: functions.php:180 page-account.php:314 page-user-profile.php:119
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:181 functions.php:890 page-account.php:319
+#: page-user-profile.php:115
+msgid "Google+"
+msgstr "Google+"
+
+#: functions.php:182 page-account.php:324 page-user-profile.php:123
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions.php:183 page-account.php:177 page-user-profile.php:85
+msgid "Phone"
+msgstr "Teléfono"
+
+#: functions.php:184 page-account.php:182 page-user-profile.php:92
+msgid "Skype"
+msgstr "Skype"
+
+#: functions.php:185 functions.php:758 page-account.php:329
+#: page-user-profile.php:127
+msgid "Other"
+msgstr "Un altre"
+
+#: functions.php:187
+msgid "Recent tasks on dashboard"
+msgstr "Tasques recents en panell"
+
+#: functions.php:188
+msgid "Recent comments on dashboard"
+msgstr "Comentaris recents en el panell"
+
+#: functions.php:189
+msgid "Team activity on dashboard"
+msgstr "Activitat de l’equip en el panell"
+
+#: functions.php:190
+msgid "Recent pages on dashboard"
+msgstr "Pàgines recents en el panell"
+
+#: functions.php:191
+msgid "Show my projects on dashboard"
+msgstr "Mostra els meus projectes en el panell"
+
+#: functions.php:192 page-account.php:268
+msgid "First tab"
+msgstr "Primera pestanya"
+
+#: functions.php:193 page-account.php:280
+msgid "Second tab"
+msgstr "Segona pestanya"
+
+#: functions.php:194 page-account.php:291
+msgid "Third tab"
+msgstr "Tercera pestanya"
+
+#: functions.php:195 page-account.php:301
+msgid "Fourth tab"
+msgstr "Quarta pestanya"
+
+#: functions.php:196
+msgid "Dashboard tips"
+msgstr "Trucs en el panell"
+
+#: functions.php:198
+msgid "Photo"
+msgstr "Foto"
+
+#: functions.php:353 functions.php:1994 includes/action.php:13
+#: includes/action.php:33 includes/task-status-notify.php:79
+#: page-projects.php:108 page-report.php:107 page-single-report.php:210
+#: page-single-report.php:361 single.php:330 single.php:339
+msgid "In progress"
+msgstr "En progrés"
+
+#: functions.php:356 functions.php:1998 includes/action.php:10
+#: includes/action.php:29 includes/task-status-notify.php:75
+#: page-single-report.php:209 page-single-report.php:358 single.php:327
+#: single.php:341
+msgid "On hold"
+msgstr "A la espera"
+
+#: functions.php:497
+msgid "Task Items"
+msgstr "Items de tasques"
+
+#: functions.php:498
+msgid "Add New Task"
+msgstr "Afegir nova tasca"
+
+#: functions.php:499 header.php:382 includes/mini-chart.php:8
+#: includes/mini-chart.php:14
+msgid "Projects"
+msgstr "Projectes"
+
+#: functions.php:544
+msgid "Client Access"
+msgstr "Accés clients"
+
+#. Theme Name of the plugin/theme
+#: functions.php:683
+msgid "Task Rocket"
+msgstr "Task Rocket"
+
+#: functions.php:719 functions.php:768
+msgid "Task Rocket Settings"
+msgstr "Configuració de Task Rocket"
+
+#: functions.php:729
+msgid "Options saved"
+msgstr "Opcions Desades"
+
+#: functions.php:740 header.php:356
+msgid "Home"
+msgstr "Inici"
+
+#: functions.php:741 page-users.php:19
+msgid "User"
+msgstr "Usuari"
+
+#: functions.php:742
+msgid "Presentation"
+msgstr "Presentació"
+
+#: functions.php:745 functions.php:1700
+msgid "Gantt"
+msgstr "Gantt"
+
+#: functions.php:748
+msgid "Time & Costs"
+msgstr "Temps i Costos"
+
+#: functions.php:749 header.php:365
+msgid "Reports"
+msgstr "Informes"
+
+#: functions.php:750
+msgid "Notifications"
+msgstr "Notificacions"
+
+#: functions.php:751 includes/comment-count.php:5 includes/comments.php:22
+#: includes/project-toolbar.php:138
+msgid "Comments"
+msgstr "Comentaris"
+
+#: functions.php:753 functions.php:1661
+msgid "Client Control"
+msgstr "Control de client"
+
+#: functions.php:756 functions.php:1648
+msgid "Add to Cal"
+msgstr "Afegir a Cal"
+
+#: functions.php:759 functions.php:1511 functions.php:1516
+msgid "Maintenance"
+msgstr "Manteniment"
+
+#: functions.php:760 functions.php:1645
+msgid "Add-ons"
+msgstr "Complement"
+
+#: functions.php:761 functions.php:1540
+msgid "System"
+msgstr "Sistema"
+
+#: functions.php:762
+msgid "Credits"
+msgstr "Crèdits"
+
+#: functions.php:781
+msgid "Enter your activation key"
+msgstr "2. Introdueix la clau d'activació"
+
+#: functions.php:784
+msgid "Activate"
+msgstr "Activar"
+
+#: functions.php:790
+#, php-format
+msgid ""
+"You can find your activation key by logging in to the <a href=\"%s\" target="
+"\"_blank\">downloads</a> page."
+msgstr ""
+"Podeu trobar la clau d'activació ingressant a la <a href=\"%s\" target="
+"\"_blank\">pàgina</a> de descàrrega."
+
+#: functions.php:801
+msgid "Task Rocket Version"
+msgstr "Tasca Rocket Versió"
+
+#: functions.php:804
+msgid "Check for update"
+msgstr "Cercar actualitzacions"
+
+#: functions.php:808 functions.php:877
+msgid "License status"
+msgstr "Estat de llicència"
+
+#: functions.php:814
+msgid "You have not entered your activation key."
+msgstr "No tens ingressat la clau d'activació."
+
+#: functions.php:820
+msgid "Your key is still pending activation."
+msgstr "La teva clau està encara pendent d'activació."
+
+#: functions.php:824
+msgid "Your activation key has been blocked."
+msgstr "La clau d'activació ha estat bloquejada."
+
+#: functions.php:828
+msgid ""
+"Your 12 month support period has ended. You will need to extend your license "
+"in order to receive updates and support."
+msgstr ""
+"El període de suport de 12 mesos es va acabar. Hauràs d'ampliar la teva "
+"llicència per tal de rebre actualitzacions i suport."
+
+#: functions.php:835
+msgid ""
+"Your activation key may be valid for a different domain. If you think this "
+"is incorrect, please try activating again and then refresh this page."
+msgstr ""
+"La clau d'activació pot ser vàlida per a un domini diferent. Si penses que "
+"això és incorrecte, si us plau, intenta activar de nou i després tornar a "
+"carregar aquesta pàgina."
+
+#: functions.php:837
+msgid "Activation key is valid."
+msgstr "La clau d'activació és vàlida."
+
+#: functions.php:847
+msgid "Registered to"
+msgstr "Registrat a"
+
+#: functions.php:853
+msgid "Support expires"
+msgstr "Suport expirat"
+
+#: functions.php:864
+msgid "Max allowed domains"
+msgstr "Màxim de dominis permesos"
+
+#: functions.php:867
+msgid "Registered domains"
+msgstr "Dominis registrats"
+
+#: functions.php:878
+msgid "Error"
+msgstr "Error"
+
+#: functions.php:885 includes/global-projects-nav.php:15
+msgid "Support"
+msgstr "Suport"
+
+#: functions.php:886
+msgid "Blog"
+msgstr "Blog"
+
+#: functions.php:887
+msgid "FAQ"
+msgstr "PMF"
+
+#: functions.php:888
+msgid "Twitter feed"
+msgstr "Feed de twitter"
+
+#: functions.php:889
+msgid "Twitter page"
+msgstr "La pàgina de Twitter"
+
+#: functions.php:891
+msgid "Developer website"
+msgstr "Web del desenvolupador"
+
+#: functions.php:892
+msgid "Recommended hosting"
+msgstr "Allotjament recomanat"
+
+#: functions.php:892
+msgid "Digital Ocean"
+msgstr "Digital Ocean"
+
+#: functions.php:902
+msgid "User Settings"
+msgstr "Ajustos d'usuari"
+
+#: functions.php:906
+msgid "Let users create tasks"
+msgstr "Permet a l'usuari crear tasques"
+
+#: functions.php:907
+msgid "Let users create tasks on the front-end"
+msgstr "Permet als usuaris crear tasques en el front-end"
+
+#: functions.php:911
+msgid "Let users edit tasks"
+msgstr "Permet a l'usuari editar tasques"
+
+#: functions.php:912
+msgid ""
+"Let users edit their own tasks on the front-end. Note: When disabled users "
+"can still mark their own tasks as complete, but they just can't make any "
+"edits to the task"
+msgstr ""
+"Permetre als usuaris editar les seves pròpies tasques en el front-end. Nota: "
+"Quan els usuaris amb discapacitat encara poden marcar les seves pròpies "
+"tasques com completa, però que simplement no pot fer cap modificació a la "
+"tasca"
+
+#: functions.php:916
+msgid "Let users create projects"
+msgstr "Permet als usuaris crear tasques"
+
+#: functions.php:917
+msgid "Let users create projects on the front-end"
+msgstr "Permet als usuaris crear projectes en el front-end"
+
+#: functions.php:921
+msgid "Let users delete projects"
+msgstr "Permet als usuaris eliminar projectes"
+
+#: functions.php:922
+msgid "Let users delete projects on the front-end"
+msgstr "Permet als usuaris eliminar projectes al front-end"
+
+#: functions.php:926
+msgid "Let users archive projects"
+msgstr "Permetre als usuaris arxivar projectes"
+
+#: functions.php:927
+msgid "Let users archive projects on the front-end"
+msgstr "Permetre als usuaris arxivar projectes en el front-end"
+
+#: functions.php:931
+msgid "Let users specify time frames and time allocation on projects"
+msgstr ""
+"Permet als usuaris especificar els terminis i l'assignació del temps en "
+"projectes"
+
+#: functions.php:932
+msgid ""
+"Let users specify time frames and time allocation when creating projects on "
+"the front-end. Requires that \"Let users create projects\" is be enabled"
+msgstr ""
+"Permet als usuaris especificar els terminis i l'assignació de temps en crear "
+"projectes en el front-end. Requereix que \"permet a l'usuari crear projectes"
+"\" habilitat."
+
+#: functions.php:936
+msgid "Let users assign and reassign tasks"
+msgstr "Permet als usuaris assignar i reassignar tasques"
+
+#: functions.php:937
+msgid ""
+"Let users assign and reassign tasks on the front-end. Requires that \"Let "
+"users edit tasks\" is enabled"
+msgstr ""
+"Permet als usuaris assignar i reassignar tasques en el front-end. Requereix "
+"que \"permet als usuaris editar tasques\" habilitat."
+
+#: functions.php:941
+msgid "Let users choose a Project Manager"
+msgstr "Permet als usuaris triar un cap de projecte"
+
+#: functions.php:942
+msgid ""
+"Let users choose a Project Manager when creating projects on the front-end. "
+"Requires that \"Let users create projects\" is be enabled"
+msgstr ""
+"Permet als usuaris triar un cap de projecte en crear projectes en el front-"
+"end. Requereix que \"permet a l'usuari crear projectes\" habilitat."
+
+#: functions.php:946
+msgid "Only show the users projects in the navigation"
+msgstr "Mostra només els projectes dels usuaris en la navegació"
+
+#: functions.php:947
+msgid ""
+"For each user, let them only see projects they are involved with in the main "
+"navigation"
+msgstr ""
+"Per a cada usuari, deixar que només vegin els projectes que estan "
+"involucrats en la navegació principal"
+
+#: functions.php:947 functions.php:956
+msgid "Important Note"
+msgstr "Nota important"
+
+#: functions.php:953
+msgid "Users can only see tabs for their own tasks in projects"
+msgstr ""
+"Els usuaris només poden veure les pestanyes per les seves pròpies tasques en "
+"projectes"
+
+#: functions.php:956
+msgid ""
+"While viewing a project, users will only have access to 'My Active Tasks' "
+"and 'My Completed Tasks' tabs."
+msgstr ""
+"Mentre es mostra un projecte, els usuaris només tindran accés a 'Les meves "
+"tasques actives' i les pestanyes 'Les meves tasques completades'."
+
+#: functions.php:962 functions.php:1147 functions.php:1156 functions.php:1223
+#: functions.php:1251 functions.php:1344 functions.php:1363 functions.php:1372
+#: functions.php:1382 functions.php:1508
+msgid "Save Settings"
+msgstr "Desa la configuració"
+
+#: functions.php:965
+msgid "Presentation Settings"
+msgstr "Configuració de la presentació"
+
+#: functions.php:971
+msgid "Disable the mini chart"
+msgstr "Desactivar el \"mini-gràfics\""
+
+#: functions.php:974
+msgid ""
+"Do not show the mini chart in the left pane. May also improve performance "
+"when you have lots of projects and tasks."
+msgstr ""
+"No tornar a mostrar el mini-gràfic en el panell esquerre. També pot millorar "
+"el rendiment quan es té una gran quantitat de projectes i tasques."
+
+#: functions.php:980
+msgid "Tasks pagination"
+msgstr "Paginació de tasques"
+
+#: functions.php:984
+msgid ""
+"Show this many results per page when viewing the 'My Tasks' page. Also "
+"applies when viewing tasks owned by other users. The default is 20, the "
+"minimum is 5, maximum is 100."
+msgstr ""
+"Mostra aquest nombre de resultats per pàgina quan es visualitza la pàgina "
+"'Les meves tasques'. També s'aplica al visualitzar tasques d'altres usuaris. "
+"El valor per omissió és 20, el mínim és 5, el màxim és 100."
+
+#: functions.php:991
+msgid "Thumbnail lightbox"
+msgstr "Thumbnail lightbox"
+
+#: functions.php:994
+msgid "Open attachment images in a lightbox when clicked."
+msgstr "Obrir adjunts en el Lightbox al clicar."
+
+#: functions.php:1001
+msgid "Users link in nav"
+msgstr "Vincle d'usuaris al navegador"
+
+#: functions.php:1004
+msgid "Show \"Users\" in the main navigation."
+msgstr "Mostra \"Usuaris\" a la navegació principal."
+
+#: functions.php:1011
+msgid "Show the task ID"
+msgstr "Mostra l'identificador de tasca"
+
+#: functions.php:1014
+msgid "Display the ID next to each task on the front-end."
+msgstr "Mostrar la ID al costat de cada tasca al front-end."
+
+#: functions.php:1021
+msgid "Keep child pages expanded"
+msgstr "Mantinir pàgines secundaris desplegades"
+
+#: functions.php:1024
+msgid "Expand the child pages in the navigation by default."
+msgstr "Ampliar les pàgines secundàries en la navegació per defecte."
+
+#: functions.php:1030
+msgid "Pages navigation label"
+msgstr "Pàgines de \"etiqueta de navegació\""
+
+#: functions.php:1034
+msgid "The label that appears above the pages navigation."
+msgstr "L'etiqueta que apareix per sobre de les pàgines de navegació."
+
+#: functions.php:1040
+msgid "Unassigned label"
+msgstr "etiqueta sense assignar"
+
+#: functions.php:1044
+msgid ""
+"Instead of 'Unassigned', change the label to something else (eg: Orphans)."
+msgstr ""
+"En lloc de 'assignats', canviar l'etiqueta a una altra cosa (per exemple: "
+"Orfes)."
+
+#: functions.php:1050
+msgid "Administrator owned task indicator label"
+msgstr "Etiqueta indicadora de tasca de l'administrador."
+
+#: functions.php:1054
+msgid ""
+"Indicates when a task is owned by an administrator (examples: Project "
+"Manager or Team Leader). Leave empty to disable."
+msgstr ""
+"Indica quan una tasca és propietat d'un administrador (exemples: Gestor del "
+"projecte o cap d'equip). Deixar en blanc per desactivar."
+
+#: functions.php:1061
+msgid "Unwelcome"
+msgstr "No molestar"
+
+#: functions.php:1064
+msgid "Disable the welcome screen for new users (not recommended)."
+msgstr ""
+"Desactivar la pantalla de benvinguda per als nous usuaris (no recomanat)."
+
+#: functions.php:1071
+msgid "Disable loading animation"
+msgstr "Desactivar animació de càrrega"
+
+#: functions.php:1074
+msgid "Disable the fancy animation between page loads."
+msgstr "Desactivar l'animació entre les càrregues de pàgina."
+
+#: functions.php:1081
+msgid "Disable fancy tool tips"
+msgstr "Desactivar la informació emergents \"tool tips\""
+
+#: functions.php:1084
+msgid "Disable the fancy tool tips and rely on the title attribute instead."
+msgstr ""
+"Desactivar la informació emergent i que es basen en l'atribut de títol de la "
+"web."
+
+#: functions.php:1092
+msgid "Change the logo"
+msgstr "Canviar el logo"
+
+#: functions.php:1096
+msgid "Browse"
+msgstr "Navega"
+
+#: functions.php:1127
+msgid ""
+"The logo shows on the login and welcome screens. Ideally a transparent PNG, "
+"and must be 300 x 300px."
+msgstr ""
+"El logo es mostra a l'entrada i pantalles de benvinguda. L'ideal seria que "
+"un PNG transparent, i ha de ser de 300 x 300 píxels."
+
+#: functions.php:1162
+msgid "Time & Cost Settings"
+msgstr "Ajustos de temps i cost"
+
+#: functions.php:1167
+msgid "Hourly rate"
+msgstr "Tarifa per hora"
+
+#: functions.php:1170
+msgid ""
+"The hourly rate your company charges to do work. Only enter a number value "
+"here, do not enter currency symbols."
+msgstr ""
+"El preu per hora que es cobra per fer la feina. Només introdueix un valor "
+"numèric, no els símbols de moneda."
+
+#: functions.php:1175
+msgid "Currency symbol"
+msgstr "Símbol de moneda"
+
+#: functions.php:1178
+msgid ""
+"The currency symbol to show next to costs on the front-end. If not "
+"specified, the $ symbol will be shown."
+msgstr ""
+"El símbol de moneda per mostrar el costat dels costos en el front-end. Si no "
+"s'especifica, es mostrarà el símbol $."
+
+#: functions.php:1185
+msgid "Time log increments"
+msgstr "Increments de temps de registre"
+
+#: functions.php:1189 functions.php:1190 functions.php:1191 functions.php:1192
+#: functions.php:1193 functions.php:1194
+msgid "Minute"
+msgstr "Minut"
+
+#: functions.php:1197
+msgid ""
+"Time logged on tasks will be forced to use these increments. If not "
+"specified, 1 minute increments will be used."
+msgstr ""
+"Temps registrat en les tasques es veurà obligat a utilitzar aquests "
+"increments. Si no s'especifica, s'utilitzaran increments d'1 minut."
+
+#: functions.php:1204
+msgid "Show project costs on the front-end"
+msgstr "Mostra els costos del projecte en el front-end"
+
+#: functions.php:1207
+msgid "Display the running costs of projects on the front-end."
+msgstr "Mostra les despeses de funcionament dels projectes en el front-end."
+
+#: functions.php:1214
+msgid "Show task costs on the front-end"
+msgstr "Mostra els costos de tasques en el front-end"
+
+#: functions.php:1217
+msgid "Display the cost of each task on the front-end."
+msgstr "Mostra el cost de cada tasca al front-end."
+
+#: functions.php:1226
+msgid "Report settings"
+msgstr "Configuració dels informes"
+
+#: functions.php:1232
+msgid "Report access"
+msgstr "L'accés a informes"
+
+#: functions.php:1235
+msgid "Give everyone (except clients) access to reports on the front-end."
+msgstr ""
+"Donar a cada un (excepte els clients) l'accés als informes sobre el front-"
+"end."
+
+#: functions.php:1242
+msgid "Show completed projects in reports and charts"
+msgstr "Mostra projectes finalitzats en informes i gràfics"
+
+#: functions.php:1245
+msgid "Display projects in reports/charts that are complete."
+msgstr "Visualització de projectes d'informes / gràfics que s'han completat."
+
+#: functions.php:1255
+msgid "Notification Settings"
+msgstr "Configuració de la notificació"
+
+#: functions.php:1260
+msgid "When a task is added send email notification to:"
+msgstr "Quan s'agrega una tasca enviar una notificació de correu electrònic a:"
+
+#: functions.php:1263 functions.php:1292
+msgid "The project manager for the project"
+msgstr "Administrador del projecte per al projecte"
+
+#: functions.php:1267 functions.php:1296
+msgid "The website administrator"
+msgstr "Lloc web de l'administrador"
+
+#: functions.php:1271 functions.php:1300
+msgid "The entire project team"
+msgstr "Tot l'equip del projecte"
+
+#: functions.php:1275 functions.php:1304
+msgid "The task owner"
+msgstr "El propietari de la tasca"
+
+#: functions.php:1279 functions.php:1308
+msgid "Also send notification to:"
+msgstr "També enviarà una notificació a:"
+
+#: functions.php:1282 functions.php:1311
+msgid ""
+"To specify more than one email address, separate with a comma (without "
+"spaces). Eg: someguy@domain.com,somegirl@domain.com"
+msgstr ""
+"Per especificar més d'una adreça de correu electrònic, separades per una "
+"coma (sense espais). Per exemple: algu@domini.com,algualtre@domini.com"
+
+#: functions.php:1289
+msgid "When a task changes status send email notification to:"
+msgstr ""
+"Quan una tasca canvia l'estat enviar notificació per correu electrònic a:"
+
+#: functions.php:1325
+msgid "Plain email notifications"
+msgstr "Notificacions per correu electrònic"
+
+#: functions.php:1328
+msgid ""
+"Send task notification emails as plain text. This will not be honoured if "
+"\"No email notifications\" is enabled."
+msgstr ""
+"Enviar els missatges de correu electrònic de notificació de tasques com a "
+"text sense format. Això funcionarà si \"No notificar per correu electrònic\" "
+"està habilitat."
+
+#: functions.php:1335
+msgid "No email notifications"
+msgstr "No notificacions per correu electrònic"
+
+#: functions.php:1338
+msgid "Disable all email notifications"
+msgstr "Desactiva totes les notificacions per correu electrònic"
+
+#: functions.php:1348
+msgid "Comment Settings"
+msgstr "Preferències de Comentaris"
+
+#: functions.php:1352
+msgid "Allow comments on tasks"
+msgstr "Permetre comentaris en les tasques"
+
+#: functions.php:1353
+msgid "Allow users to comment on tasks"
+msgstr "Permetre als usuaris fer comentaris en les tasques"
+
+#: functions.php:1353 functions.php:1358 functions.php:1402 functions.php:1428
+#: functions.php:1439 functions.php:1491 functions.php:1502 functions.php:1558
+#: functions.php:1587 functions.php:1615 functions.php:1627 functions.php:1638
+msgid "Help"
+msgstr "Ajuda"
+
+#: functions.php:1357
+msgid "Allow comments on pages"
+msgstr "Permetre comentaris en les pàgines"
+
+#: functions.php:1358
+msgid "Allow users to comment on pages"
+msgstr "Permetre als usuaris fer comentaris en les pàgines"
+
+#: functions.php:1387
+msgid "Other Settings"
+msgstr "Altres paràmetres"
+
+#: functions.php:1392
+msgid "Trash Cycle"
+msgstr "Cicle d'escombraries"
+
+#: functions.php:1396
+msgid ""
+"How often (specified in days) should WordPress empty the trash? If not "
+"specified, the WordPress default (30 days) will be used. Set to 0 to disable "
+"the trash (which means if you delete a task or page, it is permanent)."
+msgstr ""
+"Amb quina freqüència (especificat en dies) WordPress ha de buidar la "
+"paperera? Si no s'especifica, s'utilitzarà el valor per defecte de WordPress "
+"(30 dies). S'estableix en 0 per desactivar les escombraries (el que vol dir "
+"que si elimina una tasca o una pàgina, és permanent)."
+
+#: functions.php:1401
+msgid "Allow tasks with no owner"
+msgstr "Permetre tasques sense propietari"
+
+#: functions.php:1402
+msgid ""
+"This is ideal for tasks that are not specific to anyone. Any user who wants "
+"the task can take ownership by reassigning it to themselves."
+msgstr ""
+"Això és ideal per a tasques que no són específics a qualsevol. Qualsevol "
+"usuari que desitgi la tasca pot prendre possessió reassignant-se a si "
+"mateixos"
+
+#: functions.php:1406 header.php:152
+msgid "Show archived projects"
+msgstr "Mostrar projectes arxivats"
+
+#: functions.php:1407
+msgid ""
+"Archived projects will listed on the All Active Projects page, and can be "
+"unarchived from there."
+msgstr ""
+"Els projectes arxivats es llisten a la pàgina de \"tots els Pojectes Actius"
+"\", i poden ser no emmagatzemats des d'allà."
+
+#: functions.php:1411
+msgid "Enable a warning on Tasks and Project pages"
+msgstr "Habilitar un avís en les tasques i les pàgines del projecte"
+
+#: functions.php:1412
+msgid ""
+"A warning appears when accidentally attempting to leave the New Task or New "
+"Project pages without first completing the form."
+msgstr ""
+"Un advertiment apareix quan s'intenta deixar accidentalment la nova tasca o "
+"pàgines de nous projectes sense haver completat el formulari."
+
+#: functions.php:1416
+msgid "Project managers change any task status"
+msgstr "Els gestors del projecte poden canviar qualsevol estat de la tasca"
+
+#: functions.php:1417
+msgid ""
+"Let project managers change the status of tasks owned by anyone on the front-"
+"end."
+msgstr ""
+"Deixar que els gestors de projectes canviïn l'estat de les tasques de "
+"propietat de qualsevol persona al front-end."
+
+#: functions.php:1424
+msgid "Automatic job numbers"
+msgstr "Número de treball automàtics"
+
+#: functions.php:1427
+msgid ""
+"Job numbers will be created automatically when you create a new task or "
+"project."
+msgstr ""
+"Número de treball es creen automàticament quan es crea una nova tasca o "
+"projecte."
+
+#: functions.php:1434
+msgid "Job number prefix"
+msgstr "Prefix del número de treball"
+
+#: functions.php:1438
+msgid ""
+"The prefix for job numbers. Typically a few characters is enough. If "
+"specified, the prefix will be applied to both manual and automatic job "
+"numbers."
+msgstr ""
+"Prefix del número de treball. En general uns pocs caràcters és suficient. Si "
+"s'especifica, el prefix s'aplica tant als números dels treballs manuals i "
+"automàtiques."
+
+#: functions.php:1446
+msgid "Disable auto generated clickable links"
+msgstr "Desactivar l'auto generador d'enllaços clicables."
+
+#: functions.php:1449
+msgid ""
+"Do not automatically convert text URLs in tasks and project descriptions "
+"into clickable links."
+msgstr ""
+"No convertir automàticament les adreces URL de text en les tasques i les "
+"descripcions dels projectes en links."
+
+#: functions.php:1454
+msgid "Disable file uploads"
+msgstr "Desactivar la càrrega d'arxius"
+
+#: functions.php:1455
+msgid "Do not let users attach files to tasks"
+msgstr "No permeten als usuaris adjuntar arxius a les tasques"
+
+#: functions.php:1462
+msgid "Dashboard message"
+msgstr "Panell de missatges"
+
+#: functions.php:1466
+msgid "Display a message on the dashboard."
+msgstr "Mostra un missatge en el panell"
+
+#: functions.php:1475
+msgid "Dashboard message background colour"
+msgstr "Color de fons del panell de missatge"
+
+#: functions.php:1477
+msgid "Red"
+msgstr "Vermell"
+
+#: functions.php:1478
+msgid "Blue"
+msgstr "Blau"
+
+#: functions.php:1479
+msgid "Orange"
+msgstr "Taronja"
+
+#: functions.php:1480
+msgid "Green"
+msgstr "Verd"
+
+#: functions.php:1487
+msgid "Custom style sheet"
+msgstr "full d'estil personalitzat"
+
+#: functions.php:1491
+msgid "The file name of your custom CSS file (eg: my-custom-styles.css)"
+msgstr "El nom del fitxer CSS personalitzat (per exemple: el_meu_estil.css)"
+
+#: functions.php:1498
+msgid "Custom JS"
+msgstr "Personalització JS"
+
+#: functions.php:1502
+msgid "The file name of your custom Javascript file (eg: my-custom-scripts.js)"
+msgstr ""
+"El nom del fitxer personalitzat de Javascript (per exemple: el_meu_arxiu.js)"
+
+#: functions.php:1518
+msgid ""
+"If you are experiencing problems or not seeing new changes after an update, "
+"try hitting the button below"
+msgstr ""
+"Si estas experimentant problemes o no veus nous canvis després d'una "
+"actualització, intenta clicant el botó de sota"
+
+#: functions.php:1520
+msgid "Perform Maintenance"
+msgstr "Realitzar Manteniment"
+
+#: functions.php:1527
+msgid "Extend Task Rocket with these add-ons"
+msgstr "Estendre Rocket de tasques amb aquests complements"
+
+#: functions.php:1532
+msgid "Extend Task Rocket with these useful addons"
+msgstr "Estendre Task Rocket amb aquests complements útils"
+
+#: functions.php:1547
+msgid "Configuration"
+msgstr "Configuració"
+
+#: functions.php:1558 functions.php:1615 functions.php:1627 functions.php:1638
+#: functions.php:1651 functions.php:1664 functions.php:1677 functions.php:1690
+#: functions.php:1703 functions.php:1716
+msgid "Not OK"
+msgstr "No OK"
+
+#: functions.php:1566
+msgid "Memory"
+msgstr "Memòria"
+
+#: functions.php:1578 functions.php:1587 functions.php:1589 functions.php:1601
+#: functions.php:1603 functions.php:1613 functions.php:1625 functions.php:1636
+#: functions.php:1653 functions.php:1666 functions.php:1679 functions.php:1692
+#: functions.php:1705 functions.php:1718
+msgid "OK"
+msgstr "OK"
+
+#: functions.php:1578 includes/mini-chart.php:323
+msgid "Used"
+msgstr "Usat"
+
+#: functions.php:1583
+msgid "Memory limit"
+msgstr "Límit de memòria"
+
+#: functions.php:1594
+msgid "Memory in use"
+msgstr "Memòria en ús"
+
+#: functions.php:1601
+msgid "Critical"
+msgstr "Crític"
+
+#: functions.php:1609
+msgid "Upload max filesize"
+msgstr "Puja el màxim de càrrega"
+
+#: functions.php:1621
+msgid "Post max size"
+msgstr "Màxim de grandària de l'article"
+
+#: functions.php:1636
+msgid "All Good"
+msgstr "Tot bé"
+
+#: functions.php:1638
+msgid "Not installed"
+msgstr "No està instal·lat"
+
+#: functions.php:1651 functions.php:1664
+msgid "Requires Task Rocket 3"
+msgstr "Requereix Task Rocket 3"
+
+#: functions.php:1674
+msgid "Comment Notify"
+msgstr "Notificació de comentàri"
+
+#: functions.php:1677 functions.php:1703
+msgid "Requires Task Rocket 4"
+msgstr "Requereix Task Rocket 4"
+
+#: functions.php:1687
+msgid "Kanban"
+msgstr "Kanban"
+
+#: functions.php:1690
+msgid "Requires Task Rocket 4.4.2"
+msgstr "Requires Task Rocket 4.4.2"
+
+#: functions.php:1713
+msgid "Task Groups"
+msgstr "Grups de tasques"
+
+#: functions.php:1716
+msgid "Requires Task Rocket 2.7"
+msgstr "Requereix Task Rocket 2.7"
+
+#: functions.php:1732
+msgid "Additional Contributions"
+msgstr "Contribucions addicionals"
+
+#: functions.php:1737
+msgid ""
+"These superstars have kindly donated their time and energy into helping "
+"improve Task Rocket."
+msgstr ""
+"Aquestes superestrelles han donat amablement el seu temps i energia en "
+"ajudar a millorar Task Rocket."
+
+#: functions.php:1920
+msgid "More details about this task"
+msgstr "Més detalls sobre aquesta tasca"
+
+#: functions.php:1927 includes/project-data.php:336 includes/report-all.php:130
+#: includes/task-bar.php:100 page-projects.php:282 post-logic.php:383
+#: post-logic.php:436
+msgid "Job"
+msgstr "Treball"
+
+#: functions.php:1936
+msgid "Will be auto generated"
+msgstr "Serà generada automàticament"
+
+#: functions.php:1963 includes/add-task-form.php:122 single.php:298
+msgid "Low"
+msgstr "Baix"
+
+#: functions.php:1968 includes/add-task-form.php:123 single.php:299
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:1973 includes/add-task-form.php:124 single.php:300
+msgid "High"
+msgstr "Alta"
+
+#: functions.php:1978 includes/add-task-form.php:125 single.php:301
+msgid "Urgent"
+msgstr "urgent"
+
+#: functions.php:2014
+msgid "Make Private"
+msgstr "Fer privada"
+
+#: functions.php:2016
+msgid "Only visible to administrators."
+msgstr "Només visible per als administradors."
+
+#: functions.php:2024 functions.php:2025 includes/add-task-form.php:159
+#: includes/add-task-form.php:169
+msgid "Attach files"
+msgstr "Adjuntar arxius"
+
+#: functions.php:2026
+msgid ""
+"Note: Files can only belong (be attached) to one task at any given time."
+msgstr ""
+"Nota: Els arxius només poden pertànyer (adjuntats) a una tasca en un moment "
+"donat."
+
+#: functions.php:2059 functions.php:2066
+msgid "Delete?"
+msgstr "Eliminar?"
+
+#: functions.php:2059 functions.php:2066 includes/attachments.php:78
+#: includes/attachments.php:130
+msgid "Yes"
+msgstr "Si"
+
+#: functions.php:2059 functions.php:2066 includes/attachments.php:79
+#: includes/attachments.php:131
+msgid "No"
+msgstr "No"
+
+#: functions.php:2064 includes/attachments.php:126 includes/attachments.php:129
+msgid "Delete this file"
+msgstr "Eliminar aquest arxiu"
+
+#: functions.php:2159
+msgid "Enter task title here"
+msgstr "Introduir títol de la tasca aquí"
+
+#: functions.php:2207
+#, php-format
+msgid ""
+"New to Task Rocket? Get started by <a href=\"%s\">tweaking the settings</a>."
+msgstr ""
+"Nou a Task Rocket? Per començar, <a href=\"%s\">canviar les configuracions</"
+"a> ."
+
+#: functions.php:2209
+#, php-format
+msgid "<a href=\"%s\" class=\"tweak\">Task Rocket Settings</a>"
+msgstr "<a href=\"%s\" class=\"tweak\">Configuració de Task Rocket</a>"
+
+#: functions.php:2231
+#, php-format
+msgid "<strong>RSS Error</strong>: %s"
+msgstr "<strong>Error RSS</strong>: %s"
+
+#: functions.php:2239
+msgid "There are no updates at this time."
+msgstr "No hi ha actualitzacions en aquest moment."
+
+#: functions.php:2289 functions.php:2386 includes/project-details-pane.php:76
+#: includes/project-details-pane.php:89
+msgid "More details"
+msgstr "Més detalls"
+
+#: functions.php:2291 functions.php:2389
+msgid "Risks, mitigation strategy, contingency plans etc."
+msgstr "Els riscos, l'estratègia de mitigació, plans de contingència, etc."
+
+#: functions.php:2295 functions.php:2394
+msgid "Project Start Date"
+msgstr "Data d’inici del project"
+
+#: functions.php:2297 functions.php:2397
+msgid "The date the project is expected to start."
+msgstr "Data que s'espera que el projecte comenci."
+
+#: functions.php:2301 functions.php:2402
+msgid "Project End Date"
+msgstr "Data de finalització del projecte"
+
+#: functions.php:2303 functions.php:2405
+msgid "The date the project is expected to end."
+msgstr "Data que s'espera que el projecte finalitzi."
+
+#: functions.php:2307 functions.php:2410
+msgid "Time Allocation (hrs)"
+msgstr "Assignació de Temps (hores)"
+
+#: functions.php:2309 functions.php:2413
+msgid "How many hours should be allocated to this project?"
+msgstr "Quantes hores ha d'assignar-se a aquest projecte?"
+
+#: functions.php:2317 page-new-project.php:284
+msgid ""
+"A job number will be automatically assigned when you create this project."
+msgstr ""
+"Un número de treball s'assignarà automàticament al crear aquest projecte."
+
+#: functions.php:2322 functions.php:2421
+msgid "What is the job number?"
+msgstr "Quin és el número de treball?"
+
+#: functions.php:2354 functions.php:2456
+msgid ""
+"Who is responsible for leading this project? (Administrators are highlighted "
+"blue)."
+msgstr ""
+"Qui és el responsable de dirigir aquest projecte? (Els administradors estan "
+"ressaltats en blau)."
+
+#: functions.php:2461 header.php:275
+msgid "Archive this project"
+msgstr "Arxivar aquest projecte"
+
+#: functions.php:2542
+msgid "Tasks that are not assigned to any project"
+msgstr "Tasques que no estan assignats a cap projecte"
+
+#: functions.php:2696
+msgid "Your comment is waiting to be approved."
+msgstr "El comentari està a l'espera de ser aprovat."
+
+#: functions.php:2700 includes/recent-comments.php:58
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: functions.php:2784 includes/tips.php:23
+msgid "Page"
+msgstr "Pàgina"
+
+#: functions.php:2784 page-projects.php:239
+msgid "of"
+msgstr "de"
+
+#: functions.php:2785
+msgid "First"
+msgstr "Primera"
+
+#: functions.php:2786
+msgid "Previous"
+msgstr "Anterior"
+
+#: functions.php:2796
+msgid "Next"
+msgstr "Següent"
+
+#: functions.php:2797
+msgid "Last"
+msgstr "Últim"
+
+#: functions.php:2834 functions.php:2847
+msgid "Welcome to"
+msgstr "Benvingut a"
+
+#: header.php:74 page-clients.php:37
+msgid "Welcome to Task Rocket"
+msgstr "Benvingut a Task Rocket"
+
+#: header.php:75
+msgid ""
+"Hi! If you're reading this it means you haven't been given access to a "
+"project. Please ask an administrator to assign you to a project and then "
+"reload this page."
+msgstr ""
+"Hola! Si estàs llegint això vol dir que no tens accés a un projecte. Si us "
+"plau demana a un administrador que t'assigni a un projecte i torna a "
+"carregar aquesta pàgina."
+
+#: header.php:76 page-clients.php:39
+msgid "Reload"
+msgstr "Recarrega"
+
+#: header.php:124
+msgid "Stats"
+msgstr "Estadístiques"
+
+#: header.php:127 header.php:147 header.php:245 header.php:285 header.php:301
+msgid "SHow / Hide the Gantt Chart"
+msgstr "Mostra / Amaga el diagrama de Gantt"
+
+#: header.php:130
+msgid "My latest tasks"
+msgstr "Les meves darreres tasques"
+
+#: header.php:133 includes/team-activity.php:120 page-account.php:220
+msgid "Recent comments"
+msgstr "Comentaris recents"
+
+#: header.php:136
+msgid "Dash Pages"
+msgstr "Pàgines Dash"
+
+#: header.php:139
+msgid "Tips"
+msgstr "Consells"
+
+#: header.php:149
+msgid "Empty and Completed Projects"
+msgstr "Projectes buits i completats"
+
+#: header.php:150
+msgid "Simple view"
+msgstr "Vista simple"
+
+#: header.php:154
+msgid "Only show Overdue Projects"
+msgstr "Mostra només els projectes endarrerits"
+
+#: header.php:159
+msgid "Toggle clients"
+msgstr "Mostrar/Ocultar clients"
+
+#: header.php:161
+msgid "Toggle team members"
+msgstr "Mostrar/Ocultar membres"
+
+#: header.php:162
+msgid "Toggle administrators"
+msgstr "Mostrar/Ocultar administradors"
+
+#: header.php:166
+msgid "Low priority tasks"
+msgstr "Tasques de baixa prioritat"
+
+#: header.php:167
+msgid "Normal priority tasks"
+msgstr "Tasques de prioritat normal"
+
+#: header.php:168
+msgid "High priority tasks"
+msgstr "Tasques d'alta prioritat"
+
+#: header.php:169
+msgid "Urgent priority tasks"
+msgstr "Tasques urgents"
+
+#: header.php:187
+msgid "Edit Task"
+msgstr "Edita tasca"
+
+#: header.php:200 header.php:257
+msgid "Show / Hide Attachments"
+msgstr "Mostrar/Ocultar adjunts"
+
+#: header.php:203
+msgid "Show / Hide Comments"
+msgstr "Mostrar/Ocultar Comentaris"
+
+#: header.php:210 header.php:266
+msgid "Download all attachments in this project"
+msgstr "Descarregar tots els arxius adjunts en aquest projecte"
+
+#: header.php:223
+msgid "Delete this task"
+msgstr "Eliminar aquesta tasca"
+
+#: header.php:223 includes/action.php:36
+msgid "Delete"
+msgstr "Eliminar"
+
+#: header.php:240
+msgid "Create new task for this project"
+msgstr "Crear nova tasca per a aquest projecte"
+
+#: header.php:240 header.php:361
+msgid "Create a new task"
+msgstr "Crear una nova tasca"
+
+#: header.php:253
+msgid "Show Project Report"
+msgstr "Mostra Informe del Projecte"
+
+#: header.php:256
+msgid "Simple task view"
+msgstr "Vista simple de tasca"
+
+#: header.php:277
+msgid "Show / Hide Users in Project"
+msgstr "Mostrar / Ocultar usuaris en el projecte"
+
+#: header.php:278
+msgid "Show / Hide Project Details"
+msgstr "Mostrar / Ocultar detalls del projecte"
+
+#: header.php:291
+msgid "Go back to reports"
+msgstr "Tornar als informes"
+
+#: header.php:293
+msgid "Filter"
+msgstr "Filtrar"
+
+#: header.php:294
+msgid "Print this report"
+msgstr "Imprimir aquest informe"
+
+#: header.php:294
+msgid "Print"
+msgstr "Imprimir"
+
+#: header.php:295
+msgid "Email this report"
+msgstr "Envia aquest informe"
+
+#: header.php:303
+msgid "Complete projects"
+msgstr "Projectes complets"
+
+#: header.php:304
+msgid "Incomplete projects"
+msgstr "Projectes incomplets"
+
+#: header.php:310
+msgid "Only show files"
+msgstr "Només mostra els fitxers"
+
+#: header.php:310 includes/attachments.php:32 includes/recent.php:32
+#: search.php:39 single.php:608
+msgid "Attachments"
+msgstr "Adjunts"
+
+#: header.php:314
+msgid "Message"
+msgstr "Missatge"
+
+#: header.php:336
+msgid "Edit my details"
+msgstr "Editar els meus detalls"
+
+#: header.php:353
+msgid "My tasks"
+msgstr "Tasques meves"
+
+#: header.php:356 includes/global-projects-nav.php:2 index.php:31
+msgid "Dashboard"
+msgstr "Panell"
+
+#: header.php:358
+msgid "Start a new project"
+msgstr "Iniciar un nou projecte"
+
+#: header.php:358
+msgid "New Project"
+msgstr "Nou Projecte"
+
+#: header.php:361
+msgid "New Task"
+msgstr "Nova tasca"
+
+#: header.php:363 includes/pages-nav.php:13
+msgid "Pages"
+msgstr "Pàgines"
+
+#: header.php:368
+msgid "Mini Chart"
+msgstr "Mini gràfic"
+
+#: header.php:371
+msgid "Users"
+msgstr "Usuaris"
+
+#: header.php:374
+msgid "Go to admin"
+msgstr "Anar a l'administració"
+
+#: header.php:374
+msgid "Admin"
+msgstr "Admin"
+
+#: header.php:376 includes/global-projects-nav.php:12 page-clients.php:100
+msgid "Logout"
+msgstr "Sortir"
+
+#: includes/activity-statement.php:79
+msgid "Your tasks"
+msgstr "Les teves tasques"
+
+#: includes/activity-statement.php:82
+#, php-format
+msgid ""
+"You have <span>%1$d</span> outstanding tasks out of all <span>%2$d</span> "
+"total tasks."
+msgstr ""
+"Tens <span>%1$ d</span> tasques pendents de un total de <span>%2$ d</span> ."
+
+#: includes/activity-statement.php:85
+msgid "Sweet! There aren't any tasks for you to do!"
+msgstr "Genial! No hi ha cap tasca per fer!"
+
+#: includes/activity-statement.php:188
+msgid "of your tasks are low priority"
+msgstr "de les teves tasques són de prioritat baixa"
+
+#: includes/activity-statement.php:189
+msgid "of your tasks are normal priority"
+msgstr "de les teves tasques són de prioritat normal"
+
+#: includes/activity-statement.php:190
+msgid "of your tasks are high priority"
+msgstr "de les teves tasques són de prioritat alta"
+
+#: includes/activity-statement.php:191
+msgid "of your tasks are urgent priority"
+msgstr "de les teves tasques són de prioritat urgent"
+
+#: includes/activity-statement.php:212
+msgid "Load carried"
+msgstr "Realitzat"
+
+#: includes/activity-statement.php:213
+msgid "You are reponsible for"
+msgstr "Ets responsable del"
+
+#: includes/activity-statement.php:215
+msgid "of all tasks across all projects."
+msgstr "de totes les tasques dels projectes."
+
+#: includes/activity-statement.php:217
+msgid "no tasks on any projects."
+msgstr "cap tasca en cap projecte."
+
+#: includes/activity-statement.php:232
+msgid "Everyone else"
+msgstr "Tots els altres"
+
+#: includes/activity-statement.php:235
+#, php-format
+msgid ""
+"There are <span>%1$d</span> outstanding tasks for other users, they carry "
+"<span>%2$d&#37</span> of the load."
+msgstr ""
+"Hi ha <span>%1$ d</span> de tasques pendents per a altres usuaris, porten "
+"<span>%2$d&#37</span> de la càrrega."
+
+#: includes/activity-statement.php:239
+msgid "There are no outstanding tasks for other people."
+msgstr "No hi ha cap tasca destacada per a altres persones."
+
+#: includes/activity-statement.php:243
+msgid "There is <span>1</span> outstanding task for someone else."
+msgstr "Hi ha <span>1</span> destacada tasca per a una altra persona."
+
+#: includes/activity-statement.php:259
+msgid "Total outstanding tasks"
+msgstr "Totals tasques pendents"
+
+#: includes/activity-statement.php:261
+#, php-format
+msgid ""
+"There are <span>%1$d</span> outstanding tasks across all active projects."
+msgstr ""
+"Hi ha <span>%1$d</span> tasques pendents a través de tots els projectes "
+"actius."
+
+#: includes/activity-statement.php:263
+msgid "There are no outstanding tasks across all active projects."
+msgstr "No hi ha cap tasca excepcional a través de tots els projectes actius."
+
+#: includes/activity-statement.php:267
+msgid "View Tasks"
+msgstr "Mostra tasques"
+
+#: includes/activity-statement.php:270 includes/add-task-form.php:192
+msgid "Create Task"
+msgstr "Crear tasca"
+
+#: includes/activity-statement.php:283 page-projects.php:87 page-report.php:86
+msgid "Active projects"
+msgstr "Projectes actius"
+
+#: includes/activity-statement.php:285
+#, php-format
+msgid "There is a total of <span>%1$d</span> active projects including"
+msgstr "Hi ha un total de <span>%1$d</span>"
+
+#: includes/activity-statement.php:287
+msgid "There are no active projects including"
+msgstr "No hi ha projectes actius inclosos"
+
+#: includes/activity-statement.php:290
+msgid "View Projects"
+msgstr "Mostra projectes"
+
+#: includes/add-task-form.php:24 single.php:178
+msgid "Task name"
+msgstr "Nom de la tasca"
+
+#: includes/add-task-form.php:31 includes/task-bar.php:9
+#: page-single-report.php:212 single.php:187 single.php:634
+msgid "Private"
+msgstr "Privat"
+
+#: includes/add-task-form.php:43 includes/mini-chart.php:14
+#: includes/search-result-project.php:33 post-logic.php:375 post-logic.php:433
+#: single.php:463
+msgid "Project"
+msgstr "Projecte"
+
+#: includes/add-task-form.php:90
+msgid "Assign this task to"
+msgstr "Assignar aquesta tasca a"
+
+#: includes/add-task-form.php:92 includes/add-task-form.php:100
+#: includes/admins-list.php:9 includes/attachments.php:52
+#: includes/attachments.php:109 single.php:250
+msgid "Nobody"
+msgstr "Ningú"
+
+#: includes/add-task-form.php:131 includes/add-task-form.php:137
+#: page-new-project.php:259 page-new-project.php:267 page-new-project.php:275
+#: single.php:306 single.php:311 single.php:356
+msgid "Clear"
+msgstr "Borrar"
+
+#: includes/add-task-form.php:135 includes/mini-chart.php:286
+#: page-new-project.php:265
+msgid "End date"
+msgstr "Data final"
+
+#: includes/add-task-form.php:147 page-new-project.php:284
+msgid "Auto Generated"
+msgstr "Auto generat"
+
+#: includes/add-task-form.php:147
+msgid "A job number will be automatically assigned when you create this task."
+msgstr ""
+"Un número de treball s'assignarà automàticament al crear aquest projecte."
+
+#: includes/add-task-form.php:187 single.php:391
+msgid "Additional information"
+msgstr "Informació addicional"
+
+#: includes/admins-list.php:7 includes/project-users-list.php:61
+#: includes/users.php:50 includes/users.php:52
+msgid "Administrator"
+msgstr "Administrador"
+
+#: includes/all-active-tasks.php:27 includes/all-completed-tasks.php:26
+#: includes/my-completed-tasks.php:29
+msgid "Task ID"
+msgstr "ID de la tasca"
+
+#: includes/all-active-tasks.php:55 includes/all-completed-tasks.php:59
+#: includes/search-result.php:29 page-my-tasks.php:105
+msgid "Private Task"
+msgstr "Tasca privada"
+
+#: includes/all-active-tasks.php:73 includes/my-active-tasks.php:52
+#: includes/my-completed-tasks.php:58 includes/team-activity.php:78
+msgid "unowned task"
+msgstr "tasca sense asignar"
+
+#: includes/all-active-tasks.php:74 includes/all-completed-tasks.php:78
+#: includes/my-active-tasks.php:53 includes/my-completed-tasks.php:59
+#: includes/team-activity.php:95 page-single-report.php:389 single.php:671
+msgid "Take Ownership"
+msgstr "Prendre possessió"
+
+#: includes/all-active-tasks.php:83 includes/my-active-tasks.php:62
+#: page-single-report.php:214
+msgid "Normal Priority"
+msgstr "Prioritat normal"
+
+#: includes/all-active-tasks.php:122 includes/all-completed-tasks.php:89
+#: includes/all-completed-tasks.php:118 includes/my-active-tasks.php:70
+#: includes/my-completed-tasks.php:68 page-projects.php:254 post-logic.php:311
+msgid "More info"
+msgstr "Més informació >>"
+
+#: includes/all-active-tasks.php:150
+msgid "There are no tasks in this project."
+msgstr "No hi ha cap tasca en aquest projecte."
+
+#: includes/all-completed-tasks.php:146
+msgid "There are no completed tasks."
+msgstr "No hi ha cap tasca completada."
+
+#: includes/all-projects-nav.php:13
+msgid "All Active Projects"
+msgstr "Tots els projectes actius"
+
+#: includes/all-projects-nav.php:32 includes/own-projects-nav.php:65
+#: includes/projects-involved-in.php:66
+msgid "There are no active tasks."
+msgstr "No hi ha cap tasca activa."
+
+#: includes/all-projects-nav.php:35 includes/own-projects-nav.php:68
+#: includes/projects-involved-in.php:69
+msgid "1 task remaining"
+msgstr "1 tasca restants"
+
+#: includes/all-projects-nav.php:38 includes/own-projects-nav.php:71
+#: includes/project-data.php:181 includes/projects-involved-in.php:72
+#: page-clients.php:98
+msgid "Tasks remaining"
+msgstr "Queden tasques"
+
+#: includes/attachments.php:57 includes/attachments.php:114
+msgid "This file was uploaded by a client"
+msgstr "Aquest arxiu ha estat pujat per un client"
+
+#: includes/attachments.php:69 includes/attachments.php:123
+msgid "Uploaded by"
+msgstr "Pujat per"
+
+#: includes/attachments.php:69 includes/attachments.php:123
+msgid "on"
+msgstr "en"
+
+#: includes/attachments.php:74 includes/attachments.php:77
+msgid "Delete this image"
+msgstr "Suprimir aquesta imatge"
+
+#: includes/comment-count.php:5 includes/task-bar.php:82
+msgid "This task has"
+msgstr "Aquesta tasca té"
+
+#: includes/comments.php:5
+msgid "Please do not load this page directly"
+msgstr "Si us plau, no carreguis aquesta pàgina directament."
+
+#: includes/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Aquesta entrada està protegida. Introdueix la contrasenya per veure els "
+"comentaris."
+
+#: includes/comments.php:39
+msgid "Comments are closed"
+msgstr "Comentaris tancats"
+
+#: includes/comments.php:63
+msgid "Name"
+msgstr "Nom"
+
+#: includes/comments.php:66 page-account.php:153 page-single-report.php:410
+#: page-user-profile.php:79
+msgid "Email"
+msgstr "Email"
+
+#: includes/comments.php:69 page-account.php:309 page-user-profile.php:111
+msgid "Website"
+msgstr "Pàgina web"
+
+#: includes/comments.php:75
+msgid "Submit Comment"
+msgstr "Publica el comentari"
+
+#: includes/dash-pages.php:4
+msgid "Recently Added Pages"
+msgstr "Pàgines recentment afegides"
+
+#: includes/global-projects-nav.php:3
+msgid "All Projects"
+msgstr "Tots els projectes"
+
+#: includes/intros.php:21 includes/intros.php:41 includes/intros.php:62
+msgid "Howdy!"
+msgstr "Iep! benvingut..."
+
+#: includes/intros.php:22
+msgid ""
+"If you haven't already done it yet, go tweak some settings to get things "
+"running the way you want."
+msgstr ""
+"Si encara no ho has fet, configura el sistema perquè s'exacuti correctament."
+
+#: includes/intros.php:23 includes/intros.php:43 includes/intros.php:64
+msgid "Roger that"
+msgstr "Ara"
+
+#: includes/intros.php:24 includes/intros.php:44 includes/intros.php:65
+msgid "Maybe Later"
+msgstr "Potser més tard"
+
+#: includes/intros.php:42
+msgid ""
+"If you haven't already done so, update your profile with as much information "
+"as you can and set some user preferences. This will provide a better "
+"experience for you and everyone else."
+msgstr ""
+"Si no has fet, actualitza les teves dades i preferències. Així serà més "
+"fàcil per a tu i per a la resta de l'equip."
+
+#: includes/intros.php:63
+msgid ""
+"If you haven't already done so, update your profile with as much information "
+"as you can. This will provide a better experience for you and everyone else."
+msgstr ""
+"Si no has fet, actualitza les teves dades i preferències. Així serà més "
+"fàcil per a tu i per a la resta de l'equip."
+
+#: includes/license-api.php:84 includes/license-api.php:109
+#: includes/license-api.php:215 includes/license-api.php:228
+msgid "Your license is invalid"
+msgstr "La teva llicència no és vàlida"
+
+#: includes/license-api.php:97 includes/license-api.php:222
+msgid "Your license is still pending"
+msgstr "La llicència està encara pendent d'activació."
+
+#: includes/license-api.php:121 includes/license-api.php:234
+msgid "Your license has expired"
+msgstr "La teva llicència ha expirat"
+
+#: includes/license-api.php:135 includes/license-api.php:159
+#: includes/license-api.php:248 includes/license-api.php:260
+msgid "Your license is valid"
+msgstr "La llicència és vàlida"
+
+#: includes/license-api.php:147 includes/license-api.php:254
+msgid "Your license has already been activated the maximum number of times"
+msgstr "La teva llicència ja s'ha activat el nombre màxim de vegades"
+
+#: includes/license-api.php:169
+msgid "Your license is invalid for this install"
+msgstr "La teva llicència no és vàlida per aquesta instal·lació"
+
+#: includes/license-api.php:185
+msgid "Something went wrong"
+msgstr "Alguna cosa va malament"
+
+#: includes/license-api.php:207
+msgid "Make sure you've entered in your license correctly"
+msgstr "Estigues segur que la teva llicència és bona"
+
+#: includes/license-service.php:85 includes/license-service.php:108
+#: includes/license-service.php:139
+msgid "Unexpected Error! The query returned with an error"
+msgstr "Error inesperat. La consulta ha retornat un error"
+
+#: includes/messages-task-statuses.php:3
+msgid "was marked complete"
+msgstr "va ser marcada com a completa"
+
+#: includes/messages-task-statuses.php:4 includes/messages-task-statuses.php:20
+#: page-projects.php:71
+msgid "Undo"
+msgstr "Desfer"
+
+#: includes/messages-task-statuses.php:12
+msgid "was marked incomplete"
+msgstr "va ser marcada com a incompleta"
+
+#: includes/messages-task-statuses.php:19
+msgid "was deleted"
+msgstr "va ser borrada"
+
+#: includes/messages-task-statuses.php:28
+msgid "was restored"
+msgstr "va ser restaurada"
+
+#: includes/messages-task-statuses.php:35
+msgid "is now in progress"
+msgstr "està en progrés"
+
+#: includes/messages-task-statuses.php:42
+msgid "is on hold"
+msgstr "està en espera"
+
+#: includes/mini-chart.php:14
+msgid "including all unassigned"
+msgstr "incloent les no assignades"
+
+#: includes/mini-chart.php:22
+msgid "There are no active projects."
+msgstr "No hi ha projectes actius"
+
+#: includes/mini-chart.php:24 includes/recent.php:11
+msgid "Create one?"
+msgstr "Crear-ne un?"
+
+#: includes/mini-chart.php:26
+msgid "Unless the option is enabled, only administrators can create projects."
+msgstr ""
+"Si la opció està activa, només els administradors poden crear un projecte."
+
+#: includes/mini-chart.php:135 includes/mini-chart.php:146
+#: includes/mini-chart.php:147 includes/report-all.php:118
+#, php-format
+msgid "%1$d of %2$d complete, %3$d outstanding"
+msgstr "%1$d de %2$d completades, %3$d en execució"
+
+#: includes/mini-chart.php:154 includes/report-all.php:118
+#: includes/report-all.php:162 includes/users.php:55 includes/users.php:59
+#: includes/users.php:84 includes/users.php:88 includes/users.php:114
+#: includes/users.php:118 page-projects.php:239 page-projects.php:443
+#: page-user-profile.php:102
+msgid "Tasks"
+msgstr "Tasques"
+
+#: includes/mini-chart.php:161
+msgid "Total"
+msgstr "Total"
+
+#: includes/mini-chart.php:165
+msgid "Remaining"
+msgstr "Restants"
+
+#: includes/mini-chart.php:169
+msgid "Details"
+msgstr "Detalls"
+
+#: includes/mini-chart.php:177 includes/project-data.php:212
+msgid "Hrs allocated"
+msgstr "hores assignades"
+
+#: includes/mini-chart.php:181 includes/project-data.php:216
+#: page-projects.php:293
+msgid "No time allocated"
+msgstr "Sense data assignada"
+
+#: includes/mini-chart.php:210 includes/mini-chart.php:233
+#: page-projects.php:350 page-single-report.php:240 page-single-report.php:251
+msgid "hrs"
+msgstr "hrs"
+
+#: includes/mini-chart.php:210 includes/mini-chart.php:233
+#: includes/project-data.php:295 page-projects.php:367
+#: page-single-report.php:241 page-single-report.php:252 post-logic.php:302
+#: single.php:573 single.php:588
+msgid "mins"
+msgstr "mins"
+
+#: includes/mini-chart.php:232
+msgid "Hrs remaining"
+msgstr "Hores restants"
+
+#: includes/mini-chart.php:236 includes/project-data.php:280
+#: page-projects.php:353
+msgid "This project has exceeded the allocated time"
+msgstr "Aquest projecte ha excedit el temps assignat"
+
+#: includes/mini-chart.php:237 includes/project-data.php:281
+#: page-projects.php:354
+msgid "Over time by"
+msgstr "Excés de temps"
+
+#: includes/mini-chart.php:247
+#, php-format
+msgid "%1$d hrs and %2$d mins"
+msgstr "%1$d hores i %2$d minuts"
+
+#: includes/mini-chart.php:249
+#, php-format
+msgid "%1$d hr and %2$d mins"
+msgstr "%1$d hora i %2$d minuts"
+
+#: includes/mini-chart.php:276 page-projects.php:414
+msgid "Deadline"
+msgstr "Data límit"
+
+#: includes/mini-chart.php:291
+msgid "No project deadline"
+msgstr "No hi ha data límit del projecte"
+
+#: includes/mini-chart.php:312 includes/project-data.php:359
+#: page-projects.php:397
+msgid "This project has exceeded the allocated budget"
+msgstr "Aquest projecte ha superat el pressupost assignat"
+
+#: includes/mini-chart.php:314 includes/project-data.php:361
+#: page-projects.php:399
+msgid "This project is still within the allocated budget"
+msgstr "Aquest projecte és encara dins del pressupost assignat"
+
+#: includes/mini-chart.php:335 includes/report-all.php:108
+#: page-single-report.php:188
+msgid "Report"
+msgstr "Informe"
+
+#: includes/my-active-tasks.php:96
+msgid "You don't have any tasks in this project."
+msgstr "No tens cap tasca en aquest projecte."
+
+#: includes/my-completed-tasks.php:92
+msgid "You haven't completed any tasks."
+msgstr "No has completat les tasques."
+
+#: includes/own-projects-nav.php:32
+msgid "My Active Projects"
+msgstr "Els meus projectes actius"
+
+#: includes/previous-owner.php:37
+msgid "Previous owner"
+msgstr "Propietario anterior"
+
+#: includes/previous-owner.php:39
+msgid "Previous owner: Nobody"
+msgstr "Propietari anterior: Ningú"
+
+#: includes/previous-owner.php:43
+msgid "Previous Owner"
+msgstr "Propietari anterior"
+
+#: includes/project-data.php:131
+msgid "Yay! This project appears to complete."
+msgstr "Iep! Aquest projecte sembla complet."
+
+#: includes/project-data.php:134
+msgid "View Report"
+msgstr "Mostra l'informe"
+
+#: includes/project-data.php:151
+msgid "Project Progress"
+msgstr "Progrés del projecte"
+
+#: includes/project-data.php:171
+msgid "Task complete"
+msgstr "Tasca completa"
+
+#: includes/project-data.php:171 page-clients.php:97
+msgid "Tasks complete"
+msgstr "Tasques completades"
+
+#: includes/project-data.php:181
+msgid "Task remains"
+msgstr "Tasques que falten"
+
+#: includes/project-data.php:191
+msgid "Tasks belonging to me"
+msgstr "Tasques assignades a mi"
+
+#: includes/project-data.php:211
+msgid "How much time has been allocated to this project"
+msgstr "Quant de temps s'ha assignat a aquest projecte"
+
+#: includes/project-data.php:215 page-projects.php:292
+msgid "No time has been allocated to this project"
+msgstr "No s'ha assignat temps a aquest projecte"
+
+#: includes/project-data.php:249
+msgid "How much time has been used on this project"
+msgstr "Temps destinat en aquest projecte"
+
+#: includes/project-data.php:250 includes/project-data.php:275
+#: page-projects.php:320 post-logic.php:302 single.php:573 single.php:588
+msgid "Hours"
+msgstr "Hores"
+
+#: includes/project-data.php:250 page-projects.php:320
+msgid "mins used"
+msgstr "miniuts utilitzats"
+
+#: includes/project-data.php:253 page-projects.php:323
+msgid "No time has been recorded on this project"
+msgstr "No s'ha destinat temps en aquest projecte"
+
+#: includes/project-data.php:254 page-projects.php:324
+msgid "No time recorded"
+msgstr "No s'ha guardat el temps"
+
+#: includes/project-data.php:274
+msgid "How much time is remaining on this project"
+msgstr "Quant de temps queda per aquest projecte"
+
+#: includes/project-data.php:275 page-projects.php:350
+msgid "mins remaining"
+msgstr "minuts restants"
+
+#: includes/project-data.php:295 page-projects.php:367
+msgid "hr"
+msgstr "hora"
+
+#: includes/project-data.php:316 page-projects.php:414
+msgid "The time frame for this project has passed"
+msgstr "Ha transcorregut el termini per a aquest projecte"
+
+#: includes/project-data.php:316
+msgid "Deadline passed"
+msgstr "Termini passat"
+
+#: includes/project-data.php:323 includes/search-result-project.php:58
+#: page-projects.php:419
+msgid "The time frame for this project"
+msgstr "Ha transcorregut el termini per a aquest projecte"
+
+#: includes/project-data.php:323 includes/report-all.php:123
+msgid "Schedule"
+msgstr "Planificació"
+
+#: includes/project-data.php:335
+msgid "Job number for this project"
+msgstr "Número de treball per a aquest projecte"
+
+#: includes/project-details-pane.php:30
+msgid "No Project Manager."
+msgstr "Cap gestor/a pel projecte"
+
+#: includes/project-details-pane.php:34
+#, php-format
+msgid "Do you need to <a href=\"%s\" target=\"_blank\">assign a PM?</a>"
+msgstr "Necesites <a href=\"%s\" target=\"_blank\">asignar un gestor/a?</a>"
+
+#: includes/project-details-pane.php:49
+msgid "Change"
+msgstr "Canviar"
+
+#: includes/project-details-pane.php:59 includes/project-details-pane.php:64
+#: page-new-project.php:246
+msgid "Description"
+msgstr "Descripció"
+
+#: includes/project-details-pane.php:65
+msgid "No description provided."
+msgstr "No hi ha descripció."
+
+#: includes/project-details-pane.php:68
+#, php-format
+msgid "Do you need to <a href=\"%s\" target=\"_blank\">add a description?</a>"
+msgstr "Necesites <a href=\"%s\" target=\"_blank\">afegir una descripció?</a>"
+
+#: includes/project-details-pane.php:90
+msgid "No Details provided."
+msgstr "No hi ha dades facilitades."
+
+#: includes/project-details-pane.php:93
+#, php-format
+msgid "Do you need to <a href=\"%s\" target=\"_blank\">add more details?</a>"
+msgstr "Necesites <a href=\"%s\" target=\"_blank\">afegir més detalls?</a>"
+
+#: includes/project-toolbar.php:13
+msgid "My Active Tasks"
+msgstr "Les meves tasques actives"
+
+#: includes/project-toolbar.php:19
+msgid "My Completed Tasks"
+msgstr "Les meves tasques completades"
+
+#: includes/project-toolbar.php:25
+msgid "All Active Tasks"
+msgstr "Totes les tasques actives"
+
+#: includes/project-toolbar.php:31
+msgid "All Completed Tasks"
+msgstr "Totes les tasques completades"
+
+#: includes/project-toolbar.php:131
+msgid "Sort"
+msgstr "Ordenar"
+
+#: includes/project-toolbar.php:140
+msgid "Due Dated"
+msgstr "Dates retrasades"
+
+#: includes/project-toolbar.php:141 page-my-tasks.php:58
+msgid "Modified"
+msgstr "Modificat"
+
+#: includes/project-toolbar.php:143
+msgid "Random"
+msgstr "Aleatori"
+
+#: includes/project-toolbar.php:144
+msgid "Title"
+msgstr "Títol"
+
+#: includes/project-toolbar.php:145
+msgid "ASC"
+msgstr "ASC"
+
+#: includes/project-toolbar.php:146
+msgid "DESC"
+msgstr "DESC"
+
+#: includes/project-users-list.php:2
+msgid "Users involved in this project"
+msgstr "Usuaris que participen en aquest projecte"
+
+#: includes/projects-involved-in.php:33
+msgid "Projects I'm involved in"
+msgstr "Projectes que estic involucrat"
+
+#: includes/projects-involved-in.php:81
+msgid "tasks for me"
+msgstr "tasques per a mi"
+
+#: includes/projects-involved-in.php:86
+msgid "Project Manager:"
+msgstr "Gestor/a del Projecte"
+
+#: includes/recent-comments.php:4
+msgid "Recent Comments"
+msgstr "Comentaris recents"
+
+#: includes/recent.php:9
+msgid "You don't have any tasks yet."
+msgstr "Encara no tens cap tasca."
+
+#: includes/recent.php:14
+msgid "Unless the option is enabled, only administrators can create tasks."
+msgstr ""
+"Si la opció està activa, només els administradors poden crear un projecte."
+
+#: includes/recent.php:22
+msgid "My latest"
+msgstr "Les meves ultimes"
+
+#: includes/recent.php:26
+msgid "Privacy"
+msgstr "Privadesa"
+
+#: includes/recent.php:28 includes/task-bar.php:16
+msgid "Created"
+msgstr "Creat"
+
+#: includes/recent.php:29 includes/task-bar.php:44 includes/task-bar.php:51
+#: page-my-tasks.php:59
+msgid "Due"
+msgstr "Previst"
+
+#: includes/recent.php:33 page-my-tasks.php:62
+msgid "Action"
+msgstr "Acció"
+
+#: includes/recent.php:51
+msgid "New"
+msgstr "Nou"
+
+#: includes/report-all.php:140 includes/search-result-project.php:51
+msgid "PM"
+msgstr "PM"
+
+#: includes/report-all.php:156 page-clients.php:99
+msgid "Progress"
+msgstr "Progrés"
+
+#: includes/search-result.php:19
+msgid "Download"
+msgstr "Descàrrega"
+
+#: includes/search.php:4 includes/search.php:6
+msgid "Search"
+msgstr "Cerca"
+
+#: includes/search.php:11
+msgid "Search in all projects"
+msgstr "Cerca en tots els projectes"
+
+#: includes/search.php:12
+msgid "Search attachments only"
+msgstr "Buscar només adjunts"
+
+#: includes/task-bar.php:43
+msgid "This task is not overdue"
+msgstr "Tasques no endarrerides"
+
+#: includes/task-bar.php:47
+msgid "This task is OVERDUE"
+msgstr "Aquesta tasca és endarrerida"
+
+#: includes/task-bar.php:48 page-single-report.php:211
+msgid "Overdue"
+msgstr "Ensdarrerida"
+
+#: includes/task-bar.php:50
+msgid "Due date"
+msgstr "Data de venciment"
+
+#: includes/task-bar.php:74
+msgid "The date this task was completed"
+msgstr "La data que es va completar aquesta tasca"
+
+#: includes/task-bar.php:82 includes/task-bar.php:83
+msgid "Attachment"
+msgstr "Adjunt"
+
+#: includes/task-bar.php:90
+msgid "This task doesn't have an owner"
+msgstr "Aquesta tasca no té un propietari"
+
+#: includes/task-bar.php:90
+msgid "Unowned"
+msgstr "Sense propietària"
+
+#: includes/task-bar.php:95
+msgid "The ID of this task"
+msgstr "L'ID d'aquesta tasca"
+
+#: includes/task-bar.php:95 single.php:549
+msgid "ID"
+msgstr "ID"
+
+#: includes/task-bar.php:100
+msgid "Job number for this task"
+msgstr "Número associat a aquesta tasca"
+
+#: includes/task-cost.php:6
+msgid "How much this task has cost so far"
+msgstr "Quant ha costat aquesta tasca"
+
+#: includes/task-status-notify.php:92 post-logic.php:234
+msgid "View Task"
+msgstr "Mostrar tasca"
+
+#: includes/task-status-notify.php:95 page-new-project.php:152
+#: post-logic.php:231
+msgid "View Project"
+msgstr "Veure projecte"
+
+#: includes/task-status-notify.php:105 includes/task-status-notify.php:125
+#: page-new-task.php:28
+msgid "The task"
+msgstr "La tasca"
+
+#: includes/task-status-notify.php:105 includes/task-status-notify.php:125
+msgid "changed status"
+msgstr "estatus canviat"
+
+#: includes/task-status-notify.php:130
+msgid "Task status changed:"
+msgstr "Estat de la tasca canviat"
+
+#: includes/task-status-notify.php:132 page-new-project.php:186
+#: post-logic.php:451
+msgid "From"
+msgstr "Des de"
+
+#: includes/team-activity.php:25
+msgid "Recent Team Activity"
+msgstr "Activitat recent d'equip"
+
+#: includes/team-activity.php:47
+msgid "Has a new"
+msgstr "en té un de nou"
+
+#: includes/team-activity.php:48 single.php:497
+msgid "Added"
+msgstr "Afegit"
+
+#: includes/time-spent.php:5 includes/time-spent.php:25
+msgid "The time spent on this task so far"
+msgstr "El temps dedicat a aquesta tasca"
+
+#: includes/tips.php:8
+msgid "Limit the scope of your search by using the search filter"
+msgstr "Limitar l'abast de la cerca utilitzant el filtre de cerca"
+
+#: includes/tips.php:9
+msgid "Change your password and preferences in"
+msgstr "Canviar la contrasenya i preferències a"
+
+#: includes/tips.php:9 includes/tips.php:10 includes/tips.php:20
+#: includes/tips.php:23
+msgid "Account Settings"
+msgstr "Configuració de Compte"
+
+#: includes/tips.php:10
+msgid "Upload your photo in"
+msgstr "Pujar la teva foto a"
+
+#: includes/tips.php:10
+msgid "to improve your Task Rocket experience"
+msgstr "per millorar la vostra experiència a Task Rocket"
+
+#: includes/tips.php:11
+msgid "Overdue items will be shown in red"
+msgstr "Elements endarrerits es mostraran en vermell"
+
+#: includes/tips.php:12
+msgid ""
+"Tasks priorities are indicated by colour. Blue = Low, Green = Normal, Orange "
+"= High and Red = Urgent"
+msgstr ""
+"Prioritats de tasques s'indiquen per color. Blau = baixa, verd = Normal, "
+"taronja = alta i vermell = urgents"
+
+#: includes/tips.php:13
+msgid "You can attach multiple files to tasks"
+msgstr "Pot adjuntar vàris arxius a les tasques"
+
+#: includes/tips.php:14
+msgid "Set start and due dates on any project"
+msgstr "Indica data d'inici i fi de qualsevol projecte"
+
+#: includes/tips.php:15
+msgid ""
+"You can change the status of a task to Complete, Incomplete, On Hold or In "
+"Progress"
+msgstr ""
+"Podeu canviar l'estat d'una tasca completa, incompleta, retingut o en curs"
+
+#: includes/tips.php:16
+msgid "Set start and due dates on any task"
+msgstr "Selecciona data d'inici i fi en qualsevol tasca"
+
+#: includes/tips.php:17
+msgid "Add a job number to any task or project"
+msgstr "Afegir un número de feina a qualsevol tasca o projecte"
+
+#: includes/tips.php:18
+msgid ""
+"Set your hourly rate (admin), and specify a time frame for any given project "
+"to keep an eye on costs"
+msgstr ""
+"Establir el preu per hora (admin) i especifiqueu un marc de temps per a "
+"qualsevol projecte no sobrepassar els costos"
+
+#: includes/tips.php:19
+msgid ""
+"Disable Gravatars (Settings -> Discussion) to allow users to upload their "
+"own profile photo"
+msgstr ""
+"Impossibilitar Gravatars (configuració-> discussió) per permetre als usuaris "
+"carregar la seva foto de perfil"
+
+#: includes/tips.php:20
+msgid "Update your"
+msgstr "Actualització el teu"
+
+#: includes/tips.php:20
+msgid "to share useful information with other team members"
+msgstr "per compartir informació amb altres membres de l'equip"
+
+#: includes/tips.php:21
+msgid ""
+"Keep track of time used by simply logging your time when you edit a task"
+msgstr ""
+"Fer un seguiment de temps utilitzar simplement connectant-se el seu temps "
+"quan vostè editar una tasca"
+
+#: includes/tips.php:22
+msgid "Projects that have gone over cost will be shown in red"
+msgstr "Projectes que han tingut sobre-cost es mostraran en vermell"
+
+#: includes/tips.php:23
+msgid "See what projects you're involved in by visiting your"
+msgstr "Veure quins projectes estàs involucrat visitant el teu"
+
+#: includes/tips.php:24
+msgid "See a complete list of"
+msgstr "Veure una llista completa de"
+
+#: includes/tips.php:24
+msgid "All your tasks"
+msgstr "Totes les teves tasques"
+
+#: includes/tips.php:25
+msgid "When viewing a report, you can email a report to anyone"
+msgstr "Quan consultes un informe, pots enviar un informe a qualsevol"
+
+#: includes/tips.php:26
+msgid "The toolbar icons will change depending on where you are in Task Rocket"
+msgstr "Les icones de toolbar canviaràn depenent d'on estiguis de Task Rocket"
+
+#: includes/tips.php:27
+msgid "Administrators can make their own tasks private"
+msgstr "Els administradors poden fer les seves pròpies tasques privades"
+
+#: includes/tips.php:28
+msgid "Grab the free"
+msgstr "Gratuït"
+
+#: includes/tips.php:28
+msgid "Task Rocket Chrome Extension"
+msgstr "Extensió de Task Rocket per Chrome"
+
+#: includes/users.php:83
+msgid "Team Member"
+msgstr "Membre de l’Equip"
+
+#: includes/users.php:113
+msgid "Client"
+msgstr "Client"
+
+#: page-account.php:77
+msgid "Your details were successfully updated."
+msgstr "Les dades han set actualitzades correctament."
+
+#: page-account.php:110
+msgid "Gravatars are in use."
+msgstr "Gravatars estan en ús."
+
+#: page-account.php:114
+#, php-format
+msgid ""
+"If you would rather upload a photo, disable \"Show Avatars\" in the "
+"WordPress <a href=\"%1$s\" target=\"_blank\">discussion settings</a>.<br /"
+">Otherwise, edit your gravatar by logging in (or creating an account) with "
+"your email address at <a href=\"%2$s\" target=\"_blank\">gravatar.com</a>"
+msgstr ""
+"Si prefereixes mostrar una foto, desactiva “Mostrar Avatar” en el WordPress "
+"<a href=\"%1$s\" target=\"_blank\"> Ajustos </a>.<br /> Un altre camí és "
+"editar el teu gravatar iniciant sessió (o crear un compte) amb el correu "
+"electrònic a <a href=\"%2$s\" target=\"_blank\">gravatar.com</a>"
+
+#: page-account.php:127
+msgid "Upload a photo"
+msgstr "Carregar una foto"
+
+#: page-account.php:138
+msgid "First name"
+msgstr "Nom"
+
+#: page-account.php:143
+msgid "Last name"
+msgstr "Cognoms"
+
+#: page-account.php:148
+msgid "Nickname"
+msgstr "Sobrenom"
+
+#: page-account.php:163
+msgid "New password"
+msgstr "Nova contrasenya"
+
+#: page-account.php:168
+msgid "Confirm new password"
+msgstr "Confirma Nova Contrasenya"
+
+#: page-account.php:190
+msgid "Enter a brief bio"
+msgstr "Introdueix una breu biografia"
+
+#: page-account.php:195
+msgid "Dashboard preferences"
+msgstr "Panell de preferències"
+
+#: page-account.php:207
+msgid "Recent tasks"
+msgstr "Tasques recents"
+
+#: page-account.php:233
+msgid "Recent pages"
+msgstr "Pàgines recents"
+
+#: page-account.php:251
+msgid "Tabs Order on project pages"
+msgstr "Ordre de pestanyes en les pàgines de projectes"
+
+#: page-account.php:337
+msgid "Update"
+msgstr "Actualitzar"
+
+#: page-clients.php:38
+msgid ""
+"Hi! If you're reading this it means you haven't been assigned to any "
+"project. Please notify an administrator and then reload this page."
+msgstr ""
+"Iep! Si estàs llegint això vol dir que no tens accés a un projecte. Si us "
+"plau demana a un administrador que t'assigni a un projecte i torna a "
+"carregar aquesta pàgina."
+
+#: page-clients.php:96
+msgid "Tasks total"
+msgstr "Total de tasques"
+
+#: page-my-tasks.php:21
+msgid "My"
+msgstr "Meu"
+
+#: page-new-project.php:53
+msgid "Project added. Go to"
+msgstr "Projecte afegit. Anar a"
+
+#: page-new-project.php:53
+msgid "to start adding tasks, or add another project below."
+msgstr "per començar a afegir tasques, o afegir un altre projecte de sota."
+
+#: page-new-project.php:162 page-new-project.php:179
+msgid "A new project was created by"
+msgstr "Un nou projecte ha estat creat per"
+
+#: page-new-project.php:184
+msgid "Project added: "
+msgstr "Projecte afegit:"
+
+#: page-new-project.php:197
+#, php-format
+msgid "Sorry, but a project called %1$s already exists."
+msgstr "Ho sento, però un projecte que s'anomena %1$s ja existeix."
+
+#: page-new-project.php:238
+msgid "Project name"
+msgstr "Nom del projecte"
+
+#: page-new-project.php:309
+msgid "Select a Project Manager"
+msgstr "Selecciona un gestor/a de projecte"
+
+#: page-new-project.php:349
+msgid "Project details"
+msgstr "Detalls del projecte"
+
+#: page-new-project.php:354
+msgid "Create Project"
+msgstr "Crear un projecte"
+
+#: page-new-project.php:370
+msgid ""
+"Sorry, but the ability to create projects has not been enabled by an "
+"administrator. You'll need to ping one of these admin(s)"
+msgstr ""
+"Ho sentim, però la capacitat de crear projectes no s'ha habilitat per un "
+"administrador. Necessites contactar a un d'aquests administrador(s)"
+
+#: page-new-task.php:32
+msgid "was added"
+msgstr "s'ha afegit"
+
+#: page-new-task.php:34
+msgid "to"
+msgstr "a"
+
+#: page-new-task.php:50
+msgid ""
+"Sorry, but the ability to create tasks has not been enabled by an "
+"administrator. You'll need to ping one of these admin(s)"
+msgstr ""
+"Ho sentim, però la capacitat de crear projectes no s'ha habilitat per un "
+"administrador. Necessites contactar a un d'aquests administrador(s)"
+
+#: page-projects.php:64
+msgid "and associated tasks have been deleted."
+msgstr "i s'han suprimit les tasques associades."
+
+#: page-projects.php:71
+msgid "has been archived."
+msgstr "ha estat arxivat."
+
+#: page-projects.php:78
+msgid "has been pulled from the archives."
+msgstr "s'ha tret dels arxius."
+
+#: page-projects.php:78
+msgid "Re-archive"
+msgstr "Re-arxiva"
+
+#: page-projects.php:94 page-report.php:93
+msgid "Tasks outstanding"
+msgstr "Tasques pendents"
+
+#: page-projects.php:101 page-report.php:100
+msgid "Tasks on hold"
+msgstr "Tasques en espera"
+
+#: page-projects.php:239
+msgid "outstanding"
+msgstr "pendents"
+
+#: page-projects.php:271
+msgid "task is"
+msgstr "tasca és"
+
+#: page-projects.php:271
+msgid "tasks are"
+msgstr "tasques són"
+
+#: page-projects.php:288
+msgid "The time allocated to this project"
+msgstr "El temps assignat a aquest projecte"
+
+#: page-projects.php:367
+msgid "and"
+msgstr "i"
+
+#: page-projects.php:436
+msgid "All tasks complete!"
+msgstr "Totes les tasques completades!"
+
+#: page-projects.php:460
+msgid "Delete this project"
+msgstr "Suprimir aquest projecte"
+
+#: page-projects.php:463
+msgid "Really delete the"
+msgstr "Segur de voler suprimir la"
+
+#: page-projects.php:464
+msgid "If this project is deleted, any associated tasks will also be deleted"
+msgstr ""
+"Si se suprimeix aquest projecte, algunes tasques associades també es "
+"suprimiran."
+
+#: page-projects.php:464
+msgid "Yes, do it"
+msgstr "Sí, fer-ho"
+
+#: page-projects.php:465
+msgid "No!"
+msgstr "No!"
+
+#: page-projects.php:467
+msgid ""
+"You will be able to pull this project from the archives at a later time if "
+"you wish"
+msgstr "Podràs tirar aquest projecte dels arxius si tu vols"
+
+#: page-projects.php:467
+msgid "Archive"
+msgstr "Arxiva"
+
+#: page-projects.php:480
+msgid "Unarchive"
+msgstr "Desarxivar"
+
+#: page-single-report.php:183
+msgid "You emailed the report to"
+msgstr "Vas enviar un informe a"
+
+#: page-single-report.php:206
+msgid "All"
+msgstr "Tot"
+
+#: page-single-report.php:213
+msgid "Low Priority"
+msgstr "Prioritat Baixa"
+
+#: page-single-report.php:215
+msgid "High Priority"
+msgstr "Prioritat Alta"
+
+#: page-single-report.php:216
+msgid "Urgent Priority"
+msgstr "Prioritat Urgent"
+
+#: page-single-report.php:256
+msgid ""
+"Remaining time can not be determined because this project does not have time "
+"allocated"
+msgstr ""
+"Temps restant pot no ser determinat perquè aquest projecte no té temps "
+"assignat"
+
+#: page-single-report.php:256
+msgid "Indeterminable"
+msgstr "Indeterminable"
+
+#: page-single-report.php:288
+msgid "All Tasks"
+msgstr "Totes les tasques"
+
+#: page-single-report.php:294
+msgid ""
+"Reports can contain a lot of data. To see everything in the table, you may "
+"have to scroll left and right."
+msgstr ""
+"els informes poden contenir una gran quantitat de dades. Per veure-ho tot a "
+"la taula, haureu de moure a esquerra i dreta."
+
+#: page-single-report.php:441
+msgid "Send"
+msgstr "Enviar"
+
+#: page-user-profile.php:97
+msgid "View"
+msgstr "Veure"
+
+#: post-logic.php:106 post-logic.php:112 post-logic.php:131
+msgid "New task created by "
+msgstr "Nova tasca creada per"
+
+#: post-logic.php:120
+msgid "Task updated by "
+msgstr "Tasca actualitzada per"
+
+#: post-logic.php:237
+msgid "Note"
+msgstr "Nota"
+
+#: post-logic.php:237
+msgid "This task was submitted by a client "
+msgstr "Aquesta tasca va ser enviada per un client"
+
+#: post-logic.php:238
+msgid "Note: This task was submitted by a client"
+msgstr "Nota: Aquesta tasca va ser enviada per un client"
+
+#: post-logic.php:249 post-logic.php:250 post-logic.php:260 post-logic.php:261
+msgid "Any time"
+msgstr "En qualsevol moment"
+
+#: post-logic.php:369
+msgid "a task"
+msgstr "una tasca"
+
+#: post-logic.php:387 post-logic.php:437 single.php:567 single.php:582
+msgid "Time spent"
+msgstr "Temps dedicat"
+
+#: post-logic.php:403 post-logic.php:441 single.php:633 single.php:636
+msgid "Visibility"
+msgstr "Visibilitat"
+
+#: post-logic.php:431
+msgid "created a task"
+msgstr "tasca creada"
+
+#: post-logic.php:432
+msgid "Task info"
+msgstr "Informació de la tasca"
+
+#: post-logic.php:434
+msgid "Project URL"
+msgstr "URL del projecte"
+
+#: search.php:39
+msgid "Your search for"
+msgstr "La teva cerca per a"
+
+#: search.php:39
+msgid "with the term"
+msgstr "amb el terme"
+
+#: search.php:44
+msgid "found"
+msgstr "trobat"
+
+#: search.php:44
+msgid "result"
+msgstr "resultat"
+
+#: search.php:76
+msgid "Nothing found"
+msgstr "No s’ha trobat res"
+
+#: search.php:77
+msgid "I couldn't find anything related to"
+msgstr "No pots trobar res relacionat amb"
+
+#: single.php:8
+msgid "This is a private task owned by an administrator"
+msgstr "Aquesta és una tasca privada, propietat d'un administrador"
+
+#: single.php:122
+msgid "was updated"
+msgstr "s'ha actualitzat"
+
+#: single.php:139
+msgid "You are now the owner of this task."
+msgstr "Ara ets el gestor d'aquesta tasca."
+
+#: single.php:146
+msgid ""
+"Either you can't take ownership of this task, or someone took ownership of "
+"it before you."
+msgstr ""
+"Potser no pots prendre possessió d'aquesta tasca, o algú ha pres possessió "
+"d'ella abans."
+
+#: single.php:234
+msgid "Reassign this task?"
+msgstr "Reassignar aquesta tasca?"
+
+#: single.php:348
+msgid "Log time"
+msgstr "Temps de registre"
+
+#: single.php:357
+msgid "min incs"
+msgstr "min incs"
+
+#: single.php:375
+msgid "Attach"
+msgstr "Adjuntar"
+
+#: single.php:375
+msgid "more files"
+msgstr "més arxius"
+
+#: single.php:396
+msgid "Update Task"
+msgstr "Actualitzar tasca"
+
+#: single.php:457
+msgid "Task Details"
+msgstr "Detalls de la tasca"
+
+#: single.php:637
+msgid "Public"
+msgstr "Públic"
+
+#: single.php:692
+msgid "Additional Info"
+msgstr "Informació adicional"
+
+#. Theme URI of the plugin/theme
+msgid "https://taskrocket.info"
+msgstr "https://taskrocket.info"
+
+#. Description of the plugin/theme
+msgid "The awesomest front-end project management system on WordPress."
+msgstr "El gestor de tasques més potent"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"
+
+#. Author URI of the plugin/theme
+msgid "http://michaelott.id.au"
+msgstr "http://michaelott.id.au"
+
+#~ msgid ""
+#~ "This is ideal for tasks that are not specific to anyone. Any user who "
+#~ "wants the task can take ownership by reassigning it to themselves"
+#~ msgstr ""
+#~ "Això és ideal per a tasques que no són específics a qualsevol. Qualsevol "
+#~ "usuari que desitgi la tasca pot prendre possessió reassignant-se a si "
+#~ "mateixos"
+
+#~ msgid "You are not involved with any projects yet"
+#~ msgstr "Encara no esteu implicats amb qualsevol dels projectes"
+
+#~ msgid ""
+#~ "If this project is deleted, any associated tasks will also be deleted."
+#~ msgstr ""
+#~ "Si se suprimeix aquest projecte, algunes tasques associades també es "
+#~ "suprimiran."
+
+#~ msgid "View Comment"
+#~ msgstr "Veure comentari"
+
+#~ msgid "has a new comment"
+#~ msgstr "té un comentari nou"
+
+#~ msgid "New comment on:"
+#~ msgstr "Nou comentari en:"
+
+#~ msgid "To take ownership of this task, simply reassign it to yourself."
+#~ msgstr "Per prendre possessió d'aquesta tasca, simplement assigna-te-la."
+
+#~ msgid "http://taskrocket.info"
+#~ msgstr "http://taskrocket.info"

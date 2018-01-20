@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin-update-checker\n"
+"POT-Creation-Date: 2016-07-16 09:43+0200\n"
+"PO-Revision-Date: 2016-07-16 09:44+0200\n"
+"Language-Team: eina <info@eina.io>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: Oriol Carbonell <info@oriolcarbonell.cat>\n"
+"Language: ca\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: github-checker.php:137
+msgid "There is no changelog available."
+msgstr "No hi ha canvis disponibles."
+
+#: plugin-update-checker.php:852
+msgid "Check for updates"
+msgstr "Comprova si hi ha actualitzacions"
+
+#: plugin-update-checker.php:896
+msgid "This plugin is up to date."
+msgstr "Aquest plugin està actualitzat."
+
+#: plugin-update-checker.php:898
+msgid "A new version of this plugin is available."
+msgstr "Hi ha una nova versió d'aquest plugin."
+
+#: plugin-update-checker.php:900
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Estatus de Comprovador d'actualització desconegut \"%s\""

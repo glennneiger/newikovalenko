@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Task Rocket Add To Cal\n"
+"POT-Creation-Date: 2016-11-07 14:39+0000\n"
+"PO-Revision-Date: 2017-04-05 17:43+0200\n"
+"Last-Translator: Eda <eda@chuwal.com>\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-add-to-cal.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "Es ist kein Changelog verfügbar."
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Auf Updates prüfen"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Das Plugin ist auf dem neusten Stand."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Für das Plugin ist eine neuere Version verfügbar."
+
+#: plugin-updates/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Update-Checker meldet unbekannten Status \"%s\""
+
+#: cal-links.php:31 cal-links.php:63
+msgid "Google Calendar"
+msgstr "Google Kalender"
+
+#: cal-links.php:33 cal-links.php:40 cal-links.php:47 cal-links.php:54
+msgid "Add to"
+msgstr "Hinzufügen zu"
+
+#: cal-links.php:38 cal-links.php:65
+msgid "Yahoo! Calendar"
+msgstr "Yahoo! Kalender"
+
+#: cal-links.php:45
+msgid "Microsoft Calendar"
+msgstr "Microsoft Kalender"
+
+#: cal-links.php:52
+msgid "iCal"
+msgstr "iCal"
+
+#: cal-links.php:54
+msgid "Outlook, Apple & other desktop calendars"
+msgstr "Outlook, Apple & andere Desktop-Kalender"
+
+#: cal-links.php:60
+msgid "Add this project to your calendar"
+msgstr "Dieses Projekt Ihrem Kalender hinzufügen"
+
+#: cal-links.php:60
+msgid "Add to Cal"
+msgstr "Add To Cal"
+
+#: cal-links.php:69
+msgid "iCal compatible"
+msgstr "iCal-kompatibel"
+
+#: options.php:1
+msgid "Add To Cal Settings"
+msgstr "Add To Cal-Einstellungen"
+
+#: options.php:8
+msgid ""
+"Add To Cal requires Task Rocket version 3 or higher, and you are running "
+"version:"
+msgstr ""
+"Add To Cal erfordert Task Rocket Version 3 oder höher. Sie verwenden Version:"
+
+#: options.php:11
+#, php-format
+msgid "<a href=\"%s\">Update Now</a>"
+msgstr "<a href=\"%s\">Jetzt updaten</a>"
+
+#: options.php:20
+msgid "Prefered calendar application"
+msgstr "Bevorzugte Kalender-Applikation"
+
+#: options.php:23
+msgid "Google Calendar (web)"
+msgstr "Google Kalender (Web)"
+
+#: options.php:24
+msgid "Yahoo Calendar (web)"
+msgstr "Yahoo! Kalender (Web)"
+
+#: options.php:25
+msgid "Microsoft Calendar (web)"
+msgstr "Microsoft Kalender (Web)"
+
+#: options.php:26
+msgid "iCal compatible desktop calendars (Outlook, Apple & others)"
+msgstr "iCal-kompatible Desktop-Kalender (Outlook, Apple u.a.)"
+
+#: options.php:27
+msgid "Let me choose on the front-end"
+msgstr "Auswahl im Frontend zulassen"
+
+#: options.php:30
+msgid ""
+"Which calendar application would you like the \"Add to\" button to use on "
+"the front-end"
+msgstr ""
+"Welcher Kalender-Applikation möchten Sie die \"Hinzufügen zu\"-Schaltfläche "
+"im Frontend zuweisen"
+
+#: options.php:32
+msgid "Help: Apps with iCal support"
+msgstr "Hilfe: Applikationen mit iCal-Unterstützung"
+
+#: options.php:41
+msgid "Show on all projects"
+msgstr "In allen Projekten anzeigen"
+
+#: options.php:44
+msgid ""
+"Show the button on all projects. If disabled, the button will only show on "
+"projects that have a due date."
+msgstr ""
+"Die Schaltfläche in allen Projekten anzeigen. Wenn deaktiviert, wird die "
+"Schaltfläche nur in Projekten mit einem Fälligkeitsdatum angezeigt."
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Add To Cal"
+msgstr "Task Rocket: Add To Cal"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/add-to-cal/"
+msgstr "https://taskrocket.info/add-to-cal/"
+
+#. Description of the plugin/theme
+msgid "Dedicated Add To Calendar functionality for Task Rocket"
+msgstr "Add To Cal-spezifische Funktionen für Task Rocket"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"Project-Id-Version: Task Rocket Clients\n"
+"POT-Creation-Date: 2016-09-30 12:20+0000\n"
+"PO-Revision-Date: 2016-09-30 12:22+0000\n"
+"Last-Translator: bastien <bastien.berenguier@gmail.com>\n"
+"Language-Team: French (France)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-clients.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Language: fr-FR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: "
+
+#: options.php:46
+msgid ""
+"Clients will be able to view the details of the project, including the "
+"project manager, description and additional information."
+msgstr ""
+"Les clients pourront voir les détails du projet, y compris le gestionnaire "
+"du projet, sa description et les informations additionnelles."
+
+#: options.php:133
+msgid "Display a message on the dashboard for all clients to see."
+msgstr "Afficher un message sur le tableau de bord à destination des clients."
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "Il n'y a pas de changelog disponible."
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Vérifier les mises à jour"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Ce plugin est à jour."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Une nouvelle version de ce plugin est disponible."
+
+#: plugin-updates/plugin-update-checker.php:811
+msgid "Unknown update checker status \"%s\""
+msgstr "Statut inconnu de mise à jour \"%s\""
+
+#: search.php:4 search.php:6
+msgid "Search"
+msgstr "Rechercher"
+
+#: client-access.php:1
+msgid "Allow"
+msgstr "Autoriser"
+
+#: client-access.php:8
+msgid "access to these projects"
+msgstr "l'accès à ces projets"
+
+#: dashboard.php:3
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: dashboard.php:5
+msgid "Hello"
+msgstr "Bonjour"
+
+#: dashboard.php:6
+msgid "The projects you are involved with are:"
+msgstr "Les projets dans lesquels vous êtes impliqués sont:"
+
+#: dashboard.php:62
+msgid "Project Manager"
+msgstr "Gestionnaire du projet:"
+
+#: mini-bar.php:3
+msgid "Edit my details"
+msgstr "Éditer mes informations"
+
+#: mini-bar.php:8
+msgid "My tasks"
+msgstr "Mes taches"
+
+#: mini-bar.php:9
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: mini-bar.php:9
+msgid "Home"
+msgstr "Accueil"
+
+#: mini-bar.php:15 top-bar.php:34
+msgid "Create a new task"
+msgstr "Créer une nouvelle tâche"
+
+#: mini-bar.php:15
+msgid "New task"
+msgstr "Nouvelle tâche"
+
+#: mini-bar.php:17 pages-nav.php:6
+msgid "Pages"
+msgstr "Pages"
+
+#: mini-bar.php:18
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: options.php:1
+msgid "Client Settings"
+msgstr "Paramètres du client"
+
+#: options.php:8
+msgid ""
+"Client Control requires Task Rocket version 3 or higher, and you are running "
+"version:"
+msgstr ""
+"Client Control requiert Task Rocket version 3 ou supérieure, et vous "
+"utilisez actuellement:"
+
+#: options.php:11
+msgid "<a href=\"%s\">Update Now</a>"
+msgstr "<a href=\"%s\">Mettez à jour maintenant</a>"
+
+#: options.php:20
+msgid "Let clients see other tasks"
+msgstr "Permettre aux clients de voir les autres tâches"
+
+#: options.php:22
+msgid ""
+"Clients will be able to see all tasks in a project, even those owned by "
+"other users. Private tasks are not shown."
+msgstr ""
+"Les clients pourront voir toutes les tâches dans un projet, même celles "
+"attribuées à d'autres utilisateurs. Les tâches privées ne seront pas "
+"affichées."
+
+#: options.php:28
+msgid "Let clients create tasks"
+msgstr "Permettre aux clients de créer des tâches"
+
+#: options.php:30
+msgid "Clients will be able to create tasks."
+msgstr "Les clients pourront créer des tâches"
+
+#: options.php:36
+msgid "Let clients add job numbers"
+msgstr "Permettre aux clients d'ajouter des numéros d'identification"
+
+#: options.php:38
+msgid ""
+"Clients will be able to add job numbers when creating tasks (only relevant "
+"if clients are allowed to create tasks)."
+msgstr ""
+"Les clients pourront ajouter des numéros d'identification quand ils créeront "
+"des tâches (pertinent seulement si les clients sont autorisés à créer des "
+"tâches)"
+
+#: options.php:44
+msgid "Let clients see project details"
+msgstr "Permettre aux clients de voir les détails du projet"
+
+#: options.php:52
+msgid "Let clients change the status of their own tasks"
+msgstr "Permettre aux clients de changer le statut de leurs  tâches attribuées"
+
+#: options.php:54
+msgid "Clients will be able to change the status of tasks that they own."
+msgstr ""
+"Les clients pourront changer le statut des tâches qui leur sont attribuées."
+
+#: options.php:59
+msgid "Let clients edit tasks"
+msgstr "Permettre aux clients de modifier des tâches"
+
+#: options.php:60
+msgid "Let clients edit their own tasks on the front-end."
+msgstr ""
+"Permettre aux clients de modifier les tâches qui leur sont attribuées sur le "
+"front-end"
+
+#: options.php:65
+msgid "Let clients attach files to tasks"
+msgstr "Permettre aux clients de joindre des fichiers aux tâches"
+
+#: options.php:67
+msgid "Clients will be able to attach files when creating new tasks."
+msgstr ""
+"Les clients pourront joindre des fichiers quand ils créeront de nouvelles "
+"tâches."
+
+#: options.php:73
+msgid "Let clients see attachments"
+msgstr "Permettre aux clients de voir les fichiers joints"
+
+#: options.php:75
+msgid "Clients will be able to view any files attached to tasks."
+msgstr "Les clients pourront voir les fichiers joints aux tâches."
+
+#: options.php:81
+msgid "Let clients comment"
+msgstr "Permettre aux clients de commenter"
+
+#: options.php:83
+msgid ""
+"Clients will be able to create new comments and respond to comments on tasks."
+msgstr ""
+"Les clients pourront commenter et répondre aux commentaires des tâches."
+
+#: options.php:89
+msgid "Let clients see the project time information"
+msgstr "Permettre aux clients de voir les informations horaires du projet"
+
+#: options.php:91
+msgid ""
+"Clients will be able to see how much time has been allocated, spent, "
+"remaining and the time frame for the project."
+msgstr ""
+"Les clients pourront voir combien de temps a été alloué, utilisé, reste et "
+"le planning du projet."
+
+#: options.php:97
+msgid "Let clients see project cost"
+msgstr "Permettre aux clients de voir le coût du projet"
+
+#: options.php:99
+msgid "Clients will be able to see the running cost of the project."
+msgstr "Les clients pourront voir le coût actuel du projet."
+
+#: options.php:105
+msgid "Let clients see task costs"
+msgstr "Permettre aux clients de voir les coûts des tâches"
+
+#: options.php:107
+msgid "Clients will be able to see the cost of each task."
+msgstr "Les clients pourront voir le coût de chaque tâche."
+
+#: options.php:113
+msgid "Let clients see time spent on tasks"
+msgstr "Permettre aux clients de voir le temps passé sur chaque tâche"
+
+#: options.php:115
+msgid ""
+"Clients will be able to see how much time has been spent on individual tasks."
+msgstr ""
+"Les clients pourront voir combien de temps a été passé sur chaque tâche."
+
+#: options.php:121
+msgid "Show project users"
+msgstr "Voir les membres du projet"
+
+#: options.php:123
+msgid ""
+"Clients will be able to see who is involved in the projects (only projects "
+"they have access to)."
+msgstr ""
+"Les clients pourront voir qui est impliqué dans les projets (seulement les "
+"projets auxquels ils ont accès)."
+
+#: options.php:129
+msgid "Dashboard message"
+msgstr "Message du tableau de bord"
+
+#: options.php:141
+msgid "Dashboard message background colour"
+msgstr "Couleur de fond du message du tableau de bord"
+
+#: options.php:143
+msgid "Red"
+msgstr "Rouge"
+
+#: options.php:144
+msgid "Blue"
+msgstr "Bleu"
+
+#: options.php:145
+msgid "Orange"
+msgstr "Orange"
+
+#: options.php:146
+msgid "Green"
+msgstr "Vert"
+
+#: taskrocket-clients.php:88
+msgid "Client Access"
+msgstr "Accès client"
+
+#: taskrocket-clients.php:103
+msgid "Let all clients view this page"
+msgstr "Permettre à tous les clients de voir cette page"
+
+#: top-bar.php:24
+msgid "Edit Task"
+msgstr "Modifier la tâche"
+
+#: top-bar.php:34
+msgid "Create new task for this project"
+msgstr "Créer une nouvelle tâche pour ce projet"
+
+#: top-bar.php:40
+msgid "SHow / Hide the Gantt Chart"
+msgstr "Afficher / Cacher le diagramme de Gantt"
+
+#: top-bar.php:44
+msgid "Simple task view"
+msgstr "Vue simple tâche"
+
+#: top-bar.php:48
+msgid "Show / Hide attachments"
+msgstr "Afficher / Cacher les fichiers joints"
+
+#: top-bar.php:52
+msgid "Download all attachments in this project"
+msgstr "Télécharger tous les fichiers joints de ce projet"
+
+#: top-bar.php:56
+msgid "Show / Hide users in Project"
+msgstr "Afficher / Cacher les membres du projet"
+
+#: top-bar.php:60
+msgid "Show / Hide Project Details"
+msgstr "Afficher / Cacher les détails du projet"
+
+#: top-bar.php:60
+msgid "Project Details"
+msgstr "Détails du projet"
+
+#: top-bar.php:66
+msgid "Message"
+msgstr "Message"
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Clients"
+msgstr "Task Rocket Clients"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/client-control/"
+msgstr "https://taskrocket.info/client-control/"
+
+#. Description of the plugin/theme
+msgid ""
+"Dedicated clients functionality for Task Rocket (requires at least Task "
+"Rocket 3.0)"
+msgstr ""
+"Fonctionnalité dédiée clients pour Task Rocket (requiert Task Rocket version "
+"3.0 ou supérieure)"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

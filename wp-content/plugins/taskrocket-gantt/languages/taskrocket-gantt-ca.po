@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Task Rocket Gantt\n"
+"POT-Creation-Date: 2016-07-29 09:53+0200\n"
+"PO-Revision-Date: 2016-07-29 09:53+0200\n"
+"Last-Translator: Oriol Carbonell <info@oriolcarbonell.cat>\n"
+"Language-Team: \n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-gantt.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: gantt/script.php:127
+msgid "Project manager"
+msgstr "Gestor del Projecte"
+
+#: gantt/script.php:127 gantt/script.php:256
+msgid "Start date"
+msgstr "Data inicial"
+
+#: gantt/script.php:127
+msgid "Due date"
+msgstr "Data de venciment"
+
+#: gantt/script.php:127
+msgid "Time allocated"
+msgstr "Temps assignat"
+
+#: gantt/script.php:127
+msgid "Time spent"
+msgstr "Temps dedicat"
+
+#: gantt/script.php:127
+msgid "hrs"
+msgstr "hrs"
+
+#: gantt/script.php:127
+msgid "mins"
+msgstr "mins"
+
+#: gantt/script.php:127 gantt/script.php:256
+msgid "Job #"
+msgstr "Treball #"
+
+#: gantt/script.php:230
+msgid "Incomplete"
+msgstr "Incomplet"
+
+#: gantt/script.php:233
+msgid "On hold"
+msgstr "A la espera"
+
+#: gantt/script.php:236
+msgid "In progress"
+msgstr "En progrés"
+
+#: gantt/script.php:239
+msgid "Complete"
+msgstr "Completat"
+
+#: gantt/script.php:256
+msgid "Owner"
+msgstr "Propirtàri"
+
+#: gantt/script.php:256
+msgid "End date"
+msgstr "Data final"
+
+#: gantt/script.php:256
+msgid "Priority"
+msgstr "Prioritat"
+
+#: gantt/script.php:256
+msgid "Status"
+msgstr "Estat"
+
+#: gantt/script.php:256
+msgid "Comments"
+msgstr "Comentaris"
+
+#: gantt/script.php:270
+msgid "Please wait"
+msgstr "Si us plau espera"
+
+#: options.php:1
+msgid "Gantt Settings"
+msgstr "Ajustos de Gantt"
+
+#: options.php:8
+msgid ""
+"Gantt requires Task Rocket version 4 or higher, and you are running version:"
+msgstr ""
+"Gantt requereix Task Rocke versió 4 o superior, i està executant la versió:"
+
+#: options.php:11
+#, php-format
+msgid "<a href=\"%s\">Update Now</a>"
+msgstr "<a href=\"%s\">Actualitza</a>"
+
+#: options.php:20
+msgid "Show the Gantt chart"
+msgstr "Mostra el diagrama de Gantt"
+
+#: options.php:23
+msgid ""
+"Show the Gantt chart at these locations. (Note: Items only show in Gantt "
+"charts if they have both start and end dates.)"
+msgstr ""
+"Mostra el diagrama de Gantt en aquests llocs. (Nota: només es mostren en els "
+"diagrames de Gantt, si existeix dates d'inici i finalització.)"
+
+#: options.php:26
+msgid "Dashboard"
+msgstr "Panell"
+
+#: options.php:30
+msgid "All Active Projects"
+msgstr "Tots els projectes actius"
+
+#: options.php:34
+msgid "Project (individual)"
+msgstr "Projecte (individual)"
+
+#: options.php:38
+msgid "Reports"
+msgstr "Informes"
+
+#: options.php:42
+msgid "Report (individual)"
+msgstr "Informe (individual)"
+
+#: options.php:46
+msgid "Client projects (only for projects they have access to)"
+msgstr "Projectes dels clients (només per a projectes que tenen accés)"
+
+#: options.php:53
+msgid "All projects view scale"
+msgstr "Tots els projectes veuen l'escala"
+
+#: options.php:56
+msgid ""
+"The initial overview scale when all projects are shown in the Gantt chart."
+msgstr ""
+"L'escala de la vista inicial quan apareixen tots els projectes en el "
+"diagrama de Gantt."
+
+#: options.php:59 options.php:75
+msgid "Hours"
+msgstr "Hores"
+
+#: options.php:60 options.php:76
+msgid "Days"
+msgstr "Dies"
+
+#: options.php:61 options.php:77
+msgid "Weeks"
+msgstr "Setmanes"
+
+#: options.php:62 options.php:78
+msgid "Months"
+msgstr "Mesos"
+
+#: options.php:69
+msgid "Individual projects view scale"
+msgstr "Vista dels projectes individuals"
+
+#: options.php:72
+msgid ""
+"The initial overview scale when viewing an individual project in the Gantt "
+"chart."
+msgstr ""
+"L'escala de la vista inicial quan es mostra un projecte individual en el "
+"diagrama de Gantt."
+
+#: options.php:85
+msgid "Hide completed tasks"
+msgstr "Amaga les tasques completades"
+
+#: options.php:88
+msgid "Do not show completed tasks in the Gantt chart."
+msgstr "No mostrar les tasques completades en el diagrama de Gantt."
+
+#: options.php:95
+msgid "Pagination"
+msgstr "Paginació"
+
+#: options.php:99
+msgid "How many items to show per vertical pagination."
+msgstr "Quants projectes s'han de mostrar?"
+
+#: options.php:106
+msgid "Navigation"
+msgstr "Navegació"
+
+#: options.php:109
+msgid "What type of navigation to use for the Gantt chart."
+msgstr "Quin tipus de navegació a utilitzar per al diagrama de Gantt."
+
+#: options.php:112
+msgid "Buttons"
+msgstr "Botons"
+
+#: options.php:113
+msgid "Slider"
+msgstr "Lliscador"
+
+#: options.php:120
+msgid "Scroll to today"
+msgstr "Desplaçar-se fins avui"
+
+#: options.php:123
+msgid "Automatically scroll the Gantt chart to the current day."
+msgstr "Desplaçar automàticament el diagrama de Gantt  al dia actual."
+
+#: options.php:130
+msgid "Show project description"
+msgstr "Mostra descripció del projecte"
+
+#: options.php:133
+msgid ""
+"When hovering over a Gantt item, show the project description if it has one."
+msgstr ""
+"En passar el cursor sobre un element de Gantt, mostrar la descripció del "
+"projecte, si la té."
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "No hi ha canvis disponibles."
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Comprova si hi ha actualitzacions"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Aquest plugin està actualitzat."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Hi ha una nova versió d'aquest plugin."
+
+#: plugin-updates/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Estatus de Comprovador d'actualització desconegut \"%s\""
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Gantt"
+msgstr "Task Rocket Gantt"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/gantt/"
+msgstr "https://taskrocket.info/gantt/"
+
+#. Description of the plugin/theme
+msgid "Gantt charts for Task Rocket (requires at least Task Rocket 4.0)"
+msgstr "Gantt charts for Task Rocket (requires at least Task Rocket 4.0)"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

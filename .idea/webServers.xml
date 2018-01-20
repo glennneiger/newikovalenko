@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c8edce5c-6c4b-40c5-87b4-104a70411316" name="ikovalenko.com" url="http://ikovalenko.com">
+        <fileTransfer host="ikovalenko.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

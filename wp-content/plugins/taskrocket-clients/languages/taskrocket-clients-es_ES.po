@@ -1,0 +1,328 @@
+#
+# Ramon Perez <raperez@bIzkaia.eu>, 2016.
+#
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Task Rocket Clients\n"
+"POT-Creation-Date: 2016-06-30 06:48+0800\n"
+"PO-Revision-Date: 2016-07-12 15:34+0200\n"
+"Language-Team: español <raperez@bizkaia.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 2.91.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-clients.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Ramon Perez <raperez@bIzkaia.eu>\n"
+"Language: en_GB\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: client-access.php:1
+msgid "Allow"
+msgstr "Permitir"
+
+#: client-access.php:8
+msgid "access to these projects"
+msgstr "acceso a estos proyectos"
+
+#: dashboard.php:3
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: dashboard.php:5
+msgid "Hello"
+msgstr "Hola"
+
+#: dashboard.php:6
+msgid "The projects you are involved with are:"
+msgstr "Proyectos en los que están involucrado:"
+
+#: dashboard.php:32
+msgid "Project Manager"
+msgstr "Gestor del Proyecto:"
+
+#: mini-bar.php:3
+msgid "Edit my details"
+msgstr "Edit mis detalles"
+
+#: mini-bar.php:8
+msgid "My tasks"
+msgstr "Mis tareas"
+
+#: mini-bar.php:9
+msgid "Dashboard"
+msgstr "Panel"
+
+#: mini-bar.php:9
+msgid "Home"
+msgstr "Home"
+
+#: mini-bar.php:15 top-bar.php:33
+msgid "Create a new task"
+msgstr "Crear nueva tarea"
+
+#: mini-bar.php:15
+msgid "New task"
+msgstr "Nueva tarea"
+
+#: mini-bar.php:17 pages-nav.php:6
+msgid "Pages"
+msgstr "Páginas"
+
+#: mini-bar.php:18
+msgid "Logout"
+msgstr "Salir"
+
+#: options.php:1
+msgid "Client Settings"
+msgstr "Configuración de Cliente"
+
+#: options.php:8
+msgid ""
+"Client Control requires Task Rocket version 3 or higher, and you are running "
+"version:"
+msgstr ""
+"Client Control necesita la versión 3 o superior de Task Rocket, y tienes la:"
+
+#: options.php:11
+#, php-format
+msgid "<a href=\"%s\">Update Now</a>"
+msgstr "<a href=\"%s\">Actualizar Ahora</a>"
+
+#: options.php:20
+msgid "Let clients see other tasks"
+msgstr "Permitir clientes ver otras tareas"
+
+#: options.php:22
+msgid ""
+"Clients will be able to see all tasks in a project, even those owned by "
+"other users. Private tasks are not shown."
+msgstr ""
+"Los Clientes podrán ver todas las tareas de un proyecto, incluso las "
+"asignadas a otros usuarios. Las tareas privadas no se muestran."
+
+#: options.php:28
+msgid "Let clients create tasks"
+msgstr "Permitir a los clientes crear tareas"
+
+#: options.php:30
+msgid "Clients will be able to create tasks."
+msgstr "Los Clientes podrán crear tareas."
+
+#: options.php:36
+msgid "Let clients add job numbers"
+msgstr "Permitir a los clientes añadir números de trabajo"
+
+#: options.php:38
+msgid ""
+"Clients will be able to add job numbers when creating tasks (only relevant "
+"if clients are allowed to create tasks)."
+msgstr ""
+"Los Clientes podrán añadir números de trabajo cuando crean tareas (sólo "
+"relevante si los clientes pueden crear tareas)."
+
+#: options.php:44
+msgid "Let clients see project details"
+msgstr "Permitir a los clientes ver los detalles del proyecto"
+
+#: options.php:46
+msgid ""
+"Clients will be able to view the details of the project, including the "
+"project manager, decsription and additonal information."
+msgstr ""
+"Los clientes podrán ver los detalles del proyecto, incluido el gestor del "
+"proyecto, descripción e información adicional."
+
+#: options.php:52
+msgid "Let clients change the status of their own tasks"
+msgstr "Permitir a los clientes cambiar el status de sus propias tareas."
+
+#: options.php:54
+msgid "Clients will be able to change the status of tasks that they own."
+msgstr ""
+"Los clientes podrán cambiar el status de las tareas de las que son "
+"propietarios."
+
+#: options.php:59
+msgid "Let clients edit tasks"
+msgstr "Permitir a los clientes editar tareas"
+
+#: options.php:60
+msgid "Let clients edit their own tasks on the front-end."
+msgstr "Permitir a los lcientes editar sus propias tareas en el front-end."
+
+#: options.php:65
+msgid "Let clients attach files to tasks"
+msgstr "Permitir a los clientes adjuntar ficheros a tareas"
+
+#: options.php:67
+msgid "Clients will be able to attach files when creating new tasks."
+msgstr "Los clientes podrán adjuntar ficheros cuando crean nuevas tareas."
+
+#: options.php:73
+msgid "Let clients see attachments"
+msgstr "Permitir a los clientes ver adjuntos"
+
+#: options.php:75
+msgid "Clients will be able to view any files attached to tasks."
+msgstr "Los clientes podrán ver cualquier fichero adjunto a tareas."
+
+#: options.php:81
+msgid "Let clients comment"
+msgstr "Permitir a los clientes comentar"
+
+#: options.php:83
+msgid ""
+"Clients will be able to create new comments and respond to comments on tasks."
+msgstr "Los clientes podrán crear nuevos comentarios y responderlos en tareas."
+
+#: options.php:89
+msgid "Let clients see the project time information"
+msgstr "Permitir que los clientes vean la información de tiempos del proyecto"
+
+#: options.php:91
+msgid ""
+"Clients will be able to see how much time has been allocated, spent, "
+"remaining and the time frame for the project."
+msgstr ""
+"Los clientes podrán ver el tiempo asignado, utlizado y pendiente para el "
+"proyecto."
+
+#: options.php:97
+msgid "Let clients see project cost"
+msgstr "Permitir a los clientes ver el coste del proyecto"
+
+#: options.php:99
+msgid "Clients will be able to see the running cost of the project."
+msgstr "Los Clientes podrán ver el coste de ejecución del proyecto."
+
+#: options.php:105
+msgid "Let clients see task costs"
+msgstr "Permitir a los clientes ver el coste de la tarea"
+
+#: options.php:107
+msgid "Clients will be able to see the cost of each task."
+msgstr "Los Clientes podrán ver el coste de cada tarea."
+
+#: options.php:113
+msgid "Let clients see time spent on tasks"
+msgstr "Permitir a los clientes ver el tiempo invertido en tareas"
+
+#: options.php:115
+msgid ""
+"Clients will be able to see how much time has been spent on individual tasks."
+msgstr ""
+"Los Clientes podrán ver cuanto tiempo se ha gastado en tareas individuales."
+
+#: options.php:121
+msgid "Show project users"
+msgstr "Mostrar usuarios del proyecto"
+
+#: options.php:123
+msgid ""
+"Clients will be able to see who is involved in the projects (only projects "
+"they have access to)."
+msgstr ""
+"Los Clientes podrán ver las personas asignadas en los proyectos (en los que "
+"tienen acceso)."
+
+#: options.php:129
+msgid "Dashboard message"
+msgstr "Panel de mensaje"
+
+#: options.php:133
+msgid "Display a message on the dashboard for clients."
+msgstr "Mostrar un mensaje en el panel para clientes."
+
+#: options.php:141
+msgid "Dashboard message background colour"
+msgstr "Color de fondo del panel de mensaje"
+
+#: options.php:143
+msgid "Red"
+msgstr "Rojo"
+
+#: options.php:144
+msgid "Blue"
+msgstr "Azul"
+
+#: options.php:145
+msgid "Orange"
+msgstr "Naranja"
+
+#: options.php:146
+msgid "Green"
+msgstr "Verde"
+
+#: taskrocket-clients.php:88
+msgid "Client Access"
+msgstr "Acceso de Cliente"
+
+#: taskrocket-clients.php:103
+msgid "Let all clients view this page"
+msgstr "Permitir a los clientes ver esta página"
+
+#: top-bar.php:24
+msgid "Edit Task"
+msgstr "Editar tarea"
+
+#: top-bar.php:33
+msgid "Create new task for this project"
+msgstr "Crear nueva tarea para este proyecto"
+
+#: top-bar.php:38
+msgid "SHow / Hide the Gantt Chart"
+msgstr "Mostrar/Ocultar el gráfico Gantt"
+
+#: top-bar.php:42
+msgid "Simple task view"
+msgstr "Visualización simple"
+
+#: top-bar.php:46
+msgid "Show / Hide attachments"
+msgstr "Mostrar/Ocultar adjuntos"
+
+#: top-bar.php:50
+msgid "Download all attachments in this project"
+msgstr "Descargar todos los adjuntos de este proyecto"
+
+#: top-bar.php:54
+msgid "Show / Hide users in Project"
+msgstr "Mostrar/Ocultar usuarios del Proyecto"
+
+#: top-bar.php:58
+msgid "Show / Hide Project Details"
+msgstr "Mostrar/Ocultar Detalles del Proyecto"
+
+#: top-bar.php:58
+msgid "Project Details"
+msgstr "Detalles del Proyecto"
+
+#: top-bar.php:64
+msgid "Message"
+msgstr "Mensaje"
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Clients"
+msgstr "Task Rocket Clientes"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/client-control/"
+msgstr "https://taskrocket.info/client-control/"
+
+#. Description of the plugin/theme
+msgid ""
+"Dedicated clients functionality for Task Rocket (requires at least Task "
+"Rocket 3.0)"
+msgstr ""
+"La funcionalidad específica de clientes requiere al menos Task Rocket 3.0 "
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

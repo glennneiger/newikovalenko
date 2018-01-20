@@ -1,0 +1,146 @@
+#
+# Ramon Perez <raperez@bIzkaia.eu>, 2016.
+#
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Task Rocket Task Groups\n"
+"POT-Creation-Date: 2016-06-30 06:49+0800\n"
+"PO-Revision-Date: 2016-07-13 16:38+0200\n"
+"Language-Team: español <raperez@bizkaia.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 2.91.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-task-groups.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Ramon Perez <raperez@bIzkaia.eu>\n"
+"Language: en_GB\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: groups.php:9
+msgid "Include tasks from this group"
+msgstr "Incluir tareas de este grupo"
+
+#: groups.php:29
+msgid "There are currently no task groups."
+msgstr "No hay grupos de tareas."
+
+#: taskrocket-task-groups.php:67
+msgid "Group Item"
+msgstr "Item de grupo"
+
+#: taskrocket-task-groups.php:68
+msgid "Task Groups"
+msgstr "Grupos de Tareas"
+
+#: taskrocket-task-groups.php:69
+msgid "Add Group Item"
+msgstr "Añdir Elemento de Grupo"
+
+#: taskrocket-task-groups.php:70
+msgid "Add Group or Group Item"
+msgstr "Añadir Grupo o Elemento de Grupo"
+
+#: taskrocket-task-groups.php:71
+msgid "Edit Group Item"
+msgstr "Editar Elemento de Grupo"
+
+#: taskrocket-task-groups.php:72
+msgid "New Group Item"
+msgstr "Nuevo Elemento de Grupo"
+
+#: taskrocket-task-groups.php:73
+msgid "Search Task Group Items"
+msgstr "Buscar Elementos de Grupo de Tarea"
+
+#: taskrocket-task-groups.php:74
+msgid "No Task Group Items found"
+msgstr "No se han encontrado elementos"
+
+#: taskrocket-task-groups.php:75
+msgid "No Task Group Items found in Trash."
+msgstr "NO se han encontrado elementos en la Papelera."
+
+#: taskrocket-task-groups.php:76
+msgid "All Task Group Items"
+msgstr "Todos los elementos"
+
+#: taskrocket-task-groups.php:103
+msgid "Task Owner"
+msgstr "Propietario de la Tarea"
+
+#: taskrocket-task-groups.php:119 taskrocket-task-groups.php:122
+msgid "Task Group item updated."
+msgstr "Elemento actualizado."
+
+#: taskrocket-task-groups.php:120
+msgid "Task Group updated."
+msgstr "Grupo de Tareas actualizado."
+
+#: taskrocket-task-groups.php:121
+msgid "Task Group deleted."
+msgstr "Grupo de Tareas borrado."
+
+#: taskrocket-task-groups.php:123
+#, php-format
+msgid "Task Group item restored to revision from %s"
+msgstr "Elemento de Grupo de Tareas restaurado para revisión desde %s"
+
+#: taskrocket-task-groups.php:124
+msgid "Task Group item published."
+msgstr "Elemento de Grupo de Tareas publicado."
+
+#: taskrocket-task-groups.php:125
+msgid "Task Group item saved."
+msgstr "Elemento de Grupo de Tareas grabado."
+
+#: taskrocket-task-groups.php:126
+msgid "Task Group item submitted."
+msgstr "Elemento de Grupo de Tareas enviado."
+
+#: taskrocket-task-groups.php:128
+#, php-format
+msgid "Task Group item scheduled for: %1$s."
+msgstr "Elemento de Grupo de Tareas planificado para:%1$s."
+
+#: taskrocket-task-groups.php:129
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: taskrocket-task-groups.php:131
+msgid "Task Group item draft updated."
+msgstr "Elemento borrador de Grupo de Tareas actualizado."
+
+#: taskrocket-task-groups.php:142
+msgid "Task group or task name"
+msgstr "Grupo de tareas o nombre de tarea"
+
+#: taskrocket-task-groups.php:173 taskrocket-task-groups.php:175
+msgid "Nobody (no owner)"
+msgstr "Nadie(sin propietario)"
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Task Groups"
+msgstr "Task Rocket Grupos de Tareas"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/task-groups/"
+msgstr "https://taskrocket.info/task-groups/"
+
+#. Description of the plugin/theme
+msgid ""
+"Create pre-set groups of tasks that can be applied to new projects (requires "
+"at least Task Rocket 3)"
+msgstr ""
+"Crear grupos preasignados de tareas que pueden ser aplicadas en nuevos "
+"proyectos (requiere Task Rocket 3)"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

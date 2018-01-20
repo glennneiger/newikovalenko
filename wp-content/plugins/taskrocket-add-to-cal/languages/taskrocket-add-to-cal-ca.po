@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Task Rocket Add To Cal\n"
+"POT-Creation-Date: 2016-07-15 12:10+0200\n"
+"PO-Revision-Date: 2016-07-15 12:18+0200\n"
+"Language-Team: eina.io <info@eina.io>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-add-to-cal.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Oriol Carbonell <info@oriolcarbonell.cat>\n"
+"Language: ca\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: cal-links.php:31 cal-links.php:63
+msgid "Google Calendar"
+msgstr "Google Calendar"
+
+#: cal-links.php:33 cal-links.php:40 cal-links.php:47 cal-links.php:54
+msgid "Add to"
+msgstr "Afegir a"
+
+#: cal-links.php:38 cal-links.php:65
+msgid "Yahoo! Calendar"
+msgstr "Yahoo! Calendar"
+
+#: cal-links.php:45
+msgid "Microsoft Calendar"
+msgstr "Microsoft Calendar"
+
+#: cal-links.php:52
+msgid "iCal"
+msgstr "iCal"
+
+#: cal-links.php:54
+msgid "Outlook, Apple & other desktop calendars"
+msgstr "Outlook, Apple i altres calendaris d'escriptori"
+
+#: cal-links.php:60
+msgid "Add this project to your calendar"
+msgstr "Afegir aquest projecte al teu calendari"
+
+#: cal-links.php:60
+msgid "Add to Cal"
+msgstr "Afegir a Cal"
+
+#: cal-links.php:69
+msgid "iCal compatible"
+msgstr "compatible amb iCal"
+
+#: options.php:1
+msgid "Add To Cal Settings"
+msgstr "Afegir a la configuració de Cal"
+
+#: options.php:8
+msgid ""
+"Add To Cal requires Task Rocket version 3 or higher, and you are running "
+"version:"
+msgstr ""
+"Afegir a Cal requereix de Tasck Rocket versió 3 o superior, i està "
+"executant la versió:"
+
+#: options.php:11
+#, php-format
+msgid "<a href=\"%s\">Update Now</a>"
+msgstr "<a href=\"%s\">Actualitza</a>"
+
+#: options.php:20
+msgid "Prefered calendar application"
+msgstr "Aplicació de calendari preferida"
+
+#: options.php:23
+msgid "Google Calendar (web)"
+msgstr "Google Calendar (web)"
+
+#: options.php:24
+msgid "Yahoo Calendar (web)"
+msgstr "Yahoo Calendar (web)"
+
+#: options.php:25
+msgid "Microsoft Calendar (web)"
+msgstr "Microsoft Calendar (web)"
+
+#: options.php:26
+msgid "iCal compatible desktop calendars (Outlook, Apple & others)"
+msgstr "iCal calendaris d'escriptori compatibles (Outlook, Apple i altres)"
+
+#: options.php:27
+msgid "Let me choose on the front-end"
+msgstr "Deixa'm triar-ho al front-end"
+
+#: options.php:30
+msgid ""
+"Which calendar application would you like the \"Add to\" button to use on "
+"the front-end"
+msgstr ""
+"Quina aplicació de calendari t'agradaria \"Agregar\" per utilitzar com a "
+"botó en el front-end"
+
+#: options.php:32
+msgid "Help: Apps with iCal support"
+msgstr "Ajuda: Aplicacions amb el suport iCal"
+
+#: options.php:41
+msgid "Show on all projects"
+msgstr "Mostra en tots els projectes"
+
+#: options.php:44
+msgid ""
+"Show the button on all projects. If disabled, the button will only show on "
+"projects that have a due date."
+msgstr ""
+"Mostra el botó en tots els projectes. Si està desactivat, el botó només es "
+"mostrarà en projectes que tenen una data de venciment."
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Add To Cal"
+msgstr "Task Rocket Add To Cal"
+
+#. Plugin URI of the plugin/theme
+msgid "http://taskrocket.info/add-to-cal/"
+msgstr "http://taskrocket.info/add-to-cal/"
+
+#. Description of the plugin/theme
+msgid "Dedicated Add To Calendar functionality for Task Rocket"
+msgstr "Add To Calendar funcionalitat per Task Rocket"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

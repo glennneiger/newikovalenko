@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: Task Rocket Add To Cal\n"
+"POT-Creation-Date: 2016-12-06 12:22-0200\n"
+"PO-Revision-Date: 2016-12-06 12:24-0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-add-to-cal.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: cal-links.php:31 cal-links.php:63
+msgid "Google Calendar"
+msgstr "Calendário Google"
+
+#: cal-links.php:33 cal-links.php:40 cal-links.php:47 cal-links.php:54
+msgid "Add to"
+msgstr "Adicionar para"
+
+#: cal-links.php:38 cal-links.php:65
+msgid "Yahoo! Calendar"
+msgstr "Calendário Yahoo!"
+
+#: cal-links.php:45
+msgid "Microsoft Calendar"
+msgstr "Calendário Microsoft"
+
+#: cal-links.php:52
+msgid "iCal"
+msgstr "iCal"
+
+#: cal-links.php:54
+msgid "Outlook, Apple & other desktop calendars"
+msgstr "Outlook, Apple e outros calendários desktop"
+
+#: cal-links.php:60
+msgid "Add this project to your calendar"
+msgstr "Adicionar esse projeto no seu calendário"
+
+#: cal-links.php:60
+msgid "Add to Cal"
+msgstr "Adicionar no Cal"
+
+#: cal-links.php:69
+msgid "iCal compatible"
+msgstr "iCal compativel"
+
+#: options.php:1
+msgid "Add To Cal Settings"
+msgstr "Adicionar nas configurações do calendário"
+
+#: options.php:8
+msgid ""
+"Add To Cal requires Task Rocket version 3 or higher, and you are running "
+"version:"
+msgstr ""
+"Add To Cal requer Task Rocket versão 3 ou superior, e você está executando"
+
+#: options.php:11
+#, php-format
+msgid "<a href=\"%s\">Update Now</a>"
+msgstr "<a href=\\”%s\\”>Atualizar agora</a>"
+
+#: options.php:20
+msgid "Prefered calendar application"
+msgstr "Aplicação de calendário preferida"
+
+#: options.php:23
+msgid "Google Calendar (web)"
+msgstr "Calendário web Google"
+
+#: options.php:24
+msgid "Yahoo Calendar (web)"
+msgstr "Calendário web Yahoo"
+
+#: options.php:25
+msgid "Microsoft Calendar (web)"
+msgstr "Calendário web Microsoft"
+
+#: options.php:26
+msgid "iCal compatible desktop calendars (Outlook, Apple & others)"
+msgstr "iCal compatível com calendários desktop (Outlook, Apple e outros)"
+
+#: options.php:27
+msgid "Let me choose on the front-end"
+msgstr "Me deixe escolhe no front-end"
+
+#: options.php:30
+msgid ""
+"Which calendar application would you like the \"Add to\" button to use on "
+"the front-end"
+msgstr ""
+"Qual aplicativo de calendário você gostaria que o botão  “Adicionar a “ "
+"para usar no seu front-end"
+
+#: options.php:32
+msgid "Help: Apps with iCal support"
+msgstr "Ajuda: Apps com suporte iCal"
+
+#: options.php:41
+msgid "Show on all projects"
+msgstr "Mostrar todos os projetos"
+
+#: options.php:44
+msgid ""
+"Show the button on all projects. If disabled, the button will only show on "
+"projects that have a due date."
+msgstr ""
+"Mostre o botão em todos os projetos. Se desabilitado, o botão só será "
+"exibido em projectos que têm uma data de vencimento."
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "Não existe log de alterações disponível"
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Verificar se há atualizações"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Este plugin está atualizado."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Uma nova versão do plugin está disponível."
+
+#: plugin-updates/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Status de verificação de atualização desconhecido “%s”"
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Add To Cal"
+msgstr "Task Rocket Add To Cal"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/add-to-cal/"
+msgstr "https://taskrocket.info/add-to-cal/"
+
+#. Description of the plugin/theme
+msgid "Dedicated Add To Calendar functionality for Task Rocket"
+msgstr "Dedicated Add To Calendar functionality for Task Rocket"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"

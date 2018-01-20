@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Task Rocket Clients\n"
+"POT-Creation-Date: 2016-07-29 09:49+0200\n"
+"PO-Revision-Date: 2016-07-29 09:50+0200\n"
+"Last-Translator: Oriol Carbonell <info@oriolcarbonell.cat>\n"
+"Language-Team: eina.io <info@eina.io>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: taskrocket-clients.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: client-access.php:1
+msgid "Allow"
+msgstr "Permetre"
+
+#: client-access.php:8
+msgid "access to these projects"
+msgstr "accés a aquests projectes"
+
+#: dashboard.php:3
+msgid "Welcome"
+msgstr "Benvingut"
+
+#: dashboard.php:5
+msgid "Hello"
+msgstr "Hola"
+
+#: dashboard.php:6
+msgid "The projects you are involved with are:"
+msgstr "Els projectes amb els que estàs involucrat són:"
+
+#: dashboard.php:32
+msgid "Project Manager"
+msgstr "Gestor del Projecte"
+
+#: mini-bar.php:3
+msgid "Edit my details"
+msgstr "Editar mis detalles"
+
+#: mini-bar.php:8
+msgid "My tasks"
+msgstr "Les meves tasques"
+
+#: mini-bar.php:9
+msgid "Dashboard"
+msgstr "Panell"
+
+#: mini-bar.php:9
+msgid "Home"
+msgstr "Inici"
+
+#: mini-bar.php:15 top-bar.php:33
+msgid "Create a new task"
+msgstr "Crear una nova tasca"
+
+#: mini-bar.php:15
+msgid "New task"
+msgstr "Nova tasca"
+
+#: mini-bar.php:17 pages-nav.php:6
+msgid "Pages"
+msgstr "Pàgines"
+
+#: mini-bar.php:18
+msgid "Logout"
+msgstr "Sortir"
+
+#: options.php:1
+msgid "Client Settings"
+msgstr "Configuració del client"
+
+#: options.php:8
+msgid ""
+"Client Control requires Task Rocket version 3 or higher, and you are running "
+"version:"
+msgstr ""
+"Control de client requereix de Task Rocket versió 3 o superior, i està "
+"executant la versió:"
+
+#: options.php:11
+#, php-format
+msgid "<a href=\"%s\">Update Now</a>"
+msgstr "<a href=\"%s\">Actualitza</a>"
+
+#: options.php:20
+msgid "Let clients see other tasks"
+msgstr "Permetreque els clients vegin altres tasques"
+
+#: options.php:22
+msgid ""
+"Clients will be able to see all tasks in a project, even those owned by "
+"other users. Private tasks are not shown."
+msgstr ""
+"Els clients podràn veure totes les tasques en un projecte, fins i tot "
+"aquells que pertanyen a altres usuaris. Les tasques privades no es mostren."
+
+#: options.php:28
+msgid "Let clients create tasks"
+msgstr "Permetre als clients crear tasques"
+
+#: options.php:30
+msgid "Clients will be able to create tasks."
+msgstr "Els clients podràn crear tasques."
+
+#: options.php:36
+msgid "Let clients add job numbers"
+msgstr "Permetre que els clients posin número a les feines"
+
+#: options.php:38
+msgid ""
+"Clients will be able to add job numbers when creating tasks (only relevant "
+"if clients are allowed to create tasks)."
+msgstr ""
+"Els clients podran afegir números de treball en crear tasques (només és "
+"rellevant si es permet als clients per crear tasques)."
+
+#: options.php:44
+msgid "Let clients see project details"
+msgstr "Permetran als clients veure els detalls del projecte"
+
+#: options.php:46
+msgid ""
+"Clients will be able to view the details of the project, including the "
+"project manager, description and additional information."
+msgstr ""
+"Els clients podran veure els detalls del projecte, entre ells el gestor del "
+"projecte, descripció i informació addicional."
+
+#: options.php:52
+msgid "Let clients change the status of their own tasks"
+msgstr "Permetre que els clients canviïn l'estat de les seves tasques"
+
+#: options.php:54
+msgid "Clients will be able to change the status of tasks that they own."
+msgstr "Els clients podran canviar l'estat de les tasques que els pertanyen."
+
+#: options.php:59
+msgid "Let clients edit tasks"
+msgstr "Permetre als clients editin tasques"
+
+#: options.php:60
+msgid "Let clients edit their own tasks on the front-end."
+msgstr "Permetre als clients editar les seves pròpies tasques en el front-end."
+
+#: options.php:65
+msgid "Let clients attach files to tasks"
+msgstr "Permetre als clients adjuntar arxius a les tasques"
+
+#: options.php:67
+msgid "Clients will be able to attach files when creating new tasks."
+msgstr "Els clients podran adjuntar arxius quan creïn noves tasques."
+
+#: options.php:73
+msgid "Let clients see attachments"
+msgstr "Permetran als clients veure els fitxers adjunts"
+
+#: options.php:75
+msgid "Clients will be able to view any files attached to tasks."
+msgstr "Els clients podran veure els fitxers adjunts a les tasques."
+
+#: options.php:81
+msgid "Let clients comment"
+msgstr "Permetre als clients comententar"
+
+#: options.php:83
+msgid ""
+"Clients will be able to create new comments and respond to comments on tasks."
+msgstr ""
+"Els clients seran capaços de crear nous comentaris i respondre als "
+"comentaris sobre les tasques."
+
+#: options.php:89
+msgid "Let clients see the project time information"
+msgstr "Permetran als clients veure la informació d'estimació de temps"
+
+#: options.php:91
+msgid ""
+"Clients will be able to see how much time has been allocated, spent, "
+"remaining and the time frame for the project."
+msgstr ""
+"Els clients podran veure quant temps ha estat assignat, dedicat i el que "
+"resta en el marc de temps per al projecte."
+
+#: options.php:97
+msgid "Let clients see project cost"
+msgstr "Permetre que els clients veure el cost del projecte"
+
+#: options.php:99
+msgid "Clients will be able to see the running cost of the project."
+msgstr "Els clients podran veure el cost de funcionament del projecte."
+
+#: options.php:105
+msgid "Let clients see task costs"
+msgstr "Permetran als clients veure els costos de tasques"
+
+#: options.php:107
+msgid "Clients will be able to see the cost of each task."
+msgstr "Els clients podran veure el cost de cada tasca."
+
+#: options.php:113
+msgid "Let clients see time spent on tasks"
+msgstr "Permetre que els clients veure el temps dedicat a les tasques"
+
+#: options.php:115
+msgid ""
+"Clients will be able to see how much time has been spent on individual tasks."
+msgstr ""
+"Els clients podran veure quant temps s'ha dedicat a les tasques individuals."
+
+#: options.php:121
+msgid "Show project users"
+msgstr "Mostra els usuaris del projecte"
+
+#: options.php:123
+msgid ""
+"Clients will be able to see who is involved in the projects (only projects "
+"they have access to)."
+msgstr ""
+"Els clients seran capaços de veure qui està involucrat en els projectes "
+"(només projectes que tinguin accés)."
+
+#: options.php:129
+msgid "Dashboard message"
+msgstr "Panell de missatges"
+
+#: options.php:133
+msgid "Display a message on the dashboard for all clients to see."
+msgstr "Mostra un missatge en el panell de control per a tots els clients."
+
+#: options.php:141
+msgid "Dashboard message background colour"
+msgstr "Color de fons del panell de missatge"
+
+#: options.php:143
+msgid "Red"
+msgstr "Vermell"
+
+#: options.php:144
+msgid "Blue"
+msgstr "Blau"
+
+#: options.php:145
+msgid "Orange"
+msgstr "Taronja"
+
+#: options.php:146
+msgid "Green"
+msgstr "Verd"
+
+#: plugin-updates/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "No hi ha canvis disponibles."
+
+#: plugin-updates/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Comprova si hi ha actualitzacions"
+
+#: plugin-updates/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Aquest plugin està actualitzat."
+
+#: plugin-updates/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Hi ha una nova versió d'aquest plugin."
+
+#: plugin-updates/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Estatus de Comprovador d'actualització desconegut \"%s\""
+
+#: taskrocket-clients.php:88
+msgid "Client Access"
+msgstr "Accés de clients"
+
+#: taskrocket-clients.php:103
+msgid "Let all clients view this page"
+msgstr "Deixar que tots els clients vegin aquesta pàgina"
+
+#: top-bar.php:24
+msgid "Edit Task"
+msgstr "Edita la tasca"
+
+#: top-bar.php:33
+msgid "Create new task for this project"
+msgstr "Crear nova tasca per a aquest projecte"
+
+#: top-bar.php:38
+msgid "SHow / Hide the Gantt Chart"
+msgstr "Mostra / Amaga el diagrama de Gantt"
+
+#: top-bar.php:42
+msgid "Simple task view"
+msgstr "Vista simple de la tasca"
+
+#: top-bar.php:46
+msgid "Show / Hide attachments"
+msgstr "Mostrar/Ocultar adjunts"
+
+#: top-bar.php:50
+msgid "Download all attachments in this project"
+msgstr "Descarregar tots els arxius adjunts en aquest projecte"
+
+#: top-bar.php:54
+msgid "Show / Hide users in Project"
+msgstr "Mostrar / Ocultar usuaris en el projecte"
+
+#: top-bar.php:58
+msgid "Show / Hide Project Details"
+msgstr "Mostrar / Ocultar detalls del projecte"
+
+#: top-bar.php:58
+msgid "Project Details"
+msgstr "Detalls del projecte"
+
+#: top-bar.php:64
+msgid "Message"
+msgstr "Missatge"
+
+#. Plugin Name of the plugin/theme
+msgid "Task Rocket Clients"
+msgstr "Task Rocket Clients"
+
+#. Plugin URI of the plugin/theme
+msgid "https://taskrocket.info/client-control/"
+msgstr "https://taskrocket.info/client-control/"
+
+#. Description of the plugin/theme
+msgid ""
+"Dedicated clients functionality for Task Rocket (requires at least Task "
+"Rocket 3.0)"
+msgstr ""
+"Funcionalitat per a clients de Task Rocket (requereix almenys de tasques "
+"Rocket 3.0)"
+
+#. Author of the plugin/theme
+msgid "Michael Ott"
+msgstr "Michael Ott"
